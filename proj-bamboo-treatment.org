@@ -1,0 +1,277 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Bamboo Treatment
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :Name: /home/deerpig/proj/chenla/primer/proj-bamboo-treatment.org
+  :Created: 2017-03-20T14:32@Prek Leap (11.642600N-104.919210W)
+  :ID:   f0fc8791-df7d-4c52-b859-a8340d17a0e9
+  :PREV: 57d8e183-9e3b-47d8-b3d0-70a1992b5f5e
+  :URL:
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+
+* Status of This Document
+:PROPERTIES:
+:ID:       
+:END:
+
+The latest version of this document is: src_sh[:results value]{git describe --abbrev=0 --tags}
+
+#+HTML: <div class="notice notice-info">
+*Changes since the last version*
+
+#+HTML: <ul>
+
+#+BEGIN_SRC sh :exports results :results value html :var TAG="v00.01.02"
+  RES='git log $TAG...HEAD --pretty="<li>%s</li>\n" -- (file-name-nondirectory (buffer-file-name))'
+  if [ -z $RES ]; then
+    RES="<li>no changes</li>"
+  fi
+  echo $RES
+#+END_SRC
+
+#+RESULTS:
+#+BEGIN_EXPORT html
+<li>no changes</li>
+#+END_EXPORT
+
+#+HTML: </ul>
+#+HTML: </div>
+
+* Introduction
+
+
+* Guilds
+
+There are two kinds of guilds,  are often defined as an association of
+people working toward a common goal.
+
+----
+
+A guild is a mesh of mutual dependencies and obligations -- guilds are
+how we transcend the limitations of ourselves as individuals -- they
+are what turns a group of parts into a holon
+
+A holon is the structure -- the guild are the bonds that bind things
+together into holons.[fn:1]
+
+This principle should apply to everything -- structure and the bonds
+that hold them together -- that's the thing I think is missing from
+directed graphs -- it's all about the structure not the bonds that bind
+the structures.  It's not enough to wave your hands and say "ah,
+relationships" "as many as you want", as if they were gyros on
+Blaylock's Elfin Ship.
+
+
+So what are bonds?  a process?  as in the process of one thing
+becoming something else?  which means a link is transformative --
+the act of linking changes what is linked, becoming something else...
+
+the mental model I always had of directed graphs is static atoms with
+links pointing to other atoms, when in fact each link transforms both
+atoms on each side of the graph to become something greater than what
+it was before -- the total becoming more than the sum of its parts
+
+why the fuck hasn't anyone explained it that way before?  it's obvious
+as soon as you see it.
+
+    relationships are verbs not adjectives/predicates
+ 
+a RDF statement is defined as a 3-tuple (triple) consisting of:
+
+   - subject:= the node the statement/edge starts at
+   - predicate := a semantically important label for for the
+     statement/edge
+   - object := the node that the statement/edge terminates at
+
+
+** Professional Guilds
+
+At their best Guilds played an important role in maintaining quality
+and professional standards, safe guarded knowledge, organized supply
+tool chains and were responsible for passing knowledge and skills from
+generation to generation.
+
+At their worst through many checkered centuries , guilds exercised
+rent seeking, monoplies, political influence, and even murder.
+
+
+Guilds were, in some cases the prototypes for and the nucleous of
+Universities such as Oxford and Paris.
+
+
+
+#+begin_quote
+The guild was made up by experienced and confirmed experts in their
+field of handicraft. They were called master craftsmen. Before a new
+employee could rise to the level of mastery, he had to go through a
+schooling period during which he was first called an apprentice. After
+this period he could rise to the level of journeyman. Apprentices
+would typically not learn more than the most basic techniques until
+they were trusted by their peers to keep the guild's or company's
+secrets.
+
+Like journey, the distance that could be travelled in a day, the title
+'journeyman' derives from the French words for 'day' (jour and
+journée) from which came the middle English word journei. Journeymen
+were able to work for other masters, unlike apprentices, and generally
+paid by the day and were thus day labourers. After being employed by a
+master for several years, and after producing a qualifying piece of
+work, the apprentice was granted the rank of journeyman and was given
+documents (letters or certificates from his master and/or the guild
+itself) which certified him as a journeyman and entitled him to travel
+to other towns and countries to learn the art from other
+masters. These journeys could span large parts of Europe and were an
+unofficial way of communicating new methods and techniques, though by
+no means all journeymen made such travels — they were most common in
+Germany and Italy, and in other countries journeymen from small cities
+would often visit the capital.
+
+After this journey and several years of experience, a journeyman could
+be received as master craftsman, though in some guilds this step could
+be made straight from apprentice. This would typically require the
+approval of all masters of a guild, a donation of money and other
+goods (often omitted for sons of existing members), and the production
+of a so-called "masterpiece,' which would illustrate the abilities of
+the aspiring master craftsman; this was often retained by the
+guild.
+
+-- [[https://en.wikipedia.org/wiki/Guild][Guild]] | Wikipedia
+#+end_quote
+
+A lot of the problem with Guilds is that they had few if any checks
+and balances outside their organization.
+
+This needs to be addressed first within their charters, second within
+the organization of the guilds themselves, and finally from outside of
+the organization.
+
+Some ideas:
+
+  - all guild knowledge must be placed in the public domain under free
+    licences that protect it from monologies.
+  - guilds should have no representation in civil governance beyond an
+    advisory roles.
+  - rent seeking is strictly prohibitive, though revenue can be
+    generated to cover costs of the organization.
+  - membership is open to anyone.
+  - guilds can not own property or companies.
+  - guilds must depend on each other.
+
+Further, guilds will responsible for scholarly and research into their
+knolwedge domain -- they will work with researchers and scientists to
+apply new findings to refine and extend the state of the art -- I
+would guess that a lot of pure research will sponsored by guilds.
+
+Guilds are holons -- they are self-contained wholes and parts of a
+larger whole.
+
+Guilds overlap, and there will be any number of instances of
+individuals belonging to more than one guild...
+
+** Crop Guilds
+
+A crop Guild is a grouping of plants, trees, animals, insects, and
+other components that work together to mimic aspects of ecosystems.
+
+
+
+
+* Bamboo Guild
+
+The idea here is to create a bamboo guild with many different shops
+working together to produce things from bamboo in a given bioregion.
+
+  - [[http://bamboocentral.org/index1.htm][EBF-Environmental Bamboo Foundation]] |  Bali, Indonesia
+  - [[https://everythingsbamboo.com/bamboo/bamboo-treatment/][Bamboo Treatment]] | Everything's Bamboo
+  - [[https://www.guaduabamboo.com/][Guadua Bamboo]]
+  - https://www.guaduabamboo.com/bamboo-pdfs/
+
+** Products
+
+  - Building material
+    - raw
+    - laminate timber
+    - plywood
+  - Paper
+  - Fuel
+    - charcoal
+    - chips (gasification fuel
+  - Food
+  - Manufactured
+    - furniture
+    - buildings
+    - bridges
+
+** Species
+
+The five main species for building with bamboo in Indonesia are:
+
+   - Dendrocalamus asper
+     - [[https://en.wikipedia.org/wiki/Dendrocalamus_asper][Dendrocalamus asper]]    | Wikipedia
+     - [[https://www.guaduabamboo.com/species/?tag=Dendrocalamus+asper][Dendrocalamus asper]]    | Guadua Bamboo
+   - Gigantochloa atter
+     - [[https://en.wikipedia.org/wiki/Gigantochloa_atter][Gigantochloa atter]]     | Wikipedia
+     - [[https://www.guaduabamboo.com/species/?tag=Gigantochloa+atter][Gigantochloa atter]]     | Guadua Bamboo
+   - Dendrocalamus strictus
+     - [[https://en.wikipedia.org/wiki/Dendrocalamus_strictus][Dendrocalamus strictus]] | Wikipedia
+     - [[https://www.guaduabamboo.com/species/?tag=Dendrocalamus+strictus][Dendrocalamus strictus]] | Guadua Bamboo
+   - Gigantochloa apus
+     - [[https://en.wikipedia.org/wiki/Gigantochloa][Gigantochloa]]           | Wikipedia
+     - [[https://www.guaduabamboo.com/species/gigantochloa-apus][Gigantochloa apus]]      | Guadua Bamboo
+   - Guadua angustifolia
+     - [[https://en.wikipedia.org/wiki/Guadua_angustifolia][Guadua angustifolia]]    | Wikipedia
+*** Nan Bamboos Thailand
+
+  - Dendrocalamus giganteus
+    - [[https://en.wikipedia.org/wiki/Dendrocalamus_giganteus][Dendrocalamus giganteus]]  | Wikipedia
+    - [[https://www.guaduabamboo.com/species/dendrocalamus-giganteus][Dendrocalamus giganteus]]  | Guadua Bamboo
+    - [[https://www.youtube.com/watch?v=uBApCRE95C4][Giant Bamboo Biggest in Thailand]] | YouTube
+
+** Treatment
+
+   - [[https://www.youtube.com/watch?v=GRc3TxL1sn8][Guadua Bamboo Harvest and Treatment Process]] | YouTube
+
+ - Vertical Infusion Method
+ - Bouchrie Method
+   - [[https://en.wikipedia.org/wiki/Wood_preservation#Boucherie_process][Boucherie process]] | Wikipedia
+** Equipment
+
+ - [[http://www.garnetindia.com/][Garnet India]] | Bamboo Processing Equipment
+ - [[https://www.youtube.com/watch?v=fpn0QZvvazs][Bamboo Universal Machine]] | YouTube
+ - [[http://www.garnetindia.com/262_Uni_wdwrkg.html][262 Universal Woodworking Bamboo Application Machine]] | Garnet India
+   garnetindia@gmail.com 
+   info@garnetindia.com
+
+ - [[http://www.core77.com/posts/8982/bamboo-part-i-how-do-they-make-it-into-boards-8982][Bamboo, Part I: How do they make it into boards?]] | Core77
+ 
+
+** Poles
+** Chipping (fuel)
+** Plywood
+
+  - [[http://intectural.com/material/plyboo/][Plyboo – Bamboo Plywood Building Material]] | Intectural
+  - [[https://www.bambooimport.com/en/blog/how-is-bamboo-lumber-made][How is Bamboo Lumber Made?]]
+
+Soybased adhesives
+
+* Footnotes
+
+[fn:1] This is one of this insights that make this whole effort
+worthwhile.  You spend decades hitting your head against the wall and
+then boom, you get these little treats -- like a fucking intellectual
+slot machine, giving you just enough money to keep going, from not
+giving up, from not thinking about how much you've lost to get where
+you are, and how impossibly far there is still to go...
