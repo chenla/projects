@@ -50,6 +50,7 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 Based on Joel Salatin's Egg Mobile.
 
-
+ - [[https://en.wikipedia.org/wiki/Joel_Salatin][Joel Salatin]] | Wikipedia
  - [[http://permaculturenews.org/2010/09/03/how-to-make-an-egg-mobile/][How to Make an Egg Mobile]] | The Permaculture Research Institute
-
+ - [[https://www.milkwood.net/2013/01/03/enter-the-egg-mobile-start-with-what-youve-got/][Enter the egg mobile (start with what you've got)]] | Milkwood
+ - 
