@@ -48,3 +48,8 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Introduction
 
+Based on Joel Salatin's Egg Mobile.
+
+
+ - [[http://permaculturenews.org/2010/09/03/how-to-make-an-egg-mobile/][How to Make an Egg Mobile]] | The Permaculture Research Institute
+
