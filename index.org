@@ -59,7 +59,7 @@ githubchart -u deerpig ./img/contrib.svg
 * Index
 
 ** Poultry
- - Egg Mobile
+ - [[./proj-egg-mobile.org][Egg Mobile]]
  - Chicken Tractor
 ** Bamboo
  - [[proj-bamboo-treatment.org][Bamboo Treatment]]
