@@ -115,7 +115,7 @@ innovate as quickly, let alone fast enough to keep ahead of these
 problems long enough to get through the next several hundred years.
 
 Clearly, what this means is that we will need to find a way of making
-each of member of that smaller, stable population to be orders of
+each member of that smaller, stable population to be orders of
 magnitude more cognitively productive than we do now.
 
 There are a number of different ways this can happen, or more
@@ -140,4 +140,21 @@ accurately, we will need combination of different things:
        it allows us to move heavy industry and the pollution that is 
        the driver of climate change to places where it won't matter. 
        Space can't be more toxic and dangerous than it already is.
+
+And at the heart of all of this -- the fundemental building block for
+all of this to happen, or not, is for us to find a way of making
+assertations, evaluating them and coming to a consensus about their
+validity.
+
+We need this as individuals trying to cope with information overload.
+We need this as families, as companies, as governments.  It needs to
+be foundational utility as ubiquitious as tap water and electricity.
+
+These assertions, once vertified, and evaluated become facts, facts
+that will be used to power our self driving cars, shopping,
+manufacturing, commerce, banking and currency, government, education,
+agriculture and science.
+
+
+
 
