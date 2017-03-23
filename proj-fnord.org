@@ -171,3 +171,29 @@ facts?
    - both generated dynamically and composed -- 
    - transparent & trustless -- 
    - both machine and human readable -- 
+
+
+Before we can design a platform that can do all of this and more, we
+need to be a bit more clear about the atomic unit behind the /fact/
+network.  And the first thing we have to let go of is the idea of a
+fact.  Let's take for an example two assertions that we can reasonably
+claim to be facts about the poet Emily Dickinson:
+
+   - Emily Dickinson was born on December 10, 1830.
+   - Emily Dickinson died on May 15, 1886.
+
+So today you can say that Emily Dickinson is dead. But that would not
+be true in 1831, and wouldn't be true until 1886.  Truth is no
+eternal, it depends on LOD and POV that provide context that makes the
+assertion true or false.
+
+There is another class of truth and falsity as well, it must be within
+what is possible -- there has to be a causal chain in which that
+assertion could be true.  This is important in order for us to limit
+facts to scenarios that can happen, no matter how improbable.  This
+makes is possible to construct a map from the territory of all
+scenarios because which is infinite.  Limiting assertions to what is
+possible, even if that is as fine-grained as binary quantum events,
+the number of possible combinations is not infinite.  And this applies
+to fictional uiverses as well -- that facts can be established in any
+internally consistent universe, be it real or imagined.
