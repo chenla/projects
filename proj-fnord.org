@@ -113,3 +113,31 @@ the stability that we have enjoyed over the past hundreds of years.
 The problem is that we won't have the population to be able to
 innovate as quickly, let alone fast enough to keep ahead of these
 problems long enough to get through the next several hundred years.
+
+Clearly, what this means is that we will need to find a way of making
+each of member of that smaller, stable population to be orders of
+magnitude more cognitively productive than we do now.
+
+There are a number of different ways this can happen, or more
+accurately, we will need combination of different things:
+
+  - cognitive surplus :: clay shirky -- need to harness a larger
+       percentage of our population to innovate and put the cognitive
+       surplus that now is spent on time sinks like Facebook to
+       actually do things that improve our ability to survive -- not
+       just wallow in a glut of products from the present
+       manufacturing surplus.
+  - cognitive extension :: AI is about extending our neocortex, AI is
+       us and we are AI.
+  - extending muscle :: in a nutshell, robotics 
+  - expansion :: it will be impossible to do if mankind is confined to
+       this planet, we need to become a solar speicies and
+       civilization -- innovation requires new places to
+       expand into.  That's what the moon, mars and the belt
+       are about.  if we don't expand we die, it's that
+       simple.  Expansion gives us breathing room, it gives us places
+       to let all of the smart AI driven robots to exploit resources
+       it allows us to move heavy industry and the pollution that is 
+       the driver of climate change to places where it won't matter. 
+       Space can't be more toxic and dangerous than it already is.
+
