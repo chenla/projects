@@ -212,3 +212,14 @@ multi-billion dollar companies that can be based on this platform
 
 the scale we are talking about is in the same magnitude as the entire
 world wide web -- it is that big.
+
+actually it will be larger -- because every contract, every software
+application, every ride in a taxi, every hair drier, coffee machine,
+fridge (as well as everything in it), every jumbo jet, every
+government budget, or company audit, civil or criminal court case,
+every piece of land and kilowat of electricity consumed, every door
+opened, or thermostat set will have fnords associated with them.
+
+fnords have the potential of being the glue that holds our
+civilization together, a trustless ubiquitious meta institution that
+makes our survival possible. 
