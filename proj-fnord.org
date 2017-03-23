@@ -152,9 +152,22 @@ be foundational utility as ubiquitious as tap water and electricity.
 
 These assertions, once vertified, and evaluated become facts, facts
 that will be used to power our self driving cars, shopping,
-manufacturing, commerce, banking and currency, government, education,
-agriculture and science.
+manufacturing, commerce, banking and currency, politics and
+government, healthcare, education, agriculture and science.
 
+So what are the functional requirements for this global network of
+facts? 
 
-
-
+   - scalable -- must work on the smallest scales up to the largest,
+     from kilobytes to exabytes and larger.
+   - geographically scalable -- must work publically across whole
+     solar system as well as being intimately personal and private.
+   - temporally scalable -- designed to work over very short and
+     survive very long time scales
+   - distributed & federated -- no one owns it, no one and everyone
+     controls it.
+   - everyone participates -- no walled gardens
+   - everyone has access -- no walled gardens
+   - both generated dynamically and composed -- 
+   - transparent & trustless -- 
+   - both machine and human readable -- 
