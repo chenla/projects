@@ -48,3 +48,13 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Introduction
 
+The bitcoin block chain is about establishing facts, but a very narrow
+type of truth; the assertion that a piece of information has been
+transfered between two parties, that constitutes a digital transaction.
+
+But there are many different types of assertions that can not be
+determined to be true or not that require a number of different
+approaches.  In effect we need a toolbox of different tools that can
+be used in different combinations to do this.
+
+Why is this important?
