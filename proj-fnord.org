@@ -187,6 +187,8 @@ be true in 1831, and wouldn't be true until 1886.  Truth is no
 eternal, it depends on LOD and POV that provide context that makes the
 assertion true or false.
 
+** Possible Causal Chains
+
 There is another class of truth and falsity as well, it must be within
 what is possible -- there has to be a causal chain in which that
 assertion could be true.  This is important in order for us to limit
@@ -198,8 +200,25 @@ the number of possible combinations is not infinite.  And this applies
 to fictional universes as well -- that facts can be established in any
 internally consistent universe, be it real or imagined.
 
+** Assertions are not enough
 
-         now talk about fnords....
+Simply making an assertion does not make it true.  Given
+that an assertion must be possible... Assertions can be true
+or false.  They can also be more or less certain and more or
+less probable.  And because all of these things are at least
+in part dependent on establishing a causal-chain, and
+surrounding context of when an assertion is made, or
+observed, we need a term that embodies all of this at the
+same time.
+
+We will call such assertions a /fnord/.  Fnords are a
+probability cloud of all possible states of an assertion, so
+that the assertion may be true or false, probable or
+improbable, certain and uncertain all at the same tie until
+it has been observed.  When it is observed it becomes one of
+those states.  But it might have a different state when
+observed in a different context.
+
 
 
 ** is this a viable business?
