@@ -245,8 +245,29 @@ such assumed knowledge changes over time.  And again,
 machines are not privy to that shared knowledge.  So
 undefined labels and assertions are only of limited use.
 
-
 ** Homoiconigraphy
+
+One of the problems with encoding assertions as data, is
+that they can't embody the range of possibilities that are
+needed to encode a fnord -- fnords, by definition can not be
+static, because they depend on an observer.  Recorded data
+is not able to dynamically change according the LOD and POV
+of the observer when observing a fnord.  For this we need
+executable code.  This is very similar to our own brains, we
+don't remember things like a camera, we recreate memories
+which change over time as new memories are added.  This
+gives the brain a very flexible means of making and
+assessing fnords.  Something that has been recorded on paper
+or in a photograph can't do that, they are snapshots, frozen
+moments that are, by definition, no longer true the second
+that they have been recorded because the surrounding context
+has changed.  In other words, fnords have a dual nature,
+that can be seen as data when observed one way, and as code
+when observed in another.  The equivilance of code and data
+is called homoiconigraphy.
+
+The neo-cortex can be thought of as a graph-database that
+is as much code as it is data.
 
 
 ** is this a viable business?
