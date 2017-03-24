@@ -271,12 +271,6 @@ is as much code as it is data.
 
 ** A Collection of Fnords is a Holon
 
-
-
-Fnords are quite powerful and useful concepts.  But they are
-simply the atomic unit of something even more powerful, the
-holon.
-
 The context of every fnord depends on the relationships that
 link fnords together.  As we have said, collections of
 assertions that are linked together by their relationships
@@ -293,6 +287,27 @@ but when looking at it from the outside looking in, it is
 seen to be part of a larger whole.
 
     examples
+
+** Holons are made up of Fnords Which Are Holons
+
+Fnords are the ultimate building blocks of holons.  But it
+is also true that when a holon is observed as a whole it can
+be understood as a fnord, and then each part of every holon
+can be seen as both fnord and holon.  So in effect, fnords
+are a different way of looking at holons and vice versa.  
+
+The holon was meant to reconcile holism with atomism.
+
+The fnord is meant to reconcile truth and falsehood and
+recognize that they are both parts of a continuum, rather
+than binary states.  But it's important that it's clear that
+this /not/ the same thing as relativism.  The fnord is about
+establishing and making reproducible empirical
+observations.  Facts are facts.  But until a fact is
+observed, it is a fnord and doesn't resolve itself into a
+fact or other state until it has been observed.
+
+
 
 
 
