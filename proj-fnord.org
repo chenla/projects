@@ -324,7 +324,16 @@ bodies.  In that sense this is simply a means of
 transcending the limits of our neo-cortex and physical
 senses and muscle both individually and collectively.
 
-
+And what does the neo-cortex do with all of the sensory
+data, that is subjected to hierarchical pattern matching?
+In a word, models.  Both individuals and groups are
+constantly constructing and maintaining mental models that
+are our best guess of what the world is, outside of our
+brains.  It's a messy business, modeling, because it is
+almost as much conjecture, filling in the unknowns with
+best-guesses and assumptions based on prior experience as it
+is fact.  The better the model we construct, the more
+successful we are.
 
 
 
