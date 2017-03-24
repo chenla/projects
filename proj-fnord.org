@@ -308,6 +308,23 @@ observed, it is a fnord and doesn't resolve itself into a
 fact or other state until it has been observed.
 
 
+** What can we do with Holons and Fnords?
+
+Fnords and Holons are both real concrete things in the
+world, but the information that describes them, and some
+scientists like John Wheeler have argued that everything is
+ultimately made up of information.
+
+For us, humans, fnords and holons are a way that our brains
+collect and process sensory information and make sense of
+them.  We have been externalizing memory, cognition and
+muscle using every more sophisticated technologies.  That's
+what a tool is an externalization that extends our minds and
+bodies.  In that sense this is simply a means of
+transcending the limits of our neo-cortex and physical
+senses and muscle both individually and collectively.
+
+
 
 
 
