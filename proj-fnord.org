@@ -269,6 +269,32 @@ is called homoiconigraphy.
 The neo-cortex can be thought of as a graph-database that
 is as much code as it is data.
 
+** A Collection of Fnords is a Holon
+
+
+
+Fnords are quite powerful and useful concepts.  But they are
+simply the atomic unit of something even more powerful, the
+holon.
+
+The context of every fnord depends on the relationships that
+link fnords together.  As we have said, collections of
+assertions that are linked together by their relationships
+to one another creates a graph database.  But just as the
+fnord is a far more powerful model for assertions, we need
+something more powerful for our graph databases.  We already
+have this in the concept of the holon.
+
+The term holon was coined by Arthur Koestler in his book
+/Ghost in the Machine/.  A holon is an entity that has a
+dual nature as well.  When looking at a holon from the
+inside looking out, it appears to be an independent whole,
+but when looking at it from the outside looking in, it is
+seen to be part of a larger whole.
+
+    examples
+
+
 
 ** is this a viable business?
 
