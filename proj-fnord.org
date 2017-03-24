@@ -219,6 +219,34 @@ it has been observed.  When it is observed it becomes one of
 those states.  But it might have a different state when
 observed in a different context.
 
+** Graphs need fnords
+
+An RDF triple, with a subject, object and predicate is an
+assertion.  If you take a bunch of these assertions and link
+them together you get a graph database.  Graph databases are
+very powerful ways of creating models of data.  But in the
+end each triple is an assertion that may or may not be
+possible or true or how certain it might be.
+
+In fact, in RDF, just as is true in XML (HTML is an instance
+of XML), everything is a string.  Element names are strings,
+they have no defined, or established meaning.  In HTML <p>
+is the paragraph element.  But there is nothing in HTML that
+establishes what a paragraph is.  Even schema languages
+can't tell us what <strong> or <em> or <h1> is.  This is
+only explained using a prose definition in the HTML
+specification which is not machine understandable.  This is
+far more problematic than it might seem at first glance.
+
+The <p> element makes a cultural assumption that the concept
+of a paragraph is understood by everyone.  Such assumed
+knowledge is needed for communication to be possible.  But
+such assumed knowledge changes over time.  And again,
+machines are not privy to that shared knowledge.  So
+undefined labels and assertions are only of limited use.
+
+
+** Homoiconigraphy
 
 
 ** is this a viable business?
