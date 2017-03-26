@@ -53,140 +53,6 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 * Introduction
 
 
-* Guilds
-
-There are two kinds of guilds,  are often defined as an association of
-people working toward a common goal.
-
-----
-
-A guild is a mesh of mutual dependencies and obligations -- guilds are
-how we transcend the limitations of ourselves as individuals -- they
-are what turns a group of parts into a holon
-
-A holon is the structure -- the guild are the bonds that bind things
-together into holons.[fn:1]
-
-This principle should apply to everything -- structure and the bonds
-that hold them together -- that's the thing I think is missing from
-directed graphs -- it's all about the structure not the bonds that bind
-the structures.  It's not enough to wave your hands and say "ah,
-relationships" "as many as you want", as if they were gyros on
-Blaylock's Elfin Ship.
-
-
-So what are bonds?  a process?  as in the process of one thing
-becoming something else?  which means a link is transformative --
-the act of linking changes what is linked, becoming something else...
-
-the mental model I always had of directed graphs is static atoms with
-links pointing to other atoms, when in fact each link transforms both
-atoms on each side of the graph to become something greater than what
-it was before -- the total becoming more than the sum of its parts
-
-why the fuck hasn't anyone explained it that way before?  it's obvious
-as soon as you see it.
-
-    relationships are verbs not adjectives/predicates
- 
-a RDF statement is defined as a 3-tuple (triple) consisting of:
-
-   - subject:= the node the statement/edge starts at
-   - predicate := a semantically important label for for the
-     statement/edge
-   - object := the node that the statement/edge terminates at
-
-
-** Professional Guilds
-
-At their best Guilds played an important role in maintaining quality
-and professional standards, safe guarded knowledge, organized supply
-tool chains and were responsible for passing knowledge and skills from
-generation to generation.
-
-At their worst through many checkered centuries , guilds exercised
-rent seeking, monoplies, political influence, and even murder.
-
-
-Guilds were, in some cases the prototypes for and the nucleous of
-Universities such as Oxford and Paris.
-
-
-
-#+begin_quote
-The guild was made up by experienced and confirmed experts in their
-field of handicraft. They were called master craftsmen. Before a new
-employee could rise to the level of mastery, he had to go through a
-schooling period during which he was first called an apprentice. After
-this period he could rise to the level of journeyman. Apprentices
-would typically not learn more than the most basic techniques until
-they were trusted by their peers to keep the guild's or company's
-secrets.
-
-Like journey, the distance that could be travelled in a day, the title
-'journeyman' derives from the French words for 'day' (jour and
-journée) from which came the middle English word journei. Journeymen
-were able to work for other masters, unlike apprentices, and generally
-paid by the day and were thus day labourers. After being employed by a
-master for several years, and after producing a qualifying piece of
-work, the apprentice was granted the rank of journeyman and was given
-documents (letters or certificates from his master and/or the guild
-itself) which certified him as a journeyman and entitled him to travel
-to other towns and countries to learn the art from other
-masters. These journeys could span large parts of Europe and were an
-unofficial way of communicating new methods and techniques, though by
-no means all journeymen made such travels — they were most common in
-Germany and Italy, and in other countries journeymen from small cities
-would often visit the capital.
-
-After this journey and several years of experience, a journeyman could
-be received as master craftsman, though in some guilds this step could
-be made straight from apprentice. This would typically require the
-approval of all masters of a guild, a donation of money and other
-goods (often omitted for sons of existing members), and the production
-of a so-called "masterpiece,' which would illustrate the abilities of
-the aspiring master craftsman; this was often retained by the
-guild.
-
--- [[https://en.wikipedia.org/wiki/Guild][Guild]] | Wikipedia
-#+end_quote
-
-A lot of the problem with Guilds is that they had few if any checks
-and balances outside their organization.
-
-This needs to be addressed first within their charters, second within
-the organization of the guilds themselves, and finally from outside of
-the organization.
-
-Some ideas:
-
-  - all guild knowledge must be placed in the public domain under free
-    licences that protect it from monologies.
-  - guilds should have no representation in civil governance beyond an
-    advisory roles.
-  - rent seeking is strictly prohibitive, though revenue can be
-    generated to cover costs of the organization.
-  - membership is open to anyone.
-  - guilds can not own property or companies.
-  - guilds must depend on each other.
-
-Further, guilds will responsible for scholarly and research into their
-knolwedge domain -- they will work with researchers and scientists to
-apply new findings to refine and extend the state of the art -- I
-would guess that a lot of pure research will sponsored by guilds.
-
-Guilds are holons -- they are self-contained wholes and parts of a
-larger whole.
-
-Guilds overlap, and there will be any number of instances of
-individuals belonging to more than one guild...
-
-** Crop Guilds
-
-A crop Guild is a grouping of plants, trees, animals, insects, and
-other components that work together to mimic aspects of ecosystems.
-
-
 
 
 * Bamboo Guild
@@ -242,7 +108,7 @@ The five main species for building with bamboo in Indonesia are:
 
 ** Treatment
 
-   - [[https://www.youtube.com/watch?v=GRc3TxL1sn8][Guadua Bamboo Harvest and Treatment Process]] | YouTube
+ - [[https://www.youtube.com/watch?v=GRc3TxL1sn8][Guadua Bamboo Harvest and Treatment Process]] | YouTube
 
  - Vertical Infusion Method
  - Bouchrie Method
@@ -257,7 +123,6 @@ The five main species for building with bamboo in Indonesia are:
 
  - [[http://www.core77.com/posts/8982/bamboo-part-i-how-do-they-make-it-into-boards-8982][Bamboo, Part I: How do they make it into boards?]] | Core77
  
-
 ** Poles
 ** Chipping (fuel)
 ** Plywood
