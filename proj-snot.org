@@ -194,16 +194,16 @@ of a life's work or not.
 
 Newton said of his Calculus that if anyone had spent as much time as
 he had thinking about these things they would have come up with it as
-well.  This is very true, because Liebnitz, formulated the Calculus at
-the same time as Newton.  Newton ended up getting the credit, though
-it was Liebnitz's notation that was adopted over Newton's.  But it
-should be noted that Newton dedicated as much of his astonishing
-intellect to the pursuit of alchemy as to calculus or classical
-mechanics.  Time spent thinking about something does not ensure
-success, or if the results are accepted as a step forward or a
-dismissed as a crackpot dead end.  At the end of the day I can only
-take solace that I heeded Richard Hamming's admonishment that, "if you
-don't work on important problems, you can't do important work."
+well.  This is very true, Liebnitz formulated the Calculus at the same
+time as Newton.  Newton ended up getting the credit, though it was
+Liebnitz's notation that was adopted over Newton's.  But it should be
+noted that Newton dedicated as much of his astonishing intellect to
+the pursuit of alchemy as to calculus or physics and mechanics.  Time
+spent thinking about something does not ensure success, or if the
+results are accepted as a step forward or dismissed as a crackpot dead
+end.  At the end of the day I can only take solace that I heeded
+Richard Hamming's admonishment that, "if you don't work on important
+problems, you can't do important work."
 
 We will be introducing a whole fruit salad of new terms, including
 Fnords, SNOT, Horcruxes & Hoards, Brambles, Topicspaces, & Burrs,
