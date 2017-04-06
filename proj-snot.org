@@ -81,4 +81,51 @@ centralized things even more.  This is why the PC, Internet and Mobile
 Revolutions are all bundled together.
 
 The next bundled revolutions are now within a few years of hitting
-similar tipping points, AI and Robotics.
+similar tipping points, AI and Robotics.  As Kevin Kelly laid out in
+his book, /The Inevitable/, there are directions that technology is
+taking us that short of very sudden end of the world events, will
+happen not matter what else happens.  But the specific form they will
+take can not be known.  AI and Robotics could very well end up
+effectively being in completely control by the existing big players.
+That would be a lousy outcome, but it is certainly possible.
+
+More likely, the pent up energy and frustration that the present
+centralization is creating will blow things up again and move
+everything to the edges.  If that happens, a lot of very interesting
+things could happen quite rapidly.  But we're getting ahead of
+ourselves here.  The reason that I believe that things will blow up is
+that the centralized power structures we have in place today rely on
+something that has not changed much in centuries -- middlemen.  Big
+centralized power structures rely on middlemen to stay in power.  Like
+an aircraft carrier group -- the carrier can not survive without a
+hundred or more smaller ships, submarines, aircraft which all have
+their own supply and support infrastructure to keep that carrier afloat.
+
+There have been no end to science fiction stories that show worlds
+that are completely controlled by a single government or a handful of
+corporations.  But none of these are convincing for the simple reason
+that it is all of the supporting players that provide the a buffer
+between the mega-organizations and the very messy world they dominate.
+Mega-anything does not do complexity.  Complex systems are not
+predictable, they are chaotic, they are beyond complete control.  So
+any mega-something will hit very real limits on growth when they push
+up against complexity barriers.  It's the smaller companies and
+networks and support systems that are there as a disposable beach head
+that keeps the mothership humming away and pouring out widgets to the
+masses.
+
+It is only when the slow mothership is no longer able to maintain that
+beach head, that things fall apart and they are broken up and things
+move back to the edges.  It is my belief that this is what we see over
+the next 5-10 years.  Google may have built a fucking huge dike, but
+they only have so many fingers to stick in all of the cracks that are
+forming before they run out of fingers.
+
+
+
+
+
+ - materials science
+ - energy
+ - biotech (genetics and biotech)
+ - transactions
