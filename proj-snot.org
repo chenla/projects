@@ -110,8 +110,8 @@ Mega-anything does not do complexity.  Complex systems are not
 predictable, they are chaotic, they are beyond complete control.  So
 any mega-something will hit very real limits on growth when they push
 up against complexity barriers.  It's the smaller companies and
-networks and support systems that are there as a disposable beach head
-that keeps the mothership humming away and pouring out widgets to the
+networks and support systems that form a disposable beach head that
+keeps the mothership humming away and pouring out widgets to the
 masses.
 
 It is only when the slow mothership is no longer able to maintain that
@@ -121,11 +121,35 @@ the next 5-10 years.  Google may have built a fucking huge dike, but
 they only have so many fingers to stick in all of the cracks that are
 forming before they run out of fingers.
 
+* The Middle Man is Doomed
 
+The first computers and robots were and often still are, human.  Add
+AI an robotics to a global cloud and network and most of the tasks
+that were handled by human computers and robots will vanish.
 
+In most cases, people think of this in terms of specific job
+catagories.  Bus, truck and taxi drivers will be replaced by
+autonomous vehicles.  Burger flippers in fast food restaurants, and
+cashiers in Walmart will be replaced.  The last vestiges of assembly
+line jobs, mining and host of other jobs -- gone.  But in most cases
+they are computer and robot jobs that are still being done by humans.
+It will hurt, but in a generation or so things will adjust.
 
+What no one is talking about is that there is a vast area of other
+jobs that people don't think of as being computer or robotic, which
+will vanish as well.  These are the middle men and once the blue
+collar jobs are gone, so will the jobs that blue collar workers have
+been able to move up to.  A carpenter might loose his (since before
+Jesus, carpentry as been a male dominated profession) job but if they
+are bright and work hard and have a bit of luck he can become a
+contractor and move up to a better standard of living.  A
+multi-generational clothing retailer who was put out of business by
+big box stores might be able to leverage their contacts and skills in
+buying and importing textile goods to become an importer/exporter.
 
- - materials science
- - energy
- - biotech (genetics and biotech)
- - transactions
+But when all is said and done, the entire middle, all of it, are
+ultimately little more than computers and robots.  All of that goes
+away.  And when it goes away, so do the floatila that keeps the
+monster motherships afloat.
+
+   supply chain --> production --> logistics --> consumer
