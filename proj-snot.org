@@ -1,5 +1,5 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE:  SNOT (Sneaker Net of Things)
+#+TITLE:  SNOT (SneakerNet of Things)
 #+STARTUP: showall
 #+PROPERTY: filename
   :PROPERTIES:
@@ -21,4 +21,43 @@
 #+TOC: headlines 4
 
 * Introduction
+
+
+* SNOT (SneakerNet of Things)
+
+The IOT (Internet of Things) has been getting a lot of attention of
+late, but it's not where things are going, the way that most people
+think.  Most people think of the IOT as smoke detectors, fridges and
+thermostats being connected to the Internet, doing things on our
+behalf and spewing out information.  That's not a bad description of
+what IOT is today, but it is based on assumptions of a lot of other
+things that are true today staying true.
+
+First, IOT will be the biggest spewage of information on the Net.
+Devices talking to devices and computers in the cloud will dwarf the
+number of human interactions with machines.  This too is true, but
+it's only just the beginning.  We still assume that supply chains,
+manufacturing, payment and logistics stay relatively the same as they
+are now.  That is, big companys dominating the entire chain and being
+responsible for building millions of identical copies of branded mass
+market devices and other goods.
+
+Human innovation has followed a cycle of innovation that when widely
+adopted breaks up centralized systems which are slow and no longer
+able to meet what is demanded of them.  Power shifts from the center
+to the edges -- whatever technology it is, starts at the edges, breaks
+up centralized systems and for a while the power moves to the edges as
+well.  That works for a while until people figure out how to leverage
+the disruptive technology to gain an advantage of others on the edge,
+and a few players end up getting larger and larger and move to the
+center where they eventually control everything and we are back to a
+centralized power structure again.  That is, until the next
+innovation comes along to blow them up as well.
+
+We are now at a point of unimaginable centralization.  You can now
+almost count on one hand (if your hand is human and has not suffered
+the loss of any digits) the number of companies who now control the
+vast majority of the Internet.  There are more telcos, but only
+because nation states still put a damper on multi-nationals owning
+telecommunication infrastructure on the ground.
 
