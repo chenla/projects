@@ -152,4 +152,33 @@ ultimately little more than computers and robots.  All of that goes
 away.  And when it goes away, so do the floatila that keeps the
 monster motherships afloat.
 
-   supply chain --> production --> logistics --> consumer
+The linear lock-step of: supply chain --> production --> logistics -->
+consumer could well shatter.
+
+This is not at first obvious, because we have been led to believe that
+large companies will always have an advantage because only large
+organizations can take advantage of economies of scale.
+
+If you cut out the middle men, and leverage networking, computation,
+AI and robots to automate at small scales, and then cut out the middle
+men who take a larger cut out of small transactions and logistics than
+transactions and logistics at scale then we have a cloud of suppliers
+and producers leveraging an automated, distributed (possibly
+federated) network that does all the stuff that the middle men used to
+do and take their cut in the process and make the small supplier and
+producer as cost effective as the mothership, but far more flexible,
+and closer to the end user.  Flexible cloud networks, if large enough
+can remove all of the competitive advantages of centralized systems.
+
+It remains to be seen if cutting out the middle men will result in
+wealth moving to the small suppliers and producers or if other schemes
+will emerge to consolidate things in ways that can't be forseen.  But
+there is a window to at least, for a while turn the tide and build a
+better life for people that will restore at least the chance to build
+viable lives for whole families and communities.  None of this is
+certain and the rest of this book will outline how this might happen.
+
+This is a starting point, just before a tipping point that will
+massively disrupt everything, that we can work towards.  It is up to
+us to make the aftermath of the revolution that is starting to be
+better than what we've had until now.
