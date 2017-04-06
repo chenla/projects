@@ -184,10 +184,26 @@ better than what we've had until now.
 
 This is a work that has been decades in the making, that I am now so
 immersed in that it's hard for me to understand how wide a net I've
-cast and how deep a grave I've dug for myself.
+cast and how deep a grave I've dug for myself.  I passed the point
+where I could have turned back a long time ago.
 
-To bring everyone up to speed, so that they can determine for
-themselves if these ideas have merit or not will take some time.
+It will take some time to bring everyone up to speed, so that they can
+determine for themselves if these ideas have merit or not.  I will
+leave it up to the reader to determine if this was an endeavor worthy
+of a life's work or not.
+
+Newton said of his Calculus that if anyone had spent as much time as
+he had thinking about these things they would have come up with it as
+well.  This is very true, because Liebnitz, formulated the Calculus at
+the same time as Newton.  Newton ended up getting the credit, though
+it was Liebnitz's notation that was adopted over Newton's.  But it
+should be noted that Newton dedicated as much of his astonishing
+intellect to the pursuit of alchemy as to calculus or classical
+mechanics.  Time spent thinking about something does not ensure
+success, or if the results are accepted as a step forward or a
+crackpot dead end.  At the end of the day I can only take solace that
+I followed Richard Hamming's admonishment that, "if you don't work on
+important problems, you can't do important work."
 
 We will be introducing a whole fruit salad of new terms, including
 Fnords, SNOT, Horcruxes & Hoards, Brambles, Topicspaces, & Burrs,
@@ -195,8 +211,9 @@ Cascading Rules Sets, Duck & Canary Tests along side many terms that
 will be unfamiliar to many including Holons, Level of Detail, Point of
 View, & Rate of Change, Homoiconography, the medieval Trivium &
 Quadrivium, Process Philosophy, Pattern Languages, Living Centers,
-Polyculture, Bioregions, Identity & Roles, Shearing & Pace Layers and
-the Long Now & Short Here.
+Polyculture, Bioregions, Identity & Roles, Bento & Tiffin Boxes,
+Dabbawallahs, Shearing & Pace Layers and at the center of it all the
+Long Now & Short Here.
 
 
 
