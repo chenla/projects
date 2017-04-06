@@ -61,3 +61,24 @@ vast majority of the Internet.  There are more telcos, but only
 because nation states still put a damper on multi-nationals owning
 telecommunication infrastructure on the ground.
 
+There is no single /next/ technology that will be responsible for the
+next great breakup and scattering to the edges.  Computers and
+networking got us to where we are today -- out to the edges, with the
+PC revolution that quickly centralized with Microsoft at the center
+(and Apple caught between worlds) and then networking, which displaced
+Microsoft and led to Google, Amazon, Alibaba, Facebook and an another
+handful of players who are not in the golden circle but are still in
+the game.  This not not linear, revolutions, like the future, are not
+evenly distributed.  Then Apple changed the game, first with the iPod
+and then with the iPhone and iPad.  These devices displaced the big
+hardware desktop and laptop markets but ended up consolidating around
+Apple, Google, Facebook and Samsung without displacing Alibaba or
+Amazon from their positions.  Because these new devices were so
+advanced and bleeding edge, things didn't completely blow up and move
+to the edges, other than allowing several billion new users from
+developing countries to join the party.  Big, but so far it has only
+centralized things even more.  This is why the PC, Internet and Mobile
+Revolutions are all bundled together.
+
+The next bundled revolutions are now within a few years of hitting
+similar tipping points, AI and Robotics.
