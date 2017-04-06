@@ -22,9 +22,6 @@
 
 * Introduction
 
-
-* SNOT (SneakerNet of Things)
-
 The IOT (Internet of Things) has been getting a lot of attention of
 late, but it's not where things are going, the way that most people
 think.  Most people think of the IOT as smoke detectors, fridges and
@@ -182,3 +179,26 @@ This is a starting point, just before a tipping point that will
 massively disrupt everything, that we can work towards.  It is up to
 us to make the aftermath of the revolution that is starting to be
 better than what we've had until now.
+
+* T 
+
+This is a work that has been decades in the making, that I am now so
+immersed in that it's hard for me to understand how wide a net I've
+cast and how deep I've fallen down the rabbit hole I've gone.
+
+To bring everyone up to speed, so that they can determine for
+themselves if these ideas have merit or not will take some time.
+
+We will be introducing a whole fruit salad of new terms, including
+Fnords, SNOT, Horcruxes & Hoards, Brambles, Topicspaces, & Burrs,
+Cascading Rules Sets, Duck & Canary Tests along side many terms that
+will be unfamiliar to many including Holons, Level of Detail, Point of
+View, & Rate of Change, Homoiconography, the medieval Trivium &
+Quadrivium, Process Philosophy, Pattern Languages, Living Centers,
+Polyculture, Bioregions, Identity & Roles, Shearing & Pace Layers and
+the Long Now & Short Here.
+
+
+
+* SNOT (SneakerNet of Things)
+
