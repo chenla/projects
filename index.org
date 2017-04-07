@@ -67,10 +67,11 @@ githubchart -u deerpig ./img/contrib.svg
  - Bamboo Plywood
  - Bamboo Dimensional
  - Bamboo Paper
-** Bento
+** Bento & Tiffin
  - [[proj-bento-box.org][Bento Box System]]
  - Bento Rack Module
  - Bento Cooling Module
+ - Tiffin Box Deskside
 ** Cooling
 
  - [[./proj-evaporative-cooling.org][Evaporative Cooling]]
