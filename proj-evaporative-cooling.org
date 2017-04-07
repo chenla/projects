@@ -22,3 +22,14 @@
 
 * Introduction
 
+Evaporative cooling works very well, but only if air humidity is below
+a certain level.  This means that earth-cooling pipes are not a viable
+means of providing effective cooling.
+
+SGI solved this problem in their ICE Cube containerized systems by
+recycling hot dry air coming from the servers, and mixing it with
+outside air to dry it and achieve a cooling effect.
+
+ - [[https://en.wikipedia.org/wiki/Swamp_cooler][Evaporative cooler]] | Wikipedia
+ - [[https://en.wikipedia.org/wiki/Wood_wool][Wood wool]] | Wikipedia
+
