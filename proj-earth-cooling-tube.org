@@ -22,7 +22,40 @@
 
 * Introduction
 
+The bad news is that in the tropics, air, earth and water temperatures
+all achieve an equilibrium.
+
+Evaporative cooling works very well, but only if air humidity is below
+a certain level.  This means that earth-cooling pipes are not a viable
+means of providing effective cooling.
+
+However, if we can develop a passive means of removing humidity from
+humid air before being passed through the evaporative media then we
+would have an effective system.
+
+SGI solved this problem in their ICE Cube containerized systems by
+recycling hot dry air coming from the servers, and mixing it with
+outside air to dry it and achieve a cooling effect.
+
+
+* References
+
  - [[https://en.wikipedia.org/wiki/Ground-coupled_heat_exchanger][Ground-coupled heat exchanger]] | Wikipedia
  - [[http://www.daviddarling.info/encyclopedia/E/AE_earth_cooling_tube.html][Earth cooling tube]] | encyclopedia of alternate energy
+ - [[http://www.builditsolar.com/Projects/Cooling/EarthtubeNotes.htm][Design notes on earth tube cooling]] | builditsolar.com
+ - [[bib:bruelisauer2013choosing][Choosing heat sinks for cooling in tropical climates]] | Marcel Bruelisauer
+ - [[bib:chow:2011estimation][Estimation of soil temperature profile in Hong Kong from climatic variables]]
+ - [[bib:cheng:2012air][Air Dehumidification with the Porous Hydrophobic Wall in Underground Tunnel]]
 
 
+Bruelisauer, M., Meggers, F. and Leibundgut, H., 2013. Choosing heat
+sinks for cooling in tropical climates. Frontiers of Architectural
+Research, 2(3), pp.292-300.
+
+Chow, T.T., Long, H., Mok, H.Y. and Li, K.W., 2011. Estimation of soil
+temperature profile in Hong Kong from climatic variables. Energy and
+Buildings, 43(12), pp.3568-3575.
+
+Cheng, Z.Q., Jiang, H.B. and Li, Y.R., 2012. Air Dehumidification with
+the Porous Hydrophobic Wall in Underground Tunnel. In Advanced
+Materials Research (Vol. 518, pp. 4409-4412). Trans Tech Publications.
