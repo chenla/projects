@@ -180,8 +180,122 @@ certain and the rest of this book will outline how this might happen.
 
 This is a starting point, just before a tipping point that will
 massively disrupt everything, that we can work towards.  It is up to
-us to make the aftermath of the revolution that is starting to be
-better than what we've had until now.
+us to make the aftermath of the revolution that we are at the
+beginning of to be better than what we've had until now.
 
 * SNOT (SneakerNet of Things)
 
+** Sneakernets
+
+#+begin_quote
+Never underestimate the bandwidth of a station wagon full of tapes
+hurtling down the highway.
+
+-- Tanenbaum, Andrew S. (1989). Computer Networks. New Jersey:
+   Prentice-Hall. p. 57. ISBN 0-13-166836-6.
+#+end_quote
+
+ - [[https://en.wikipedia.org/wiki/Sneakernet][Sneakernet]] | Wikipedia
+ - [[https://aws.amazon.com/blogs/aws/send-us-that-data/][AWS Import/Export: Ship Us That Disk!]] | AWS Blog
+
+A sneakernet is a colloquial name for the act of transfering digital
+information by copying it onto physical media (magnetic tape, disks,
+solid state memory etc) and carrying it from one computer to
+another. The network transport mechanism are the [[https://en.wikipedia.org/wiki/Sneakers_(footwear)][sneakers]] one is
+wearing when walking (or running in many instances) from location to
+location.
+
+
+#+begin_quote
+*sneakernet* n. Term used (generally with ironic intent) for transfer
+of electronic information by physically carrying tape, disks, or some
+other media from one machine to another. "Never underestimate the
+bandwidth of a station wagon filled with magtape, or a 747 filled with
+CD-ROMs." Also called 'Tennis-Net', 'Armpit-Net', 'Floppy-Net', or
+'Shoenet'.
+
+-- E. S. Raymond, Ed., The New Hacker's Dictionary, 3rd ed. , Cambridge, MA: The MIT Press, 1996.
+#+end_quote
+
+** Backstory
+
+#+begin_quote
+The 1970s "old joke" referred to above was told to this poster in the
+NASA / Jet Propulsion Lab cafeteria in about 1975-1976. He worked in
+the Digital Maintenance group in the JPL Space Flight Operations
+Center from 1974 to 1978. The story / joke was a classic regularly
+used at JPL to explain ping time, and differentiate bandwidth from
+latency (and, by the way, the need to document where your cables ran,
+and that you needed to distribute your data circuits across multiple
+cables in different trenches - or somehow via multiple paths).
+
+The NASA Deep Space Network tracking station at Goldstone is just
+outside of Fort Irwin, just east of Barstow, California. When you
+leave the highway you have to go through Fort Irwin to get to any of
+the Goldstone facilities. Depending on the highway route taken, and
+which Deep Space Network dish at Goldstone you are driving to (or
+starting from) it was about 160-185 miles (255-298 km) from JPL. At
+freeway speeds (65 mph, about 100 km/h) it was a minimum of
+three-and-a-half hours, usually four, and frequently more, depending
+on the traffic. If you ignored the speed limit while out in the desert
+(risky) you could get closer to three and-a-half hours. This distance
+and speed also explained how the "ping time" was 7 to 8 hours. Several
+of the freeways now in existence were not there then.
+
+At the time (early 1970s), the data links from JPL to Goldstone ranged
+from as low as 1200 and 2400 bps (several of each) to 9600 bps (one or
+two). The 9-track magnetic tapes of the day recorded at a maximum
+density of 6250 bits per inch (but some older drives were limited to
+800 or 1600 bits per inch). The tape reels were made in different
+sizes, the largest held about 2400 feet of tape, but due to the data
+being written in records, with gaps between the records, the maximum
+data capacity of a 2400 foot reel, blocked at 32,767 bytes per record
+and recorded at 6250 BPI was 170 megabytes per reel.[1]
+
+As the story that your contributor heard went, one day a plumbing
+contractor's backhoe dug up and broke the underground cable that
+carried ALL of the JPL-to-Goldstone data and voice lines through Fort
+Irwin, and it would take at least a day, maybe longer, to repair. So
+someone was designated to drive two boxes of 12 reels each of magnetic
+tape down to JPL, and quickly. The first available vehicle was a white
+NASA station wagon. Hence the punch line: "Never underestimate the
+bandwidth of a station wagon full of magnetic tapes hurtling down the
+highway".
+
+Rounding off the numbers, twenty-four reels of tape at 170 megabytes
+each is 4080 megabytes. Three and a half hours is 210 minutes. 4080
+megabytes divided by 210 works out to about 19.4 megabytes per minute,
+or roughly 323 kilobytes per second (2584 kilobits per second) - over
+1000 times faster than a 2400 bps data circuit of the time. Note that
+the incident above involved only 24 reels - which didn't come anywhere
+near filling the station wagon, in fact the two boxes of tapes didn't
+even fill the front passenger seat. (As an aside, a station wagon is
+known as an estate car or estate in other parts of the world).
+
+Incidentally, that conversation was the first time your contributor
+ever heard the term backhoe fade used to describe accidental massive
+damage to an underground cable (compare it to the term rain fade used
+to describe a fade-out of a point-to-point microwave radio path due to
+the absorptive effect of water in the air).[2]
+
+
+-- Conversation in the Jet Propulsion Laboratory cafeteria around
+   mid-1976 related by Michael R. Morris.
+#+end_quote
+
+
+AWS and other companies that provide online backup services encourage
+customers who have very large amounts of data to be backed up to send
+the initial upload on a physical hard drive through the post.  After
+the initial upload via sneakernet, incremental backup is done over the
+network.
+
+
+** Store and Forward Networks
+
+UUCP
+
+Combine sneakernet with store and forward 
+
+** causal-chain torrents
+** causal-chain contracts
