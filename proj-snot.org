@@ -250,7 +250,7 @@ density of 6250 bits per inch (but some older drives were limited to
 sizes, the largest held about 2400 feet of tape, but due to the data
 being written in records, with gaps between the records, the maximum
 data capacity of a 2400 foot reel, blocked at 32,767 bytes per record
-and recorded at 6250 BPI was 170 megabytes per reel.[1]
+and recorded at 6250 BPI was 170 megabytes per reel.
 
 As the story that your contributor heard went, one day a plumbing
 contractor's backhoe dug up and broke the underground cable that
@@ -273,10 +273,10 @@ even fill the front passenger seat. (As an aside, a station wagon is
 known as an estate car or estate in other parts of the world).
 
 Incidentally, that conversation was the first time your contributor
-ever heard the term backhoe fade used to describe accidental massive
+ever heard the term /backhoe fade/ used to describe accidental massive
 damage to an underground cable (compare it to the term rain fade used
 to describe a fade-out of a point-to-point microwave radio path due to
-the absorptive effect of water in the air).[2]
+the absorptive effect of water in the air).
 
 
 -- Conversation in the Jet Propulsion Laboratory cafeteria around
