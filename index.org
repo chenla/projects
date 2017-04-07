@@ -73,7 +73,7 @@ githubchart -u deerpig ./img/contrib.svg
  - Bento Cooling Module
 ** Cooling
 
- - Evaporative Media
+ - [[./proj-evaporative-cooling.org][Evaporative Cooling]]
  - [[./proj-earth-cooling-tube.org][Subterranean Cooling]]
 ** Truth & the Other Thing
  - [[./proj-fnord.org][Fnord]]
