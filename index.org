@@ -71,6 +71,10 @@ githubchart -u deerpig ./img/contrib.svg
  - Bento Box System
  - Bento Rack Module
  - Bento Cooling Module
+** Cooling
+
+ - Evaporative Media
+ - [[./proj-earth-tube.org][Subterranean Cooling]]
 ** Truth & the Other Thing
  - [[./proj-fnord.org][Fnord]]
  - [[./proj-snot.org][SNOT]]
