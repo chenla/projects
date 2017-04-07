@@ -3,7 +3,7 @@
 #+STARTUP: showall
 #+PROPERTY: filename
   :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/projects/proj-earth-tube.org
+  :Name: /home/deerpig/proj/chenla/projects/proj-earth-cooling-tube.org
   :Created: 2017-04-07T10:03@Prek Leap (11.642600N-104.919210W)
   :ID: 57aa26c7-41c0-4cbc-bd32-1059e248b407
   :URL:
