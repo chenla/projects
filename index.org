@@ -74,7 +74,7 @@ githubchart -u deerpig ./img/contrib.svg
 ** Cooling
 
  - Evaporative Media
- - [[./proj-earth-tube.org][Subterranean Cooling]]
+ - [[./proj-earth-cooling-tube.org][Subterranean Cooling]]
 ** Truth & the Other Thing
  - [[./proj-fnord.org][Fnord]]
  - [[./proj-snot.org][SNOT]]
