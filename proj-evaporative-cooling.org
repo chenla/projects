@@ -33,3 +33,6 @@ outside air to dry it and achieve a cooling effect.
  - [[https://en.wikipedia.org/wiki/Swamp_cooler][Evaporative cooler]] | Wikipedia
  - [[https://en.wikipedia.org/wiki/Wood_wool][Wood wool]] | Wikipedia
 
+ - [[bib:watt:1986evaporative][Evaporative Air Conditioning Handbook]] | Springer
+ - [[bib:foster:1999evaporative][Evaporative Air-Conditioning: Applications for Environmentally
+   Friendly Cooling]] | World Bank
