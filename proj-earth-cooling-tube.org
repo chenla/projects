@@ -22,4 +22,7 @@
 
 * Introduction
 
+ - [[https://en.wikipedia.org/wiki/Ground-coupled_heat_exchanger][Ground-coupled heat exchanger]] | Wikipedia
+ - [[http://www.daviddarling.info/encyclopedia/E/AE_earth_cooling_tube.html][Earth cooling tube]] | encyclopedia of alternate energy
+
 
