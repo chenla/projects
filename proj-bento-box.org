@@ -22,3 +22,83 @@
 
 * Introduction
 
+ - [[https://en.wikipedia.org/wiki/Unit_load_device][Unit load device]] | Wikipedia
+ - [[https://web.archive.org/web/20070821010626/http://www.ibafreightservices.com/aircontainers.shtml][Air Containers]] | I.B.A Freight Services
+ - [[https://www.iso.org/committee/46564/x/catalogue/][Air cargo and ground equipment]] | ISO/TC 20/SC 9
+ - [[http://haec.cn/en/products_96_79.html][Pallet Dolly_DOLLY]] | HRH AVIATION EQUIPMENT CO.,LTD
+ - [[http://www.airport-technology.com/contractors/baggage/bt-bearing/bt-bearing1.html][Heavy Duty Ball Transfer units (BTUs)]] | Airport Technology 
+ - [[bib:levinson2006box][The Box]] |  Marc Levinson
+ - [[https://en.wikipedia.org/wiki/Unit_load][Unit load]] | Wikipedia
+ - [[https://en.wikipedia.org/wiki/Intermodal_container][Intermodal container]] | Wikipedia
+
+ - [[http://www.cmci.com/products/standard-platforms/10-bicon][Bicon Container]]   | CMCI (10')
+ - [[http://www.cmci.com/products/standard-platforms/6_5-tricon][Tricon Container]]  | CMCI (6.5')
+ - [[http://www.cmci.com/products/standard-platforms/5-quadcon][Quadcon Container]] | CMCI (5')
+
+ - [[http://seabox.com/products/category/specialized-storage-systems][SEA BOX]] | Quadcon Storage Systems
+
+It would be interesting if we came up with a standard shop container,
+that would work like /unit load devices/ for air cargo.  An hour
+before a market opens, a tractor with trailors goes through the market
+and wheels off each shops's container. Then an hour after closing the
+containers are collected, and the containers for the next market are
+rolled in.  It would make it easier for seasonal sellers to be able to
+participate along side regular daily stalls.
+
+Containers can be refrigerated as well as set up to keep live seafood
+overnight.
+
+** dabba wallah network
+
+ - [[https://en.wikipedia.org/wiki/Dabbawala][Dabbawala]] | Wikipedia
+ 
+
+Use these containers as a foundation for everything -- supply chain --
+do local processing, load it into a container and it get's picked up,
+and passed around link Bombay tiffin boxes -- then get processed more,
+then get split up to other containers which are sent to other
+locations and processed more. Containers keep getting split up and
+repacked into other containers which are sent forward towards their
+destination.
+
+Some end up in other shops who process further -- others end up in big
+city markets -- and then final products which are delivered to a
+location to be picked up or sent on to final delivery.  Eventually the
+whole thing is done autonomously as a physical manifestion of the
+market.
+
+You don't call for a pickup, the network knows the progress of what
+you are doing and you seal a container and put it out for pickup like
+empty milk bottles for the milkman in the morning.
+
+but it's the same principle -- pick something up, see where it is
+going and drop it off at the nearest point towards it's destination
+where it is picked up again and again until it reaches its
+destination.
+
+This is the opposite of the FedEx or Amazon model because it cuts out
+the distribution centers -- the network becomes the distribution
+center and everything is far more efficient.
+
+This is not for any one company -- it is part of the public
+infrastructure.
+
+
+** what and where
+
+If this is going to be a system that can be used globally....
+
+I like the the bicon, tricons and quadcons -- but they should be
+reserved for transport outside of a bioregion.  We need something more
+lightweight that can be used within a bioregion that is closer to the
+aluminum aircraft containers.
+
+I like the rolldown for quadcons, this would be ideal for markets.
+
+But we still need to work out about very small shipments, daily
+shipments and how to deal with local routing.  Anything long distance
+is relatively easy if we can repack containers easily -- and this
+seems to all come down to robots.  If the network can think 20 steps
+ahead of everything -- and repacking is all planned out before it is
+even picked up....
+
