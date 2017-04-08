@@ -102,3 +102,574 @@ seems to all come down to robots.  If the network can think 20 steps
 ahead of everything -- and repacking is all planned out before it is
 even picked up....
 
+
+
+* Bento Box System
+
+There is an urban legand that ARPANET, which eventually became the
+Internet, was originally designed to be resistent to nuclear attack.
+Large parts of the Internet could be knocked out and the rest of the
+Internet would continue to operate.
+
+Even if this were true, if large parts of the Internet were to go
+dark, any content on servers in those areas would also be cut off as
+well.  Any large scale Internet failures would have global impact
+because centralized cloud and mobile phone applications, now store the
+majority of people's personal information and media, including email,
+contact lists, maps, documents, spread sheets, photos, music and
+video.
+
+This breaks the principle of =graceful degradation=, which requires that:
+
+   - there is no single point of failure,
+   - failed components are isolated,
+   - propagation is prevented by containment,
+   - that content or service can revert to more primitive versions.
+
+This holds true not only for individual machines, but software, and
+even content like a document.  For example, if a formated, document
+that includes embedded media fails to render properly, you should
+still be able to view the document as plain text.
+
+Put simply this is accomplished through redundancy and duplication.  
+
+
+** Containing Collapse
+
+If you can't prevent a failure or collapse, the system should be
+designed to be able to ensure that the failure is localized as much
+as possible.
+
+The [[https://en.wikipedia.org/wiki/2011_Thailand_floods][2011 Bangkok Floods]] directly effected 66 out of 77 provinces in
+Thailand, but because 90% of all goods distributed throughout the
+country passed through a logistics system based in Bangkok, the
+floods resulted in food and goods shortages throughout the entire
+country for nearly a year. This logistics failure in turn made it
+impossible for exporting goods to other countries that weren't
+effected by the floods as well.  Because the logistics failure could
+not be contained or routed around effected areas, the floods had a
+larger ecomonic impact on Japan than the 2011 earthquake and tsunami.
+
+But this was no only a failure in logistics, it was also a failure in
+redunancy and specialization.  Japanese automakers relied on Thai
+factories more most of their electrical sub-assemblies.  Computer
+makers around the world relied on Thai factories for producing hard
+drives.  All of the production and knowledge of how to produce these
+sub-assemblies and hard drives had been located in one location, so a
+failure in one place effected the entire planet.
+
+This is a problem waiting to happen in a large number of other
+industries.  Flat screen production is now entirely controlled by a
+few small areas in China.  *[ need more examples ]*  Apple computer
+has admited that they could not produce their products outside of
+China because there was no longer anywhere else who had the
+knowledge, experience and production facilities.
+
+** Centralized Cloud
+
+** Virtual Machines
+
+** Internet Backbone
+
+
+** Distributed Federated Clouds
+
+** Containerized Processes
+
+** InterMesh
+
+* What Are Bento Boxen
+
+*Bento Boxen* refer to two open-source hardware designs, a design for
+deploying very efficient, and inexpensive modular data centers that
+bring computing power to the edge of networks and emerging markets.
+
+These modular designs, adapt OpenCompute open-source server, power and
+rack designs which are designed for very large scale deployment of
+tens of thousands of servers in a single facility so that the same
+efficiencies seen at scale can be used in a geographically
+distributed network.
+
+Bento Boxen are designed for use for Big Data and Cloud Services;
+specifically the open source OpenStack Cloud Computing suite of
+applications.
+
+ #+ATTR_LATEX: :width 15cm :center 
+     [[./img/openstack-opencompute.png]]
+
+** Advantages
+
+   - Energy consumption per unit of computing power has declined by
+     38%.
+   - A Fully loaded OpenCompute Rack requires a maximum of 12.6Kw, as
+     compared to Off-the-Shelf Hardware requires 20Kw or more per
+     rack. 
+   - The new modular data center design is expected to have a PUE of
+     1.06, well below the EPA-defined state-of-the-art industry
+     average of 1.5. This means 93% of the energy from the grid makes
+     it into every Open Compute server.
+   - Centralized chillers have been replaced by an evaporative media
+     cooling system with no moving parts, except pans, using outside
+     air.
+   - Elimination of traditional inline UPS systems and the elimination
+     of a 480V to 208V transformation.
+   - A "lights out" data center design that minimizes the costs of
+     administration and maintenance.
+   - Ethernet-powered LED lighting integrates lighting with server
+     systems.
+   - Optional integrated Battery Backup and control system.
+   - Optional integrated FM-280 fire suppression system.
+   - Low maintenance, because of very few moving parts.  There are
+     only six fans, two motors to control vents, and a couple of
+     valves.
+
+* Computer Racks
+
+The Open Rack v1.0 has three power zones in a single column rack. Each
+power zone has 10xOpenU for servers and 3xOpenU for power shelf (1
+OpenU = 48mm). Each power shelf has a 6+1 700W redundant PSU to
+provide 4200W of continuous maximum load and three bus bars per power
+zone. The total height for each 10xOpenU of server space is 480mm.
+
+ #+ATTR_LATEX: :width 10cm :center 
+     [[./img/openrack-zones.png]]
+
+
+ #+ATTR_LATEX: :width 7cm :center 
+     [[./img/rack-img.jpg]]
+
+
+  - Side panels provide
+  - configurable shelving
+  - Volume available behind bus bar(s) for cooling solutions
+  - Space available adjacent to bus bar for add l bus bars, IO, or
+    server management features
+  - Volume in front of IT devices for unique front features
+  - Standard ~ 800mm depth reserved for IT equipment
+  - Power Distribution
+     - AC input covers 240V-1Φ thru 480V-3Φ, and HVDC
+     - Allow flexibility in placement, resiliency, & output rating of
+       the AC/DC power supply
+     - DC power distribution via bus bar(s) with defined location(s) &
+       electrical spec
+     - Hot plug, blind mate connection between IT device and bus bar
+  - Mechanical & Thermal
+     - Consistent with 24 floor tile layout- 24 W; 48 D reserved
+     - Flexible height to accommodate constrained/unconstrained buildings
+     - Detailed mechanical specification for the tray and how it fits
+       into the rack
+     - Provide allowances for rack-level cooling solutions (but not
+       defined by the standard)
+   - Rack
+     - Compatible with HW Management project
+
+* Servers
+** Motherboards
+
+Present day, Shared-Nothing computing clusters, that power nearly all
+cloud services are traditionally made up of lots of identical servers
+which use commodity hardware.  Before this, it was thought that
+commercial systems needed to use industrial grade commercial hardware
+that was better made and had a lower failure rate.  However, in the
+early 00's Google realised that industrial grade hardware was a much
+as double the cost of commodity hardware, and the failure rate was
+only 3-4% lower than commodity hardware.  The math was clear, it is
+better to have cheap hardware that fails more often and design your
+system to expect and work around failures automatically, than to
+spend twice as much money to only get a system that was only a few
+percent more reliable.
+
+The drawback to this approach is that motherboards also come with a
+lot of extra "goop" that is not needed, including things like
+proprietary management features on HP and Dell motherboards for use
+with their own server management system.  If you aren't using their
+management software, these features cost more money, use electricity
+in their own right and complicate things.  If you use commodity
+consumer motherboards there are all sorts of things added that are
+designed for gaming, or wireless, or bluetooth or HDMI, ports that
+will never be needed in a headless server environment.
+
+This added cruft creates needless complexity as, over time, there
+will be no avoiding purchasing more than one model motherboard from
+different vendors.
+
+OpenCompute motherboards do not have built in Ethernet and use
+standard 10GB PCI ethernet cards.
+
+ #+ATTR_LATEX: :width 15cm :center 
+     [[./img/intel-motherboard-img.jpg]]
+
+
+*** CPU and Memory
+
+ #+ATTR_LATEX: :width 10cm :center 
+     [[./img/windmill-motherboard.png]]
+
+The motherboard uses next generation Intel® Xeon® processor E5-2600
+product family CPUs with a TDP (thermal design power) up to 115W. The
+motherboard supports these features:
+
+ - 2 Intel® Xeon® E5-2600 (LGA2011) series processors up to 115W
+ - 2 full-width Intel QuickPath interconnect (QPI) links up to 8
+   GT/s/direction
+ - Up to 8 cores per CPU (up to 16 threads with Hyper-Threading
+   Technology)
+ - Up to 20 MB last level cache
+ - Single Processor Mode
+ - DDR3 direct attached memory support on cpu0 and cpu1 with:
+ - 4 channel DDR3 registered memory interface on processors 0 and 1
+ - 2 DDR3 slots per channel per processor (total of 16 DIMMs on the
+   motherboard)
+ - RDIMM/LV-RDIMM (1.5V/1.35V), LRDIMM and ECC
+   UDIMM/LV-UDIMM(1.5V/1.35V)
+ - Single, dual, and quad rank DIMMs
+ - DDR3 speeds of 800/1066/1333/1600 MHz
+ - Up to maximum 512 GB memory with 32GB RDIMM DIMMs
+
+*** Future
+
+Facebook is spearheading what they call a “Group Hug” board which will
+provide a new common slot architecture specification for
+motherboards. This specification can be used to produce boards that
+are completely vendor-neutral and will last through multiple processor
+generations.
+
+The specification uses a simple PCIe x8 connector to link the SOCs to
+the board.  AMD, Applied Micro, Calxeda, and Intel have all announced
+support for the Group Hug board, and Applied Micro and Intel have
+already built mechanical demos of their new designs.
+
+This will make it possible to upgrade through multiple generations of
+processors without having to replace the motherboards or the in-rack
+networking.
+
+** Windmill Server Design
+
+The "Windmill" compute sled is based on a second-generation
+opencompute motherboard design. It's a two-socket Intel motherboard in
+a tube, which is known in Facebook as the 'sushi boat' form factor."
+The compute sled is kept as as simple as possible; two processors, 16
+DIMM slots for memory, and a few PCI slots. Facebook uses PCI
+10-gigabit Ethernet cards instead of putting Ethernet directly on the
+motherboard they can be purchased from multiple suppliers.
+
+ #+ATTR_LATEX: :width 10cm :center 
+     [[./img/Winterfell.jpg]]
+
+ #+ATTR_LATEX: :width 5cm :center 
+     [[./img/windmill-img.jpg]]
+
+
+The design maximizes airflow.  A standard 1U-sized OEM server uses 28
+watts of fan power to pull air through the impedance caused by that
+plastic bezel, whereas the equivalent OpenCompute server uses just
+three watts for that purpose.
+
+The same chassis and motherboard is used to build a variety of
+different servers.  Compute nodes don't require their own hard drives
+and use only internal RAM.  Web servers require Hard Drives.
+
+*** Storage Servers
+
+ #+ATTR_LATEX: :width 10cm :center 
+     [[./img/windmill-storage.png]]
+
+The Windmill sled is also used for high density storage nodes as
+well.  A single sled can hold 15 3.5" drives, which, if using 4.5TB
+drives could store as much as 2.8PB in a single rack!
+
+In this way, racks can be configured to use any combination of
+Compute, Web or Storage servers which all use the same compute sled.
+
+* Bento Box
+** Modular Mobile Data Centers
+
+Modular data centers, housed in standard ISO 20" and 40" shipping
+containers are nothing new.  SUN/Oracle, IBM, SGI (formally Rackable),
+HP and a slew of others all have products on the market.  Many of
+these products have excellent designs and, compared to the cost of
+building a traditional brick and mortar data center, they are also
+cost effective.  But that still does not make them cheap.
+
+The 20" 6 rack Black Box from Sun/Oracle starts at USD250,000, empty.
+The most inexpensive on the market is the SGI Ice Cube Air, which
+holds 4 Racks, starts at USD$99,000.
+
+We believe that if the same principles that went into the OpenCompute
+designs, which focus on efficiency and lower operating costs, were
+applied to modular data centers, that price point could be cut in
+half.
+
+The Bento Box, is a open hardware design based roughly on the ICE Cube
+Air design and adapted for use with OpenCompute rack, power and
+server designs.
+
+ #+ATTR_LATEX: :width 15cm :center 
+     [[./img/icecube-ext.jpg]]
+
+
+ #+ATTR_LATEX: :width 15cm :center 
+     [[./img/icecube-plan.png]]
+
+
+
+The layout is simple.  Air is brought in from one end of the
+container through louvered vents through an data center grade air
+filters and into a multi-stage evaporative media cooling system, that
+has not moving parts aside from a remote controlled valve that
+controls water flow.
+
+Water is brought into the container using a standard garden hose that
+can provide 2 gallons of water a minute.  Air is pulled through the
+evaporative media by six variable speed high speed fans which then
+passes into the cool isle of the server section of the container.
+
+Cool air then passes through 4 racks, and then into a hot isle and
+from there out of the container.
+
+** Cooling System
+
+Evaporative cooling, also known as a 'swamp cooler' is an ancient
+means of cooling air.  Warm air is passed through a veil of water.
+The hot air evaporates the water, and is cooled.  Evaporation depends
+on the surface area of the water.  So the smaller the water droplet
+is, the more evaporation takes place.
+
+ #+ATTR_LATEX: :width 15cm :center 
+     [[./img/myst.png]]
+
+A common approach is to atomize water into a myst and hot hair is
+passed is passed through, completely evaporating the water and
+cooling the air.
+
+The problem with this approach is that water has to be very clean, so
+that impurities don't clog the misting nozzles.  This is typically
+done by passing the water through a reverse-osmosis filtration
+system.  The system also requires pumps and other moving parts.
+
+
+ #+ATTR_LATEX: :width 10cm :center 
+     [[./img/evap-media.png]]
+
+
+An alternate approach is to use evaporative media, which is a porous
+material that holds water and breaks it down into very small diameter
+droplets.  Air passed through the media and the droplets evaporate
+and cool the air.
+
+The system has the advantage of not requiring water filtration, or
+pumps or even nozzles that can easily clog up.  A new generation of
+evaporative media like GLASDek is resistent to bacteria, and can be
+scrubbed to remove water impurities that clog the media.
+
+SGI developed their own proprietary 4-Stage evaporative media cooling
+system.  We believe that designing our own multi-stage system will be
+our greatest challenge.
+
+** Electrical Systems
+
+A great deal of electricity is wasted in traditional data centers.
+Most data centers convert power three or four times; from 480 to 208,
+into a UPS, back out of the UPS, into a power distribution unite, and
+into a server power supply.
+
+Every time you step down power you loose two to five percent, if you
+are doing this three to four times, that translates into as much as
+20% of power usage.
+
+In addition to the loss of power, the transformers the doing the
+stepping down produce heat as well, which requires additional cooling.
+
+To address this problem, OpenCompute specifies that unregulated 480
+volt is brought directly to the racks.  Each rack will have three
+power shelves which is converted once into 12 volt power connection
+in the back.  Individual servers do not have their own power supply,
+everything is drawn directly from the power shelf.
+
+Power supplies in servers, not only generate heat, they also take up
+space in the server and reduce air flow, increasing the amount of
+cooling required as well.
+
+This approach cuts the amount of electricity required to a rack
+dramatically.  A fully loaded rack using traditional off-the-shelf IT
+1RU hardware requires up to 20Kw or more.  The equivalent fully loaded
+OpenCompute rack requires a maximum of 12,600Kw.
+
+The SGI Ice Cube Air, four rack modular data center is designed to
+provide cooling for more than 140Kw.  A four rack OpenCompute
+configuration would require less than51Kw.
+** Battery Backup System
+
+OpenCompute has designed their own Battery Backup System that is
+meant to work best with Open-Rack and OPC server hardware.
+
+
+ #+ATTR_LATEX: :width 8cm :center 
+     [[./img/opc-battery.png]]
+
+
+The specification focuses on the electrical and control part of the
+backup system, and uses industry standard batteries that can be
+purchased from a wide number of vendors.
+
+The batteries required to backup four Open-Racks would occupy nearly a
+full rack.  Battery systems can operate at a wider temperature range
+than servers, ranging from 30-45C or even hotter.  So typically,
+battery systems are sealed, with only small holes for air flow, when
+they are located side-by-side server racks.  Since there is no need to
+keep battery systems at the same temperature, they are often located
+in separate rooms from server racks.
+
+Since there are only four racks in a Bento Box, it would not be
+effcient to use one of them for battery backup systems.  However,
+since the Bento Box is longer than the Ice Cube Air, there is enough
+space between the evaporative cooling unit and the wall of fans to
+include the battery system.  
+
+There are a number of ways this can be done, which will be part of
+the design process.
+
+** Network Operations Control Software
+
+The Bento Box is a 'lights out' data center which is designed to be
+managed remotely and require minimal maintanence.
+
+OpenCompute has a specification for a hardware management software
+system which controls booting and restarting servers, monitoring
+temperature, humidity, electrical usage, network traffic etc.
+
+Bento will expand on this specification to include monitoring and
+management of the evaporative cooling system, electrical systems,
+battery backup, fire supression etc.
+
+The system is designed to monitor and manage multiple Bento and
+Tiffin Boxes that are spread out over a wide geographic area and
+designed to work as a wide-area distributed cloud network.  The
+management system will be critical not only in managing individual
+boxen, but in managing them as a single network as well.
+
+** Fire Supression 
+
+A FM-200 (Halon replacement gas) fire suppression system will be
+included in each Bento Box.  The system can be triggered
+automatically, as well as remotely using the Hardware Management
+software system.
+
+** Diesel Backup System
+
+Each Bento Box should have a 60Kw backup diesel generator on site,
+together with enough diesel fuel to run the generator for a minimum
+of 24-36 hours.
+
+The generator must be able to start up in 30 seconds or less, since
+battery backup will last at most 60-90 seconds at full load.
+
+Contracts with local fuel suppliers should already be in place locally
+to refuel the generator daily in the case of extended power outages.
+
+
+** Water Supply Backup Systems
+
+A water tank that will hold 24 hours worth (2,000 gallons) of water at
+maximum load should be in plcae locally.
+
+Contracts with a local company with a water truck should already be
+in place locally to refill the water tank in the event of an extended
+water supply outage.
+
+* Tiffin Box
+
+The *Tiffin Box* is a design for a one third rack, 18RU, 14 server
+Deskside compute cluster running on 208V.  With an enclosure that
+minimizes noise.  The Tiffin Box is essentially a 1/3 Open Rack
+design, that will hold standard Windmill server sleds.
+
+ #+ATTR_LATEX: :width 8cm :center 
+     [[./img/Mobi-Rack.png]]
+
+The system will be similar in size to SGI's MOBI Rack system, and can
+be housed in a variety of different configurations, including a rack
+mount enclosure, a portable enclosure that can be shipped, and a
+deskside enclosure with sound dampening suitable for use in a
+laboratory, office or equipment closet.
+
+ #+ATTR_LATEX: :width 8cm :center 
+     [[./img/third-rack.png]]
+
+
+
+
+The Tiffin Box will be cooled, by four large, variable-speed fans at
+the back, and a Air Filter on a door on the front.
+
+The Tiffin Box is designed to run the same OpenStack software
+infrastructure and be managed remotely by the same Hardware
+Management system that is used for the Bento Box.
+
+The Tiffin Box is designed to run either as a stand alone compute
+cluster, or as part of a larger distributed network that is made up
+of Bento Boxes and other Tiffin Boxes.
+
+* Road Map
+
+Development of Bento Boxen designs will be broken down into multiple
+stages:
+
+** Adapt Four Standard 19" Racks
+
+Four standard 19" racks will be modified to house OpenCompute hardware.
+Facebook has detailed in a whitepaper how they did this for one of
+the first deployments of OPC hardware in one of their existing data
+centers.
+
+** Build 14 Windmill Servers
+
+Motherboards for Windmill servers can be purchased from Quanta
+Computer.  Server shelves, and compute sled enclosures can be
+fabricated to order by a company in Vienam which can accept CAD
+drawings.
+
+** Install OpenStack Software into New Servers
+
+The 14 new servers will serve as a development system for building
+the first OpenStack Cloud Service in Phnom Penh.
+
+Once this system is complete, a software development team will begin
+work on building the Web Site and GUI to the Cloud Service, and begin
+work on adapting the OPC HW Management Spec for managing Bento and
+Tiffin Boxes.
+
+** Procure A 20" Shipping Container and move to Bivet
+
+A 20" shipping container will be purchased, the doors removed, two
+side openings for doors cut into the sides.  Next the container will
+be stripped down to bare metal and painted before delivery to the
+factory space in Bivet.
+
+** Develop Filters, Cooling & Fans
+
+Two consultants will be hired to help design the electrical and
+cooling systems for the Bento Box.
+
+This will require purchae of six high-speed fans, airfilters,
+evaporative media and circuit breakers, wiring etc for the electrical
+systems.
+
+** Install Racks
+
+The modified racks will be installed in the Bento Box and sensors
+installed and the cooling system will be tested with live servers
+running in the box.
+
+** Battery, Fire Supression & Security
+
+The Battery Backup system, which will use an off-the-shelf that will
+fit in the same enclosure as the OPC design will be installed.
+
+A company in Vietnam which specializes in Security and F-200 fire
+supression systems will be hired as consultants to design the fire
+supression system and provide the API for it to be connected to the
+hardware management systems.
+
+
+
