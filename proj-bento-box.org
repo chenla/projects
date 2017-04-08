@@ -195,7 +195,7 @@ specifically the open source OpenStack Cloud Computing suite of
 applications.
 
  #+ATTR_LATEX: :width 15cm :center 
-     [[./img/openstack-opencompute.png]]
+     [[./img/bento/openstack-opencompute.png]]
 
 ** Advantages
 
@@ -232,11 +232,11 @@ provide 4200W of continuous maximum load and three bus bars per power
 zone. The total height for each 10xOpenU of server space is 480mm.
 
  #+ATTR_LATEX: :width 10cm :center 
-     [[./img/openrack-zones.png]]
+     [[./img/bento/openrack-zones.png]]
 
 
  #+ATTR_LATEX: :width 7cm :center 
-     [[./img/rack-img.jpg]]
+     [[./img/bento/rack-img.jpg]]
 
 
   - Side panels provide
@@ -297,13 +297,13 @@ OpenCompute motherboards do not have built in Ethernet and use
 standard 10GB PCI ethernet cards.
 
  #+ATTR_LATEX: :width 15cm :center 
-     [[./img/intel-motherboard-img.jpg]]
+     [[./img/bento/intel-motherboard-img.jpg]]
 
 
 *** CPU and Memory
 
  #+ATTR_LATEX: :width 10cm :center 
-     [[./img/windmill-motherboard.png]]
+     [[./img/bento/windmill-motherboard.png]]
 
 The motherboard uses next generation Intel® Xeon® processor E5-2600
 product family CPUs with a TDP (thermal design power) up to 115W. The
@@ -354,10 +354,10 @@ DIMM slots for memory, and a few PCI slots. Facebook uses PCI
 motherboard they can be purchased from multiple suppliers.
 
  #+ATTR_LATEX: :width 10cm :center 
-     [[./img/Winterfell.jpg]]
+     [[./img/bento/Winterfell.jpg]]
 
  #+ATTR_LATEX: :width 5cm :center 
-     [[./img/windmill-img.jpg]]
+     [[./img/bento/windmill-img.jpg]]
 
 
 The design maximizes airflow.  A standard 1U-sized OEM server uses 28
@@ -372,7 +372,7 @@ and use only internal RAM.  Web servers require Hard Drives.
 *** Storage Servers
 
  #+ATTR_LATEX: :width 10cm :center 
-     [[./img/windmill-storage.png]]
+     [[./img/bento/windmill-storage.png]]
 
 The Windmill sled is also used for high density storage nodes as
 well.  A single sled can hold 15 3.5" drives, which, if using 4.5TB
@@ -405,11 +405,11 @@ Air design and adapted for use with OpenCompute rack, power and
 server designs.
 
  #+ATTR_LATEX: :width 15cm :center 
-     [[./img/icecube-ext.jpg]]
+     [[./img/bento/icecube-ext.jpg]]
 
 
  #+ATTR_LATEX: :width 15cm :center 
-     [[./img/icecube-plan.png]]
+     [[./img/bento/icecube-plan.png]]
 
 
 
@@ -436,7 +436,7 @@ on the surface area of the water.  So the smaller the water droplet
 is, the more evaporation takes place.
 
  #+ATTR_LATEX: :width 15cm :center 
-     [[./img/myst.png]]
+     [[./img/bento/myst.png]]
 
 A common approach is to atomize water into a myst and hot hair is
 passed is passed through, completely evaporating the water and
@@ -449,7 +449,7 @@ system.  The system also requires pumps and other moving parts.
 
 
  #+ATTR_LATEX: :width 10cm :center 
-     [[./img/evap-media.png]]
+     [[./img/bento/evap-media.png]]
 
 
 An alternate approach is to use evaporative media, which is a porous
@@ -505,7 +505,7 @@ meant to work best with Open-Rack and OPC server hardware.
 
 
  #+ATTR_LATEX: :width 8cm :center 
-     [[./img/opc-battery.png]]
+     [[./img/bento/opc-battery.png]]
 
 
 The specification focuses on the electrical and control part of the
@@ -585,7 +585,7 @@ minimizes noise.  The Tiffin Box is essentially a 1/3 Open Rack
 design, that will hold standard Windmill server sleds.
 
  #+ATTR_LATEX: :width 8cm :center 
-     [[./img/Mobi-Rack.png]]
+     [[./img/bento/Mobi-Rack.png]]
 
 The system will be similar in size to SGI's MOBI Rack system, and can
 be housed in a variety of different configurations, including a rack
@@ -594,7 +594,7 @@ deskside enclosure with sound dampening suitable for use in a
 laboratory, office or equipment closet.
 
  #+ATTR_LATEX: :width 8cm :center 
-     [[./img/third-rack.png]]
+     [[./img/bento/third-rack.png]]
 
 
 
