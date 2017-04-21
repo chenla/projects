@@ -24,14 +24,14 @@
 
 * About these pages
 
-#+begin_quote
+
 Project Pages for all projects built from Chenla BMF, Prolog
 and Primer.
-#+end_quote
+
 
 * Recent Activity
 
-Recent change activity on http://github.com/deerpig/deerpig-install
+Recent change activity on http://github.com/chenla/projects
 
 #+BEGIN_SRC sh :exports results :results silent
 githubchart -u deerpig ./img/contrib.svg
@@ -62,20 +62,23 @@ githubchart -u deerpig ./img/contrib.svg
  - [[./proj-egg-mobile.org][Egg Mobile]]
  - Chicken Tractor
 ** Bamboo
- - [[proj-bamboo-treatment.org][Bamboo Treatment]]
- - Bamboo Processing
- - Bamboo Plywood
- - Bamboo Dimensional
- - Bamboo Paper
+ - [[proj-bamboo-treatment.org][Treatment]]
+ - Processing
+ - Plywood
+ - Dimensional
+ - Paper
 ** Bento & Tiffin
  - [[./proj-bento-box.org][Bento Box System]]
- - Bento Rack Module
- - Bento Cooling Module
- - Tiffin Box Deskside
+ - Rack Module
+ - Cooling Module
+ - Tiffin Deskside
 ** Cooling
-
  - [[./proj-evaporative-cooling.org][Evaporative Cooling]]
  - [[./proj-earth-cooling-tube.org][Subterranean Cooling]]
 ** Truth & the Other Thing
  - [[./proj-fnord.org][Fnord]]
  - [[./proj-snot.org][SNOT]]
+** Saltmine
+ - [[./salt-saltmine.org][Saltmine]]
+
+
