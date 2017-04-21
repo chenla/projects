@@ -25,6 +25,25 @@
 Saltmine is the code name for the BMF Server software which will
 include a graph database, indexer, version control system etc.
 
+Saltmine will be embedded in Horcrux containers, which are
+self-contained holons that provide, storage, as well as self-index,
+self-replication, provide distributed version control (that
+didn't come out right), access control etc.
+
+* Docker/Rkt Containers
+
+I realize that horcruxes as proposed aren't single process
+containers.  But I don't want to run full blown VMs either.
+Containers can certainly run multiple processes -- but although the
+horcrux is running multiple processes it will still interface with the
+outside world as if it is a single-process container.  At least that's
+my idea at the moment -- it remains to be seen if this will work out
+as planned.
+
+* Alpine Linux
+
+* Bit Torrent
+
 * GT.M
 
 #+begin_comment
