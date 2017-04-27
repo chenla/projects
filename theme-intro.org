@@ -133,3 +133,27 @@ in the company will not have to worry about production, but they will
 be concerned with design, customization and overseeing and optimizing
 processes.
 
+Small production runs become profitable when supply chains are
+automated and logistics becomes as efficient at small scales as they
+are now at large scales.
+
+This will make it possible to build distributed supply and production
+chains that require as little transporation as possible.  So that when
+you order something, it sets into motion a cascade of orders and
+microcontracts that sends materials to a producer who modifies them,
+who then sends them to another producer who assembles them and then is
+shipped directly to the customer.
+
+At each stage, the network will arrange everything, from ordering
+parts, negotiation of terms,  payments and delivery.
+
+But in many cases this is just the beginning.  Non-consumable goods
+will still be connected to this production chain, and the customer
+then will be able to maintain things over long periods of time.  Data
+being sent back to the producers are used not only to react to
+failures but anticipate them and arrange for repairs, upgrades etc.
+And people will still very much be in the loop -- needs change over
+time, so that something that fills a need for a single person will
+need to adapt if they get married, and then again when they have
+children and then again when children have grown etc.
+
