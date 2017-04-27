@@ -22,4 +22,17 @@
 
 * Introduction
 
+Chenla breaks work into broad themes which represent research groups
+that will have any number of associated interconnected sub-themes and
+deliverables including: projects, code, designs, demos, prototypes,
+products, seminars, publications, media, experiments, joint-ventures,
+and spinoffs associated with them.
+
+The initial group of research themes that will launch Chenla include:
+
+  - Process Guilds 
+  - Facts & Fnords 
+  - Externalized: Mind, Muscle & Memory 
+  - Identity: Roles & Personas 
+  - Intentional Ecosystems
 
