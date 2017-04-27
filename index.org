@@ -82,3 +82,11 @@ githubchart -u deerpig ./img/contrib.svg
  - [[./salt-saltmine.org][Saltmine]]
 
 
+** Chenla Research Themes
+
+ - [[./theme-intro.org][Introduction]]
+   - Process Guilds 
+   - Facts & Fnords 
+   - Externalized: Mind, Muscle & Memory 
+   - Identity: Roles & Personas 
+   - Intentional Ecosystems
