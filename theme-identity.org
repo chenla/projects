@@ -1,0 +1,24 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Identity Research Theme
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :Name: /home/deerpig/proj/chenla/projects/theme-identity.org
+  :Created: 2017-04-28T17:46@Prek Leap (11.642600N-104.919210W)
+  :ID: 81ebd34b-131d-4ee1-9dfc-8e610994afc3
+  :URL:
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+* Introduction
+
