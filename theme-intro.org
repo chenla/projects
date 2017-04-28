@@ -53,13 +53,24 @@ efficient than centralised mass production.  It also has the
 quality of life for people in places that are nice to live
 in.
 
-I emphasize potential, because this type of a network is, as
+In a world without human computers and robots, the concept
+of blue and white collar work will largely disappear.  The
+middle class emerged from the merchant class who were the
+first middlemen in the early days of the industrial
+revolution.  The ai-robotic revolution could potentially
+flatten existing class distinctions.
+
+I emphasize /potential/, because this type of a network is, as
 Kevin Kelly might say, inevitable, but the form that it will
 take is not.  There will be people trying to game the
 system, consolidate power and wealth.  There will be
 pushback from nation-states and institutions.
 
-But /if all did go right/, it could be a very nice future.
+The Process Guild Research Group will introduce and explore
+a number of novel new approaches for building such networks
+and introduce some odd new names such as the Sneakernet of
+Things (SNOT), it-torrents, and micro intermodal transport.
+
 
 * Facts & Fnords 
 [see main page]
@@ -79,7 +90,7 @@ intentionally false (aka a lie) as well as estimating the
 probability of something being true or not.  If something is
 true but has a very low probability we treat it differently
 from what is more likely to happen.  We call the sum total
-of all possible causal states for an assertion a fnord.
+of all possible causal states for an assertion a /fnord/.
 Every assertion has is a fnord until it has been observed
 and evaluated and then beomes fact, fiction, truth lie etc.
 
@@ -94,6 +105,9 @@ commercial and social situation.
 
 * Externalization: Mind, Muscle & Memory 
 [see main page]
+
+
+
 
 * Identity: Roles & Personas 
 [see main page]
