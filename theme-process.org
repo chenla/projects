@@ -23,3 +23,141 @@
 * Introduction
 
 
+** Background
+
+Technological revolutions that have reshaped human civilization, are
+characterized by the introduction of technologies and methodologies
+that transform by breaking up centralized concentrated power
+structures and moving everything from power, production, education,
+wealth etc from a small entrenched elite to the edges.  The invention
+of spoken language, the cultivation and domestication of plants and
+animals, the invention of writing systems, Gutenberg's Press, the
+Industrial Revolution and the combined Computer-Network Revolution all
+decentralized existing power structures.
+
+And even before the Computer-Network Revolution has even reached its
+zenith, it is incubating and making possible the next revolution that
+is nearly apon us; Artificial Intelligence-Robotics.
+
+Globalization was born from a number of different pieces including
+Henry Ford's factory assembly line, standardization of a wide variety
+of parts from screws and nuts, to electrical plugs, batteries, light
+bulbs etc, the global adoption of cargo pallets combined with modal
+shipping containers (ubiquitious twenty and forty foot corrugated
+steel boxes).  But it was the standardization and interoperability of
+telephone communications that made it possible to punch a number into
+a box on your table and connect to any other telephone on the planet.
+This paved the way for dedicated computer networks which were also
+globally interoperable.  This quickly globalized first communication,
+then the spread of news and information and just as importantly
+globalized the transfer and exchange of money and transformed symbolic
+fiat currencies stamped out into metal coins, and printed on paper
+bank promisary notes into pure information.  Money has become pure
+information that is not backed up by paper notes, or precious metals.
+
+Globalization, if looking at any number of metrics has been an
+enormous success [ list successes ]
+
+However, and this is a significant however, Globalization is only
+benificial at scale.  And the scale, in many respects comes down to a
+single set of numbers; 40'x8'x8'6" (imperial), the size of a standard
+ISO Shipping Container.  Producers who can deliver goods in multiples
+of these dimensions win.  Most smaller producers don't and have been
+pushed out of the market and out of business unless they can become
+sub-suppliers for aggregators who will take their cut in the middle.
+
+A second characteristic of Globalization was inherited from the
+Industrialization; mass production of identical goods.  If a market
+wasn't big enough to justify producing many containers worth of copies
+of the same goods, then it gradually stopped being produced.
+
+The result of all of this scaling is that mass production and
+globalized transporation, logistics, communications and flow of money
+could produce far more goods than people actually need.  This trend
+had begun at the beginning of the 20th century, and gradually became
+the norm rather than the exception.  Producers made more goods than
+they could sell.  So enormous amounts of resources went into
+converting a production system that met peoples needs, to a lifestyle
+consumer system that met people's wants.  Even this wasn't enough, so
+products were purposely designed to only last anywhere from 1-3 years
+and then fail so that they would have to be replaced by whatever
+people felt they desired.
+
+** Impact of Palletization and Containerization
+
+Basically it cut out, middlemen by making the transfer of goods from
+one form of transport to another very efficient -- before pallets and
+containers, goods were loaded directly into trucks and ships.  This
+required enormous amount of labour and time, as small armies moved
+goods into nets or carried boxes and other containers by hand and
+restacked them in in a ship for the next leg of the journey.  In
+addition to labor and time, there was high amount of breakage and
+theft, as goods "fell off the back of a truck" and vanished into gray
+markets and shadow economies.  Loading and unloading a ship could not
+be done in hours, not over many days.  Dock workers were a very
+powerful labor block that were sometimes controlled by unions
+controlled by corrupt officials and organized crime.
+
+
+** Artificial Intelligence & Robotics
+
+In the beginning, all computers and robots were human.  They still are
+today, but not for much longer.
+
+** Reimagining Globalization & The Economy
+
+Eliminate middlemen, and replace human computers and robots with
+mechanical robots controlled and directed by artificial intelligence.
+
+
+As general purpose robots become available and cheap, small shops will
+emerge that can produce the equivilent of a small factory that
+employs 50 people today, with only a handful of people.  The people
+in the company will not have to worry about production, but they will
+be concerned with design, customization and overseeing and optimizing
+processes.
+
+Small production runs become profitable when supply chains are
+automated and logistics becomes as efficient at small scales as they
+are now at large scales.
+
+This will make it possible to build distributed supply and production
+chains that require as little transporation as possible.  So that when
+you order something, it sets into motion a cascade of orders and
+microcontracts that sends materials to a producer who modifies them,
+who then sends them to another producer who assembles them and then is
+shipped directly to the customer.
+
+At each stage, the network will arrange everything, from ordering
+parts, negotiation of terms,  payments and delivery.
+
+But in many cases this is just the beginning.  Non-consumable goods
+will still be connected to this production chain, and the customer
+then will be able to maintain things over long periods of time.  Data
+being sent back to the producers are used not only to react to
+failures but anticipate them and arrange for repairs, upgrades etc.
+And people will still very much be in the loop -- needs change over
+time, so that something that fills a need for a single person will
+need to adapt if they get married, and then again when they have
+children and then again when children have grown etc.
+
+So a purchase of a clothes washing machine that has a 50 year expected
+lifespan, could become a long term relationship for the small shop
+that produced it.  The shop not only builds and sells new machines, it
+maintains and continues to ensure that it will meet the customer's
+needs over multiple generations.  Over time, this will become the
+majority of a shop's business and revenue.  And when it finally does
+need to be replaced, it will be properly recycled and the materials
+put back into the material supply chain.
+
+
+
+** Impact on Climate Change.
+
+What would be the impact on the carbon foot print?
+
+
+** How Could This Work?
+
+*** It Torrent
+*** Sneaker Net of Things (SNOT)
