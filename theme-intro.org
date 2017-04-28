@@ -39,12 +39,37 @@ The initial group of research themes that will launch Chenla include:
 * Process Guilds 
 [see main page]
 
-* Facts & Fnords 
+Networked AIs and Robots will replace nearly all human
+computers and robots.
 
-* Externalized: Mind, Muscle & Memory 
+It will consolidate the assembly line, transactions,
+transportation, modal shipping into a largely autonomous
+network that will make small production, shortest-hop
+supply, production, maintainence, and recycling.
+
+The result will be a system that is far more flexible, and
+efficient than centralised mass production.  It also has the
+/potential/ of providing good, stable long term jobs and
+quality of life for people in places that are nice to live
+in.
+
+I emphasize potential, because this type of a network is, as
+Kevin Kelly might say, inevitable, but the form that it will
+take is not.  There will be people trying to game the
+system, consolidate power and wealth.  There will be
+pushback from nation-states and institutions.
+
+But /if all did go right/, it could be a very nice future.
+
+* Facts & Fnords 
+[see main page]
+
+* Externalization: Mind, Muscle & Memory 
+[see main page]
 
 * Identity: Roles & Personas 
+[see main page]
 
 * Intentional Ecosystems
-
+[see main page]
 
