@@ -85,8 +85,8 @@ githubchart -u deerpig ./img/contrib.svg
 ** Chenla Research Themes
 
  - [[./theme-intro.org][Introduction]]
-   - Process Guilds 
-   - Facts & Fnords 
-   - Externalized: Mind, Muscle & Memory 
-   - Identity: Roles & Personas 
-   - Intentional Ecosystems
+   - [[./theme-process.org][Process Guilds]] 
+   - [[./theme-facts.org][Facts & Fnords]] 
+   - [[./theme-external.org][Externalization: Mind, Muscle & Memory]]
+   - [[./theme-identity.org][Identity: Roles & Personas]]
+   - [[./theme-ecosystem.org][Intentional Ecosystems]]
