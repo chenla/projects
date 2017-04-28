@@ -64,6 +64,34 @@ But /if all did go right/, it could be a very nice future.
 * Facts & Fnords 
 [see main page]
 
+Human societies run on the identification, testing,
+confirming and exchange of facts.  In a broader sense every
+living thing does the same thing.  We try to figure out what
+is happening, determine the probability of it being true or
+not and then making a decision.  If you get the fact that
+there is a saber tooth tiger in the bushes ahead of you
+wrong, you are dead.
+
+But before something becomes a fact, that has been
+determined to be true, there are many assertions that are
+made that when tested may be true, may be false, may be
+intentionally false (aka a lie) as well as estimating the
+probability of something being true or not.  If something is
+true but has a very low probability we treat it differently
+from what is more likely to happen.  We call the sum total
+of all possible causal states for an assertion a fnord.
+Every assertion has is a fnord until it has been observed
+and evaluated and then beomes fact, fiction, truth lie etc.
+
+The Internet has flooded us with assertions, but hasn't yet
+provided a means of determining what is true and false,
+probable and improbable.
+
+The Fact & Fnord Research Group will explore how to solve
+this problem and develop infrastructure and platforms that
+can be used in potentially every facet of personal, civic,
+commercial and social situation.
+
 * Externalization: Mind, Muscle & Memory 
 [see main page]
 
