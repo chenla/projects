@@ -101,7 +101,12 @@ probable and improbable.
 The Fact & Fnord Research Group will explore how to solve
 this problem and develop infrastructure and platforms that
 can be used in potentially every facet of personal, civic,
-commercial and social situation.
+commercial, and social act we take in life.  Again, there
+will be some odd new concepts that we will be introducing
+including holons, duck tests, canary tests, cascading rule
+sets and graph databases that will be used to build
+infrastructure and platforms that can be deployed as
+services and products.
 
 * Externalization: Mind, Muscle & Memory 
 [see main page]
