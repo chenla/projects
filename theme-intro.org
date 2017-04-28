@@ -22,17 +22,19 @@
 
 * Introduction
 
-Chenla breaks work into broad themes which represent research groups
-that will have any number of associated interconnected sub-themes and
-deliverables including: projects, code, designs, demos, prototypes,
-products, seminars, publications, media, experiments, joint-ventures,
+Chenla breaks work into broad themes which represent
+research groups that will have any number of associated
+interconnected sub-themes and deliverables including:
+projects, code, designs, demos, prototypes, products,
+seminars, publications, media, experiments, joint-ventures,
 and spinoffs associated with them.
 
-The initial group of research themes that will launch Chenla include:
+The initial group of research themes that will launch Chenla
+include:
 
   - Process Guilds 
   - Facts & Fnords 
-  - Externalized: Mind, Muscle & Memory 
+  - Externalization: Mind, Muscle & Memory 
   - Identity: Roles & Personas 
   - Intentional Ecosystems
 
@@ -44,8 +46,9 @@ computers and robots.
 
 It will consolidate the assembly line, transactions,
 transportation, modal shipping into a largely autonomous
-network that will make small production, shortest-hop
-supply, production, maintainence, and recycling.
+distributed, federated network that will make small
+production, shortest-hop supply, production, maintainence,
+and recycling.
 
 The result will be a system that is far more flexible, and
 efficient than centralised mass production.  It also has the
@@ -116,6 +119,47 @@ services and products.
 
 * Identity: Roles & Personas 
 [see main page]
+
+Social media networks see users as what Mark Zukerberg
+calls, /the social graph/.  The social graph essentially
+takes Google's insight about ranking pages according to how
+other pages link to that page, and applied it to people and
+the connections they have with other people.
+
+What it misses (and this is something big enough to drive a
+jumbo jet through) is that this is not how people are
+connected to each other.
+
+Personal identity is complex and still not wholly
+understood.  None of us are one person, we are many
+different people, each playing a different overlapping role,
+with links to different people, with different levels of
+authority, wealth, credit, self-image and even
+personalities.
+
+We all play different roles, as friends, lovers, spouses,
+parents, children, siblings, citizens, employees, alumni,
+church or union or country-club member.  But social media
+tends to mash them all together in ways that cause all sorts
+of problems in our lives.  It's increasingly said that
+facebook makes you hate people.  That's because social media
+bleeds information from different roles ad personas in our
+lives to people who are not part of those roles.
+
+The problem is broader than social media.  It extends to
+your role as an employee or student when things that have
+nothing to do with your school or company come to their
+attention and they feel that they have a right to tell you
+what you can and can not do.  This is now a problem when you
+are going through border control, trying to rent an
+apartment, or get a mortgage, or even take your children to
+the neighborhood playground.  All of the walls we keep
+between roles that allow us to live normal lives have all
+been torn down.
+
+The Roles & Personas Research Group will explore solutions
+to these problems and develop methodologies, standards and
+code that can help return common sense privacy to our lives.
 
 * Intentional Ecosystems
 [see main page]
