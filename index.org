@@ -78,9 +78,10 @@ githubchart -u deerpig ./img/contrib.svg
 ** Truth & the Other Thing
  - [[./proj-fnord.org][Fnord]]
  - [[./proj-snot.org][SNOT]]
-** Saltmine
+** Platform
  - [[./salt-saltmine.org][Saltmine]]
-
+ - Napkin : from /Mappa Mundi/ (lit. Napkin of the World)
+ - Writ   : ledger & token
 
 ** Chenla Research Themes
 
