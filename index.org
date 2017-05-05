@@ -83,6 +83,9 @@ githubchart -u deerpig ./img/contrib.svg
  - Napkin : from /Mappa Mundi/ (lit. Napkin of the World)
  - Writ   : ledger & token
 
+** Tools
+- [[./tools-intro.org][Introduction]]
+
 ** Chenla Research Themes
 
  - [[./theme-intro.org][Introduction]]
