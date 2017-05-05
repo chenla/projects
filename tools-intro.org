@@ -22,7 +22,7 @@
 
 * Introduction
 
-/The Whole Earth Catalog/ : Access to Tools and it's
+/The Whole Earth Catalog/ : Access to Tools and its
 grandchild Kevin Kelly's /Cool Tools/ are fantastic, but we
 need something a bit more comprehensive, and authoritative
 as a long term tool reference -- I'm not talking about a
@@ -34,8 +34,8 @@ This is right up the Long Now's alley, as well as Cool
 Tools, but also Dartnell's crowd.  The idea is that if an
 asteroid wipes us out, and people find these books, the
 first will be a primer that will show how to recycle
-existing materials but also how to mine and turn it all,
-eventually into the tools needed to build first an
+existing materials but also how to mine and turn it all into
+steel and eventually the tools needed to build first an
 agricultural and then industrial civilization.
 
 You can do a hell of a lot with a bit of flint, a hoe,
