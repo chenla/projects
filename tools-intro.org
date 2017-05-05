@@ -22,3 +22,36 @@
 
 * Introduction
 
+/The Whole Earth Catalog/ : Access to Tools and it's
+grandchild Kevin Kelly's /Cool Tools/ are fantastic, but we
+need something a bit more comprehensive, and authoritative
+as a long term tool reference -- I'm not talking about a
+history, or an encyclopedia -- but to get to the essence of
+what each tool is, history, how to make, how to use, and
+precise instructions and designs in how to make....
+
+This is right up the Long Now's alley, as well as Cool
+Tools, but also Dartnell's crowd.  The idea is that if an
+asteroid wipes us out, and people find these books, the
+first will be a primer that will show how to recycle
+existing materials but also how to mine and turn it all,
+eventually into the tools needed to build first an
+agricultural and then industrial civilization.
+
+But it won't start out that way -- it will start out as an
+inventory of the essential tools needed for working with
+wood, metal, agriculture, animal husbandry, fishing.  And
+then move on to tools for working with and making machines.
+
+It will have to cover things that the tools are meant to
+work with -- so nails, screws, hinges etc are important.
+Tools for creating and working with iron and steel.
+Welding.  How to make charcoal, and a blast furnace.  How to
+build a foundry, and make everything from candles, to lamps,
+
+And we will ensure that this will work in different
+bioregions at different levels of complexity -- Mad Max,
+neo-Edwardian, Bladerunner.  And in different atmospheres, a
+vacuum and different levels of gravity.  So this toolset (or
+at least a subset of it) should be just as useful on ISS,
+the moon, mars or in the belt.
