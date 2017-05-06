@@ -34,7 +34,7 @@ include:
 
   - Process Guilds 
   - Facts & Fnords 
-  - Externalization: Mind, Muscle & Memory 
+  - Externalized: Mind, Muscle & Memory 
   - Identity: Roles & Personas 
   - Intentional Ecosystems
 
@@ -111,7 +111,7 @@ sets and graph databases that will be used to build
 infrastructure and platforms that can be deployed as
 services and products.
 
-* Externalization: Mind, Muscle & Memory 
+* Externalized: Mind, Muscle & Memory 
 [see main page]
 
 
