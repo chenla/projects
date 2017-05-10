@@ -1,0 +1,27 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Bell Foundry
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :Name:      /home/deerpig/proj/chenla/projects/foundry-bell.org
+  :Created:   2017-05-10T18:28@Prek Leap (11.642600N-104.919210W)
+  :ID:        dd5b3147-dadb-4990-9e9c-91e2f7a644e2
+  :VER:       547687798.048019977
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:WMS2-4266
+  :CUSTOM_ID: 
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+* Introduction
+
