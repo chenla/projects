@@ -70,6 +70,8 @@ no propane? use charcoal..
   - [[https://arcosanti.org/index.php?q=project/activities/foundry/main.html][Bronze Foundry]] | arcosanti.org
   - [[https://www.alibaba.com/product-detail/Silicon-Carbide-sic-Crucibles-for-melting_1762875646.html][Silicon Carbide Crucibles For Melting Cooper And
     Brass]] | Alibaba.com
+  - [[http://anvilfire.com/iForge/tutor.php?lesson=jd_tongs/demo][Hand Forging Blacksmiths and Foundry Tongs]] | anvilfire iForge
+
 
 Solari paid the bills and supported construction of
 Arcosanti by selling windbells.  At present they sell some
@@ -95,7 +97,7 @@ Notes:
     from two pieces
   - bronze melts at 1700F but they heat to 2200F which gives
     them a longer time to pour before the metal cools
-  - foundry tongs
+  - foundry tongs -- 2-man lifting tongs & crucible tongs
   - the aluminum patterns are on plate --
   - they have a pneumatic press contraption on wheels
   - an agitator is used (part of the press?) to compact the sand
