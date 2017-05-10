@@ -96,4 +96,6 @@ Notes:
   - bronze melts at 1700F but they heat to 2200F which gives
     them a longer time to pour before the metal cools
   - foundry tongs
-  - 
+  - the aluminum patterns are on plate --
+  - they have a pneumatic press contraption on wheels
+  - an agitator is used (part of the press?) to compact the sand
