@@ -67,6 +67,8 @@ githubchart -u deerpig ./img/contrib.svg
  - Plywood
  - Dimensional
  - Paper
+** Foundry
+ - [[./foundry-bell.org][Bell Foundry]]
 ** Bento & Tiffin
  - [[./proj-bento-box.org][Bento Box System]]
  - Rack Module
