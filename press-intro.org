@@ -82,6 +82,28 @@ fixed on the future.
 
 ---
 
+One of the core ideas that will be introduced is /process guilds/.
+The idea of decentralizing production and logistics to make possible a
+network of production that is far more flexible and powerful than can
+be achieved through centralized factorys and supply chains that are
+highly efficient at scale.  Robotics and AI will make it possible for
+many small operations come work together on a job by job basis to be
+able to produce far higher quality goods and services that are
+customized for individual needs and when possible to provide these
+things as close to where they are needed as possible.  The system will
+work a somewhat like bit-torrent, which breaks large files into
+smaller parts which are /seeded/ from many different places.  So that
+when you download a large file such as a movie, you are not
+downloading from one location but many at the same time.  The same
+idea could be applied to work as a /thing-torrent/ but instead of each
+seeder serving a copy of a part of a file, each seeder will contribute
+to the production of a product or service with the last step in being
+the delivery of a finished product.  Rather than a single company
+placing orders for materials, or sub-assemblies or design or
+processing, the network itself will organize it and as each step in
+the process guild is bid on and assigned, the network will then create
+a torrent that the customer runs and will result in what is needed.
+
 
 
 
