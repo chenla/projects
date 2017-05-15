@@ -82,18 +82,28 @@ fixed on the future.
 
 ---
 
-One of the core ideas that will be introduced is /process guilds/.
-The idea of decentralizing production and logistics to make possible a
-network of production that is far more flexible and powerful than can
-be achieved through centralized factorys and supply chains that are
-highly efficient at scale.  Robotics and AI will make it possible for
-many small operations come work together on a job by job basis to be
-able to produce far higher quality goods and services that are
-customized for individual needs and when possible to provide these
-things as close to where they are needed as possible.  The system will
-work a somewhat like bit-torrent, which breaks large files into
-smaller parts which are /seeded/ from many different places.  So that
-when you download a large file such as a movie, you are not
+The recent alarm about how robots and automation will eliminate jobs
+and only make the rich even richer is a very real scenario.  But it
+doesn't have to happen that way.  Automation using AI and robotics is
+inevitable, but the form that it takes is not.  Every major
+technological revolution results in breaking up existing power
+structures and for at least a short time, moves that power from the
+center to the edges.  Before power beginds to consolidate around a
+small number of players.  We are at the beginning of one of those
+moments in history.  What we do with it is up to us.
+
+One of the core ideas that will be introduced in the primer is
+/process guilds/.  The idea of decentralizing production and logistics
+to make possible a network of production that is far more flexible and
+powerful than can be achieved through centralized factorys and supply
+chains that are highly efficient at scale.  Robotics and AI will make
+it possible for many small operations come work together on a job by
+job basis to be able to produce far higher quality goods and services
+that are customized for individual needs and when possible to provide
+these things as close to where they are needed as possible.  The
+system will work a somewhat like bit-torrent, which breaks large files
+into smaller parts which are /seeded/ from many different places.  So
+that when you download a large file such as a movie, you are not
 downloading from one location but many at the same time.  The same
 idea could be applied to work as a /thing-torrent/ but instead of each
 seeder serving a copy of a part of a file, each seeder will contribute
@@ -104,7 +114,11 @@ processing, the network itself will organize it and as each step in
 the process guild is bid on and assigned, the network will then create
 a torrent that the customer runs and will result in what is needed.
 
-
+In effect the system takes most of the middlemen out of the picture,
+which means that finished goods and services will be far cheaper.  And
+nearly every order will assemble a custom supply chain, production
+chain and logistics with bids and payments all happening
+automatically.
 
 
 
