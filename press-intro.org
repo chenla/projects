@@ -162,3 +162,15 @@ been true for a very long time.  But what if it wasn't?
 
 Scale and working at scale is based on some very fundamental
 assumptions.  But what if those assumptions were not absolute?  
+
+Oh, you can't compete against Walmart, or Seven-Eleven or McDonalds,
+or Alibaba, Amazon, Google, or Facebook because they can buy things in
+volume and get their costs down lower than a small shop ever could.
+Google can get electricity, bandwidth, and hardware cheaper -- they
+have the resources to build datacenters so large that they have their
+own the name, the "Googleplex."  Industrial scale farms can keep their
+costs so low, and their volumes so high that no one can compete with
+them on price.  Small farmers have been driven out of business because
+they can't even cover their costs at the prices that the industrial
+giants can make a profit at.
+
