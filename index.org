@@ -67,6 +67,12 @@ githubchart -u deerpig ./img/contrib.svg
  - Plywood
  - Dimensional
  - Paper
+** Press
+- [[./press-intro.org][Introduction]]
+- Paper
+- Printer
+- Binder
+- Publisher
 ** Foundry
  - [[./foundry-bell.org][Bell Foundry]]
 ** Bento & Tiffin
