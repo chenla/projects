@@ -1,9 +1,9 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE: Chenla Press Introduction
+#+TITLE: Chenla Scopic_Press Introduction
 #+STARTUP: showall
 #+PROPERTY: filename
   :PROPERTIES:
-  :CUSTOM_ID: Chenla_Press_Introduction
+  :CUSTOM_ID: Chenla_Scopic_Press_Introduction
   :Name:      /home/deerpig/proj/chenla/projects/press-intro.org
   :Created:   2017-05-15T13:12@Prek Leap (11.642600N-104.919210W)
   :ID:        0cfebbc7-c92c-4bb7-bfb8-6786e0b3eb5d
@@ -25,3 +25,9 @@
 
 * Introduction
 
+
+ - [[https://medium.com/@nickkokonas/why-we-are-self-publishing-the-aviary-cookbook-lessons-from-the-alinea-book-e89236ab6ca1][Why We Are Self Publishing the Aviary Cookbook - Lessons From the Alinea Book.]]
+ - Warehouseing, order fulfillment: [[https://www.blackbox.cool/][Blackbox]]
+
+ - leanpub.com
+ - lulu.com
