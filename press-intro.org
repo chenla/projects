@@ -80,7 +80,7 @@ fixed on the future.
 
 
 
----
+* Localizing Globalization
 
 The recent alarm about how robots and automation will eliminate jobs
 and only make the rich even richer is a very real scenario.  But it
@@ -150,7 +150,15 @@ And nearly every order will assemble a custom supply chain, production
 chain and logistics with bids and payments all happening
 automatically.
 
+** The end of economies of scale
 
+Economies of scale is the undisputed meta mantra that has been chanted
+/ad nauseum/ by every industrialist or industrialist wannabe for the
+past hundred years.
 
+Things become increasingly more efficient and cheaper the larger the
+scale at which you do them.  No one would argue that.  And this has
+been true for a very long time.  But what if it wasn't?
 
-
+Scale and working at scale is based on some very fundamental
+assumptions.  But what if those assumptions were not absolute?  
