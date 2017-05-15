@@ -174,3 +174,15 @@ them on price.  Small farmers have been driven out of business because
 they can't even cover their costs at the prices that the industrial
 giants can make a profit at.
 
+  - scale means that products must be standardized, and limited -- ala
+    Henry Ford's you can get a Model-T any color you like so long as
+    it's black.
+  - scale means that there are no small runs -- all runs must be
+    large, and must sell at that scale or the enormous capital costs
+    eat the company alive.  so you must keep sales up to support the
+    production infrastructure and vice versa
+  - the larger something is, the more simplified it has to become
+  - the larger something is, the more complex it becomes and the
+    slower it can respond to change, and adapt.  Once a ship is
+    underway it takes a long time to stop or turn.
+
