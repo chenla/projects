@@ -115,8 +115,38 @@ the process guild is bid on and assigned, the network will then create
 a torrent that the customer runs and will result in what is needed.
 
 In effect the system takes most of the middlemen out of the picture,
-which means that finished goods and services will be far cheaper.  And
-nearly every order will assemble a custom supply chain, production
+which means that finished goods and services will be far cheaper.
+This is exactly what happened with shipping pallets and shipping
+containers, they cut out longshoreman and workers who loaded and
+unloaded ships, railroad cars and trucks, so that goods could be
+transfered from one form of transporation to another in minutes or
+hours with a handful of people instead of days and weeks using scores
+or even hundreds of people.  When this was combined with computer
+networks and global financial transactions over those networks the
+result is what we call globalization.  Present day globalization works
+best at scale and with moving very large numbers of identical things.
+Small producers and small production runs could not scale large enough
+to take advantage of the system, so ever larger centralized production
+replaced smaller producers.  This is not only true for industrial
+production, but for agricultural production as well.
+
+The next stage of globalization will make it possible for small
+producers to compete at small scales with companies producing at
+scale.  And I believe that there is a window of opportunity to
+leverage the strength of small producers to be able to produce highly
+customized goods and services that the large centralized producers can
+not provide.  If you have a choice between something made locally,
+that has been designed and built specifically for you, for the same
+price as the cookie cutter product from a factory on the opposite side
+of the planet that is designed to break down in three years to force
+you to buy another one, what would you choose?
+
+Small local producers who build things that last and are designed to
+be repaired and upgraded are not just selling you something, they are
+building a relationship with you that spans decades or even
+generations.
+
+And nearly every order will assemble a custom supply chain, production
 chain and logistics with bids and payments all happening
 automatically.
 
