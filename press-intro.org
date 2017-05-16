@@ -150,6 +150,19 @@ And nearly every order will assemble a custom supply chain, production
 chain and logistics with bids and payments all happening
 automatically.
 
+** Just in time
+
+-- in effect you are routing production, and using a traveling
+salesman problem type solution to find the best match between the
+location of each part of the guild and the end destination.
+
+-- this is very much a just-in-time model, which can be both a bug and
+a feature.  In the case of the Bangkok floods, just-in-time resulted
+in the whole chain breaking.  But process guilds are designed to be
+flexible so that if there is a problem in one place, the system will
+route production around the problem.
+
+
 ** The end of economies of scale
 
 Economies of scale is the undisputed meta mantra that has been chanted
