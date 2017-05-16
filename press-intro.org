@@ -242,6 +242,16 @@ probably doing okay, and your internal use of that service will
 benefit greatly from it.
 
 #+begin_quote
+By carving out an operational piece of the company as a platform, they
+could future-proof the company against inefficiency and technological
+stagnation.
+
+-- [[https://techcrunch.com/2017/05/14/why-amazon-is-eating-the-world/][Why Amazon is eating the world]] | Zack Kanter, TechCrunch
+#+end_quote
+
+
+
+#+begin_quote
 So one day Jeff Bezos issued a mandate.  He's doing that all the time,
 of course, and people scramble like ants being pounded with a rubber
 mallet whenever it happens. But on one occasion -- back around 2002 I
