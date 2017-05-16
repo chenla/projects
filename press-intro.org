@@ -150,6 +150,15 @@ And nearly every order will assemble a custom supply chain, production
 chain and logistics with bids and payments all happening
 automatically.
 
+---
+
+Another way of thinking about what I am proposing is to take all of
+the things we have learned that made globalization such a success at
+scale, we need to apply to localization at small scales and that the
+way this will be done is through automation including robots and
+software that includes AI.
+
+
 ** Just in time
 
 -- in effect you are routing production, and using a traveling
