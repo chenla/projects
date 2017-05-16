@@ -162,6 +162,17 @@ in the whole chain breaking.  But process guilds are designed to be
 flexible so that if there is a problem in one place, the system will
 route production around the problem.
 
+But this is not enough -- the system has to incorporate
+load-balancing, and be able to anticipate demand but also slowdown in
+demand -- the larger the network becomes the more efficient it will
+become because the load can be taken up outside a bioregion when need
+be.  And seasonal fluxuations in different regions can mean that
+production in one place because it is a low season can continue and
+delivered to places where it is high season.
+
+Low season is also the time when stockpiles can be built up, like
+chopping wood throughout the summer for the comming of winter.
+
 
 ** The end of economies of scale
 
