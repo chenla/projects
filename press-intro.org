@@ -193,11 +193,20 @@ ever reach the same production levels per hectre of a Chinese or
 Japanese farm from the 18th or early 19th century.  Such farms didn't
 grow one crop on a plot of land, they would grow dozens at once.  And
 taken together each type of plant will have a lower yield per hectre
-but all of the plants and animals grown at the same time taken
-together will have a far higher yeild, with far less outside inputs
-than even the most advanced GM monoculture farm.  But traditional
-farming techniques were also highly labor intensive and very specific
-to the microclimate and conditions on each plot.  These systems did
-not scale.
+but all of the plants and animals, taken together will have a far
+higher yeild, with far less outside inputs than even the most advanced
+GM monoculture farm.  But traditional farming techniques were also
+highly labor intensive and very specific to the microclimate and
+conditions on each plot.  These systems did not scale.
 
+** Everything is ERP
 
+ERP models business processes -- in effect, we are proposing building
+a mesh of business processes that are, when possible, automated, and
+everything is interoperable with everything else.
+
+  - network/compute/storage
+  - order fulfillment
+  - cost of goods/services
+  - delivery
+  - market
