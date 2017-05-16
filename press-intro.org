@@ -232,6 +232,7 @@ everything is interoperable with everything else.
 
 ** Everything is an outward facing service
 
+  - [[https://www.theatlantic.com/business/archive/2017/04/retail-meltdown-of-2017/522384/][The Great Retail Apocalypse of 2017]] | The Atlantic
   - [[https://techcrunch.com/2017/05/14/why-amazon-is-eating-the-world/][Why Amazon is eating the world]] | TechCrunch
 
 Jeff Bezo's insight was that if you are doing something inhouse, if
