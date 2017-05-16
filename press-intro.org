@@ -229,6 +229,29 @@ ERP models business processes -- in effect, we are proposing building
 a mesh of business processes that are, when possible, automated, and
 everything is interoperable with everything else.
 
+The problem with all of the ERP systems that I have looked at is that
+they are maps that describe business processes.  When you look at a
+process in an ERP application you are seeing a description of a
+process that is not directly connected to that process at all.  Even
+worse, most ERP requires you to do data entry to even do that much.
+
+There are exceptions -- sometimes inventory is included as part of the
+system -- but the inventory is itself an external description, like a
+library catalog.  Time card clocks can be integrated, as well as
+barcode and POS systems, but all of these are severely limited because
+POS and time clocks etc have crappy APIs that are inconsistent across
+vendors who add them on as an afterthought.  We need to come up with a
+widely accepted API for say, security cameras and biometric devices
+that venders can support as a standard.  If enough applications
+require that that standard be followed the venders will comply, but
+not without a lot of reluctance.
+
+As Larry Lessig said, code must be law -- we must bake our laws into
+our code.  In the same way, ERP must bake business processes into the
+code as well.  When you look at a business process in an ERP system
+you should be looking at the process, not a description of it.
+
+
 
 ** Everything is an outward facing service
 
