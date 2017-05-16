@@ -229,6 +229,20 @@ ERP models business processes -- in effect, we are proposing building
 a mesh of business processes that are, when possible, automated, and
 everything is interoperable with everything else.
 
+
+** Everything is an outward facing service
+
+  - [[https://techcrunch.com/2017/05/14/why-amazon-is-eating-the-world/][Why Amazon is eating the world]] | TechCrunch
+
+Jeff Bezo's insight was that if you are doing something inhouse, if
+you open that up as an external service that people can purchase it
+forces you to make that service competitive with the same service
+offered by other companies.  If you are making money, then you are
+probably doing okay, and your internal use of that service will
+benefit greatly from it.
+
+
+
   - network/compute/storage
   - order fulfillment
   - cost of goods/services
