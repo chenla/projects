@@ -156,7 +156,8 @@ Another way of thinking about what I am proposing is to take all of
 the things we have learned that made globalization such a success at
 scale, we need to apply to localization at small scales and that the
 way this will be done is through automation including robots and
-software that includes AI.
+software that includes AI.  In other words, localization is
+globalization without needing to scale....
 
 
 ** Just in time
