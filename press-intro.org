@@ -136,6 +136,24 @@ world’s powerful longshoremen’s unions.
 #+end_quote
 
 
+
+#+begin_quote
+But computers were the key. Once a complex manufacturing process could
+be supervised from afar, it could be broken up into the simplest
+constituent tasks, and those could be done almost anywhere. Why not do
+them in those economies that paid workers a pittance? Far-flung
+“global value chains” replaced assembly lines. Corporations came to do
+some of the work of governments, because in the free-trade climate
+imposed by the U.S., they could play governments off against one
+another. Globalization is not about nations anymore. It is not about
+products. And the most recent elections showed that it has not been
+about people for a long time. No, it is about tasks.
+
+-- [[http://www.claremont.org/crb/article/sending-jobs-overseas/][Sending Jobs Overseas]] | CRB
+#+end_quote
+
+
+
 In effect the system takes most of the middlemen out of the picture,
 which means that finished goods and services will be far cheaper.
 This is exactly what happened with shipping pallets and shipping
