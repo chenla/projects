@@ -57,6 +57,8 @@ basis until it is complete.  The majority of the work will not be in
 print, but will comprise a hypertext and graph-database that is
 managed in part by a weak semi-autonomous AI subsystem.
 
+* Towards an antifragile distributed technological civilization
+
 The civilization envisioned aims to be pragmatic, egalitarian and
 above all else sustainable economically, culturally, and ecologically.
 Rather than proscribing a top-down master-design and plan that is to
@@ -81,6 +83,11 @@ on the future.
 
 
 * Localizing Globalization
+
+  - [[http://www.claremont.org/crb/article/sending-jobs-overseas/][Sending Jobs Overseas]] | CRB
+  - [[bib:baldwin:2016great][The Great Convergence: Information Technology and the New
+    Globalization]] | Richard Baldwin (2016)
+  - 
 
 The recent alarm about how robots and automation will eliminate jobs
 and only make the rich even richer is a very real scenario.  But it
