@@ -135,6 +135,11 @@ world’s powerful longshoremen’s unions.
 -- [[http://www.claremont.org/crb/article/sending-jobs-overseas/][Sending Jobs Overseas]] | CRB
 #+end_quote
 
+  - network/compute/storage
+  - order fulfillment
+  - cost of goods/services
+  - delivery
+  - market
 
 
 #+begin_quote
@@ -362,8 +367,3 @@ definitely does not give a shit about your day.
 #+end_quote
 
 
-  - network/compute/storage
-  - order fulfillment
-  - cost of goods/services
-  - delivery
-  - market
