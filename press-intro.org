@@ -121,6 +121,21 @@ processing, the network itself will organize it and as each step in
 the process guild is bid on and assigned, the network will then create
 a torrent that the customer runs and will result in what is needed.
 
+#+begin_quote
+But around 1990, the cost of sharing information at a distance fell
+dramatically. Workers on complex projects no longer had to cluster in
+the same factory, mill town, or even country. Other factors entered
+in. Tariffs fell. The rise of “Global English” as a common language of
+business reduced the cost of moving information (albeit at an
+exorbitant cost in culture). “Containerization” (the use of
+standard-sized shipping containers across road, rail, and sea
+transport) made packing and shipping predictable and helped break the
+world’s powerful longshoremen’s unions.
+
+-- [[http://www.claremont.org/crb/article/sending-jobs-overseas/][Sending Jobs Overseas]] | CRB
+#+end_quote
+
+
 In effect the system takes most of the middlemen out of the picture,
 which means that finished goods and services will be far cheaper.
 This is exactly what happened with shipping pallets and shipping
