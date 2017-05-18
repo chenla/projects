@@ -157,16 +157,41 @@ small amount of it going to big operators who can do it at
 scale.  This will take some of the load off of the problem
 of waste management, and mining and refining raw materials.
 There will be limits to how far this can go -- but it would
-interesting to see how far it /could/ go.  Part of the
-problem is that disassembly is adhoc -- goods today aren't
-being built to be repaired, so aren't built to be repaired,
-let alone recycled.  If regulations are put into place that
-require all goods to be repairable with clear machine
-understandable methods for disassembly, the amount of
-materials recovered would likely be far higher.  Companies
-like Apple are notorious for this -- even going to the
-extreme of using fasteners that require special tools that
-only apple repair shops have access to.
+interesting to see how far it /could/ go.  This will not
+happen because it is the "right" thing to do, or because
+it's green or because it is mandated by the state -- all of
+which might or might not also be true -- people will do it
+if it is good business.
+
+Part of the problem is that disassembly is adhoc -- goods
+today aren't being built to be repaired, so aren't built to
+be repaired, let alone recycled.  If regulations are put
+into place that require all goods to be repairable with
+clear machine understandable methods for disassembly, the
+amount of materials recovered would likely be far higher.
+Companies like Apple are notorious for this -- even going to
+the extreme of using fasteners that require special tools
+that only apple repair shops have access to.
+
+I do believe that telepresence and video conferencing will
+improve dramatically over the next decade -- but this may
+well not be so important as Baldwin thinks, if the changes I
+outlined above take place.  If know-how is now confined to a
+handful of large players -- and much of that is still
+confined in developed countries, with manufacturing knowhow
+increasingly being confined to the six second unbundled
+winners, where will the knowhow come from for the newly
+empowered smaller shops around the world to obtain the
+knowledge they need to play the game?
+
+One scenario is that they will initially be locked out, so
+instead they will drive an opensource movement to replicate
+all of this specialized knowledge and share it.  If you are
+a small player this makes a lot of sense -- use open source
+and contribute back and you get all of the advantages of
+other people developing for you.  If you are primarily
+selling in local production chains then you aren't even
+worried about this helping your competition....
 
 
 
