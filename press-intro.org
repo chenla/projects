@@ -132,7 +132,25 @@ with 10 people can control 100 robots that are more
 efficient and don't sleep.  So a small shop will be able to
 produce what 100 or more people are needed to do today.
 
-
+Robots are now pretty much only used in large production
+environments -- they are expensive and difficult to
+program.  But there are a lot of startups that are aiming to
+change that in a big way.  These startups will sell to small
+shops to automate -- they will cost thousands or tens of
+thousands of dollars, not hundreds of thousands or
+millions.  They will be flexible, smart, capable of
+learning, working along side humans safely and be able to do
+multiple tasks.  They will be networked and plugged directly
+into ERP and transportation systems.  The robot will know
+that a self-driving truck will arrive at 10am to pick up an
+order, so the robot will know to prioritize work on that
+order and ensure that it is ready.  So each part of the
+system is not only aware of it's task, but is able to
+coordinate with other robots and the ERP system to change
+it's behavior.  People won't have to tell every robot what
+to do, they will only have to monitor overall processes, and
+do the bits that their robots can't do until a robot is
+brought in that can do those tasks as well.
 
 Middlemen will be eaten by ICT and AI -- sales, marketing,
 inventory, back office stuff will all be taken over by ERP
