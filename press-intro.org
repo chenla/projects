@@ -105,6 +105,73 @@ physically unbundled from laborers.
 
 * Localizing Globalization
 
+don't know where this belongs:
+
+the second unbundling favored 6 countries -- not the whole
+world.  This is because knowledge from the developed world
+decided where their manufacturing was going to go and for a
+variety of reasons -- fear of those countries learning what
+they knew, and perhaps these countries were easier to deal
+with in the ways that were needed -- but if "labour is
+unbundled from labourers" things could change.
+
+I'm positing several things -- the transporation revolution
+is not complete -- automation will change the economics of
+transporation and transhipment (moving goods from one form
+of transport to another -- unloading and loading) to negate
+the present advantage of economies of scale -- the lower
+limit is now set basically at the size of a standard
+shipping contain and/or pallet.  These are the atomic units
+of globalized transporation -- if that size shrinks, then we
+will see smaller shops being able to compete in ways that
+they can't now.
+
+Second -- robotics amplifies the labor of a single person.
+One person can control a dozen or more robots, so a shop
+with 10 people can control 100 robots that are more
+efficient and don't sleep.  So a small shop will be able to
+produce what 100 or more people are needed to do today.
+
+Middlemen will be eaten by ICT and AI -- sales, marketing,
+inventory, back office stuff will all be taken over by ERP
+AI systems.
+
+Automation will allow far more customzation, and make it
+possible for shops to produce a wider variety of goods.
+Retooling and setting up production will eventually become a
+mouseclick away.  Ten customers send 50 CAD files, and you
+still only need a handful of people to manage the robots to
+produce the goods and then hand them off to an automated
+Dabbawallah sneakernet that will route each item to the next
+stage of production or the final product to the end user.
+
+Production chains can be built for production of single
+items.  
+
+More efficient production-to-recycle tracking of items will
+mean that a significant amount of raw materials will be from
+recycled goods.  So, a network of automated local recycling
+will dissasemble, and recover raw materials and reship to
+local production instead of it going to waste or only a
+small amount of it going to big operators who can do it at
+scale.  This will take some of the load off of the problem
+of waste management, and mining and refining raw materials.
+There will be limits to how far this can go -- but it would
+interesting to see how far it /could/ go.  Part of the
+problem is that disassembly is adhoc -- goods today aren't
+being built to be repaired, so aren't built to be repaired,
+let alone recycled.  If regulations are put into place that
+require all goods to be repairable with clear machine
+understandable methods for disassembly, the amount of
+materials recovered would likely be far higher.  Companies
+like Apple are notorious for this -- even going to the
+extreme of using fasteners that require special tools that
+only apple repair shops have access to.
+
+
+
+
+---
 
 The recent alarm about how robots and automation will eliminate jobs
 and only make the rich even richer is a very real scenario.  But it
