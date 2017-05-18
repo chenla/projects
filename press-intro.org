@@ -107,6 +107,65 @@ physically unbundled from laborers.
 
 don't know where this belongs:
 
+#+begin_quote
+Summary of the “three cascading constraints” view of
+globalization.
+
+When horse carts and sailing ships were high-tech, goods,
+ideas, and people mostly stayed put. For the vast majority
+of humanity, economic life was orga nized at the village
+level (top panel).
+
+Steamships and railroads radically lowered the cost of
+long-distance trade, al- lowing production and consumption
+to separate in what could be called globaliza- tion’s fi rst
+unbundling ( middle panel). But relaxing the shipping
+constraint did not make the world flat since the
+communication and face-to-face constraints were still in
+evidence. Indeed, even as production moved away from
+consumption, manufac- turing gathered into factories and
+industrial districts—not to economize on trade costs, but
+rather to save on communication and face-to-face costs.
+
+This microclustering spurred innovation in industrializing
+nations, and the in- novations stayed local due to the high
+cost of moving ideas. The result was that know-how-per-
+worker rose much faster in the North than it did in the
+South. Ulti- mately, this is what created the great
+North-South income divide known as the Great Divergence.
+
+Globalization’s second unbundling (bottom panel) became
+economical when rev- olutionary advances in information and
+communication technology made it possible to organize
+complex production processes even when they were separated
+internation- ally. When this technical possibility became a
+real ity, low wages in developing nations enticed G7 firms
+to offshore some labor- intensive stages of
+production. Since the pro- duction stages that were
+offshored still had to fit flawlessly with those left
+onshore, the offshoring firms sent their know- how along
+with the jobs. In this way, the flows of knowledge that used
+to happen only inside G7 factories became a key player in
+global- ization (light bulbs in bottom panel).
+
+These new information flows allowed a handful of developing
+nations to industri- alize at a dizzying pace— resulting in
+a massive shift of industry from the North to the
+South. This Southern industrialization—together with the
+commodity super-cycle it launched—propelled emerging market
+income growth rates to unprecedented levels.  The result was
+the “shocking share shift ” shown in Figure 1.
+
+In a nutshell, this is how the ICT revolution transformed
+globalization and its impact on the world economy; up to
+1990, globalization was mostly about goods crossing borders;
+now it is also about know-how crossing borders.
+
+-- [[bib:baldwin:2016great][The Great Convergence]] pg8 | Richard Baldwin (2016)
+#+end_quote
+
+
+
 the second unbundling favored 6 countries -- not the whole
 world.  This is because knowledge from the developed world
 decided where their manufacturing was going to go and for a
