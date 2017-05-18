@@ -87,7 +87,8 @@ on the future.
   - [[http://www.claremont.org/crb/article/sending-jobs-overseas/][Sending Jobs Overseas]] | CRB
   - [[bib:baldwin:2016great][The Great Convergence: Information Technology and the New
     Globalization]] | Richard Baldwin (2016)
-  - 
+  - [[bib:baldwin:baldwin:2006globalisation][Globalisation: the great unbundling(s)]] | Richard
+    Baldwin (2006)
 
 The recent alarm about how robots and automation will eliminate jobs
 and only make the rich even richer is a very real scenario.  But it
