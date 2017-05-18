@@ -80,15 +80,31 @@ today.  But the primer will evolve over time to always address the
 needs of the present in context with a history and with an eye fixed
 on the future.
 
-
-
-* Localizing Globalization
+* Globalization
 
   - [[http://www.claremont.org/crb/article/sending-jobs-overseas/][Sending Jobs Overseas]] | CRB
   - [[bib:baldwin:2016great][The Great Convergence: Information Technology and the New
     Globalization]] | Richard Baldwin (2016)
   - [[bib:baldwin:baldwin:2006globalisation][Globalisation: the great unbundling(s)]] | Richard
     Baldwin (2006)
+
+
+#+begin_quote
+Thus globalization’s third unbundling is likely to involve
+workers in one nation providing services in another nation
+-- including services that today require physical
+presence. Or to use the unbundling theme, globalization’s
+third unbundling is likely to allow labor services to be
+physically unbundled from laborers.
+
+-- [[bib:baldwin:2016great][The Great Convergence]] | Richard Baldwin (2016)
+#+end_quote
+
+
+
+
+* Localizing Globalization
+
 
 The recent alarm about how robots and automation will eliminate jobs
 and only make the rich even richer is a very real scenario.  But it
