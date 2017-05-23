@@ -25,3 +25,15 @@
 
 * Introduction
 
+
+I am so sick of websites -- there is so much crap that vies for one's
+attention it's no wonder people complain about being distracted.
+
+I've been looking into EPUB3 today to see what that can do for us, and
+I was pleasantly surprised that EPUB is such a powerful, simple, open
+format.
+
+Looked at [[http://vivliostyle.com/en/][vivliostyle]] and their platform is impressive, but all
+proprietary, and sadly CSS Regions has not been adopted by browsers.
+In many respects what they are building is a lot of what I would like,
+but again it's not open....  none starter.
