@@ -45,6 +45,9 @@ and metadata and source and then it can propagate through the network
 via something like bit-torrent, and then be indexed and integrated
 into your bramble....
 
+In fact, by using the css media, we could even have versions designed
+to run in text-based displays like an emacs app...
+
 Looked at [[http://vivliostyle.com/en/][vivliostyle]] and their platform is impressive, but all
 proprietary, and sadly CSS Regions has not been adopted by browsers.
 In many respects what they are building is a lot of what I would like,
