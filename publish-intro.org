@@ -56,6 +56,9 @@ and metadata and source and then it can propagate through the network
 via something like bit-torrent, and then be indexed and integrated
 into your bramble....
 
+The idea of being able to weave an epub into a bramble -- not just
+keep it as a zipped file on disk, is very interesting.
+
 In fact, by using the css media, we could even have versions designed
 to run in text-based displays like an emacs app...
 
@@ -64,4 +67,9 @@ proprietary, and sadly CSS Regions has not been adopted by browsers.
 In many respects what they are building is a lot of what I would like,
 but again it's not open....  non-starter.
 
+
+One concern is that epubs are outside of the web in most respects
+because they aren't being served from a web server that a crawler can
+index.  I don't know if you can link to something inside an epub
+either...  These are important issues.
 
