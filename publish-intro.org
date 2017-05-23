@@ -25,6 +25,17 @@
 
 * Introduction
 
+  - [[https://github.com/futurepress/epub.js/][futurepress/epub.js]]  Enhanced eBooks in the browser | Github
+  - [[http://epubzone.org/][EPUBZone - The Community and News Site for all things EPUB]]
+  - [[http://readium.org/][Readium]] | Home
+  - [[https://github.com/readium][Readium]] | GitHub
+  - [[https://github.com/ncbi/PubReader][ncbi/PubReader: A new way to view journal articles]]
+  - [[https://medium.com/@sandersk/responsive-ebook-design-a-primer-8bba01328219][Responsive Ebook Design: A Primer – Sanders Kleinfeld]] | Medium
+  - [[https://www.ibm.com/developerworks/web/library/x-richlayoutepub/index.html][Create rich-layout publications in EPUB 3 with HTML5, CSS3, and
+    MathML]] | IBM DeveloperWorks
+  - What is EPUB3, Accessible EPUB3, EPUB3 Best Practices | Matt
+    Gerrish (O'Reily Books)
+
 
 I am so sick of websites -- there is so much crap that vies for one's
 attention it's no wonder people complain about being distracted.
