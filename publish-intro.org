@@ -31,9 +31,16 @@ attention it's no wonder people complain about being distracted.
 
 I've been looking into EPUB3 today to see what that can do for us, and
 I was pleasantly surprised that EPUB is such a powerful, simple, open
-format.
+format.  The great thing about epub is that it leverages the web stack
+without using /web browsers/.  There is more structure than the web,
+which is all good to me.  I'm now exploring if it can be used for
+large form-factor books -- these wouldn't open on mobile, but that's
+not such a bad thing.  The sequential nature of epubs, and that it is
+desiged to be paged, not scrolled, is very powerful.
 
 Looked at [[http://vivliostyle.com/en/][vivliostyle]] and their platform is impressive, but all
 proprietary, and sadly CSS Regions has not been adopted by browsers.
 In many respects what they are building is a lot of what I would like,
-but again it's not open....  none starter.
+but again it's not open....  non-starter.
+
+
