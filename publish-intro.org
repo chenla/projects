@@ -73,3 +73,12 @@ because they aren't being served from a web server that a crawler can
 index.  I don't know if you can link to something inside an epub
 either...  These are important issues.
 
+---
+
+Thinking back to my early work on BMF, I had originally thought that a
+burr would be a collection of files zipped up -- like a NeXT app.  In
+the end it seemed more trouble than it was worth -- but in a
+decentralized system, where you are replicatig stuff all over the
+place and you don't want to put too much computational load --
+converting, processing etc so that you have to generate all that stuff
+every time you get a file.....  the whole zip approach does make sense.
