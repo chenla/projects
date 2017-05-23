@@ -90,7 +90,8 @@ githubchart -u deerpig ./img/contrib.svg
  - [[./salt-saltmine.org][Saltmine]]
  - Napkin : from /Mappa Mundi/ (lit. Napkin of the World)
  - Writ   : ledger & token
-
+** Publish
+ - [[./publish-intro.org][Introduction]]
 ** Tools
 - [[./tools-intro.org][Introduction]]
 
