@@ -124,7 +124,13 @@ goes beyond what commercial publishers and even some authors want to
 allow you to do, even though this is very firmly within the scope of
 the concept of fair use.
 
+That's why a distributed system that is based on portable ebooks is
+the only way to go -- but you need to fork the book, not to change the
+text, but to annotate it and then to keep those changes in version
+control.
 
+Annotation is not just highlighting, but adding links, scholia, and
+glossa.
 
 --
 
