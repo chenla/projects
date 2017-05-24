@@ -130,7 +130,13 @@ text, but to annotate it and then to keep those changes in version
 control.
 
 Annotation is not just highlighting, but adding links, scholia, and
-glossa.
+glossa.  We need group annotation, and to be able to share annotations
+with other people.
+
+Copright and the twisted and sick ways it has been extended must go.
+We then need to replace it with the right of attribution, and the
+right to fork at which time it becomes a new work, but you can not
+change other people's work.
 
 --
 
