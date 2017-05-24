@@ -81,4 +81,16 @@ the end it seemed more trouble than it was worth -- but in a
 decentralized system, where you are replicatig stuff all over the
 place and you don't want to put too much computational load --
 converting, processing etc so that you have to generate all that stuff
-every time you get a file.....  the whole zip approach does make sense.
+every time you get a file.....  the whole zip approach does make
+sense.
+
+---
+
+Literate EPUB....  If an epub included source, then we could switch
+between the epub and source and update the document.  But since we can
+make external calls from within epub we have the possibility of
+documents being able to update themselves -- perhaps that means that
+there is a source container that is running the code and then from the
+viewer client we can connect to the container and dynamically update.
+
+
