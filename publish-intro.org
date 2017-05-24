@@ -109,6 +109,22 @@ We need an text we can annotate, and the cloud model makes this
 difficult.  Books, however, are portable, and they those copies are
 immutable which is important for annotation.
 
+Cloud based annoations have been attempted -- amazon syncs kindle
+last page read, annotations and notes across devices.  But it's all in
+the cloud on their servers in formats which we are not privy to.
+
+When you buy a book and underline words and phrases and scribble
+glosses and notes in the margins, that book becomes an extension of
+all of the the things you have written.  You can't divorce the notes
+from the book.  Syncing is nice, as far as it goes -- but you should
+be able to link to those notes -- and quote passages from the book
+together with the notes.  You should be able to create different sets
+of notes for different times that you read the book.  But all of this
+goes beyond what commercial publishers and even some authors want to
+allow you to do, even though this is very firmly within the scope of
+the concept of fair use.
+
+
 
 --
 
