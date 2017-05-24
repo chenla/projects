@@ -172,3 +172,9 @@ what people have to learn is that documents have structure and that
 structure has semantic meaning and without it their documents aren't
 very useful.
 
+I could see epub readers growing enormously in power, and if
+browsers don't build this into the browser, they could
+become as important as the browser.
+
+The other side of this will be the search interface which
+will be an hybrid local and cloud search interface.

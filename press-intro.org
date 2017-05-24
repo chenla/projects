@@ -57,5 +57,7 @@ basis until it is complete.  The majority of the work will not be in
 print, but will comprise a hypertext and graph-database that is
 managed in part by a weak semi-autonomous AI subsystem.
 
-
+I could see epub readers growing enormously in power, and if
+browsers don't build this into the browser, they could
+become as important as the browser.
 
