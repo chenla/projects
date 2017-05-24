@@ -141,4 +141,15 @@ change other people's work.
 --
 
 So if we start putting all of this together we can see the beginnings
-of a document oriented distributed Web
+of a document oriented distributed Web.
+
+Each of us has a personal library -- that we keep and control, not
+just have a licence to use in limited ways.
+
+Each work is a zip file that includes a html5 human readable version
+of the work.  It will also have the source code in a wiki language
+that can rebuild the work with additional annotations.  The original
+work, if it's not your own, will have a hash that tells you if it has
+been tampered with.  The zip file will also have an index, of the
+work, which is then merged into your own library index.  So every
+book you read is woven into your library.
