@@ -153,3 +153,8 @@ work, if it's not your own, will have a hash that tells you if it has
 been tampered with.  The zip file will also have an index, of the
 work, which is then merged into your own library index.  So every
 book you read is woven into your library.
+
+If you are on another device and make get another copy of the work and
+annotate it, you can then later sync and merge the two, and weave
+everything into your library.
+
