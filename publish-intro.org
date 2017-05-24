@@ -101,7 +101,13 @@ discussion forums and social media are Web Apps -- also part of the
 Web.  But books in the form of pdf, epub and mobi etc are not part of
 the web and they still are not suited to conversion into web pages.
 
+The web is a scroll, while books are a codex.  The codex handily beat
+the scroll before, and I don't see why if can't again.  But problems
+like reflowing, and variable screen sizes are holding the codex back.
 
+We need an text we can annotate, and the cloud model makes this
+difficult.  Books, however, are portable, and they those copies are
+immutable which is important for annotation.
 
 
 --
