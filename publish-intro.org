@@ -93,4 +93,18 @@ documents being able to update themselves -- perhaps that means that
 there is a source container that is running the code and then from the
 viewer client we can connect to the container and dynamically update.
 
+---
 
+The Web is still the WEB, images, video and audio have become part of
+the web because they can be embedded.  Other things like email,
+discussion forums and social media are Web Apps -- also part of the
+Web.  But books in the form of pdf, epub and mobi etc are not part of
+the web and they still are not suited to conversion into web pages.
+
+
+
+
+--
+
+So if we start putting all of this together we can see the beginnings
+of a document oriented distributed Web
