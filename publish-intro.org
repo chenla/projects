@@ -158,3 +158,17 @@ If you are on another device and make get another copy of the work and
 annotate it, you can then later sync and merge the two, and weave
 everything into your library.
 
+And once we have integrated literate computing, programing and devops
+along with business and educational processes, then we can really say
+goodbye to the ubiquitious /Office Suite/.  And that is important
+because word processing files and to a lesser extent pdfs (which are
+just portable word processing files) can go the way of the Dodo.
+
+This won't happen until we have a new generation of web and desktop
+editing apps that the great unwashed masses can point and grunt at,
+but once people grok the new paradigm and get used to some of it's
+restrictions and see how powerful it is, it will be adopted.  Most of
+what people have to learn is that documents have structure and that
+structure has semantic meaning and without it their documents aren't
+very useful.
+
