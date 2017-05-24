@@ -47,7 +47,7 @@ without using /web browsers/.  There is more structure than the web,
 which is all good to me.  I'm now exploring if it can be used for
 large form-factor books -- these wouldn't open on mobile, but that's
 not such a bad thing.  The sequential nature of epubs, and that it is
-desiged to be paged, not scrolled, is very powerful.
+designed to be paged, not scrolled, is very powerful.
 
 Ah! and it's very attractive that epub is portable -- it can be served
 from a server, but it works just as well as a file that can be copied
