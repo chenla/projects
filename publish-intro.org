@@ -207,6 +207,7 @@ Our only way forward with chenla publications will be to use
 fixed-layout:
 
   - [[http://www.idpf.org/epub/fxl/][EPUB 3 Fixed Layout Documents]] | IDPF
+  - [[https://www.slideshare.net/cwehrung/epub-3-html-5-css-3-fixedlayout][ePub 3, HTML 5 & CSS 3 (+ Fixed-Layout)]] | Slideshare
 
 #+begin_quote
 Fixed-layout eBooks are a popular format for eBooks today,
@@ -223,3 +224,10 @@ are not re-flowable like standard eBook files.
 
 -- [[https://ebookarchitects.com/learn-about-ebooks/non-fiction-fixed-layout/][Non-Fiction Fixed Layout]] | eBook Architects
 #+end_quote
+
+Having done a first pass google on fix-layout ePub3, I
+believe this will get us to where we need to be...  If this
+works out the way I hope, then we can use the epub version
+as the normative version of a text.
+
+I still have a /lot/ of questions...
