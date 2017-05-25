@@ -109,7 +109,7 @@ We need an text we can annotate, and the cloud model makes this
 difficult.  Books, however, are portable, and they those copies are
 immutable which is important for annotation.
 
-Cloud based annoations have been attempted -- amazon syncs kindle
+Cloud based annotations have been attempted -- amazon syncs kindle
 last page read, annotations and notes across devices.  But it's all in
 the cloud on their servers in formats which we are not privy to.
 
@@ -178,3 +178,23 @@ become as important as the browser.
 
 The other side of this will be the search interface which
 will be an hybrid local and cloud search interface.
+
+---
+
+For the three columns and an icon layout that I've been
+working on for so long, I still have the challenge of
+creating all of that material.  Writing it for each page
+isn't going to work.  But what if all the other material is
+imported from other burrs at different scopes, and
+specifically, different LOCs?  So each item in the note
+columns will be taken from burrs:
+
+  - SN (Scope Note)
+  - TL;DR (which is the old BMF MicroNote)
+
+But we only have four colors, black, gray blue, red:
+
+  - Black (#000000;) :: narrative commentary
+  - Gray  (#4A4A4A;) :: what (person, concept, thing)
+  - Red   (#990000;) :: works 
+  - Blue  (#0033CC;) :: where, when (place, event)
