@@ -36,11 +36,6 @@
   - What is EPUB3, Accessible EPUB3, EPUB3 Best Practices | Matt
     Gerrish (O'Reily Books)
 
-
-I am so sick of websites -- there is so much crap that vies
-for one's attention it's no wonder people complain about
-being distracted.
-
 I've been looking into EPUB3 today to see what that can do
 for us, and I was pleasantly surprised that EPUB is such a
 powerful, simple, open format.  The great thing about epub
