@@ -231,3 +231,20 @@ works out the way I hope, then we can use the epub version
 as the normative version of a text.
 
 I still have a /lot/ of questions...
+
+---
+
+combine epub, bit-torrent, block chain, version control, and
+the web stack.
+
+propose this as an 18 month experiment -- everyone chips in
+a bit of money and people -- end it all with a summit in
+Phnom Penh....
+
+  - o'reilly
+  - mozilla 
+  - brewster kahle
+  - long now
+  - tim berners lee
+
+
