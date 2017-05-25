@@ -230,7 +230,8 @@ believe this will get us to where we need to be...  If this
 works out the way I hope, then we can use the epub version
 as the normative version of a text.
 
-I still have a /lot/ of questions...
+I still have a /lot/ of questions...  can we link to content
+in another epub?  That will be crucial...
 
 ---
 
