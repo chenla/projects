@@ -52,29 +52,23 @@ work just as well as a file that can be copied and stored
 and passed around....  We can extend the spec to include bmf
 index and metadata and wiki-source and then it can propagate
 through the network via something like bit-torrent, and then
-be indexed and integrated into your bramble....
+be indexed and woven into your bramble -- not just stored
+locally as a zipped file on disk.
 
-The idea of being able to weave an epub into a bramble --
-not just keep it as a zipped file on disk, is very
-interesting.
-
-In fact, by using the css media, we could even have versions
+In fact, by using css media, we could even have versions
 designed to run in text-based displays like an emacs app...
 
 Looked at [[http://vivliostyle.com/en/][vivliostyle]] and their platform is impressive, but
 all proprietary, and sadly CSS Regions has not been adopted
 by browsers.  In many respects what they are building is a
-lot of what I would like, but again it's not open....
+lot of what I would like, but again it's not open so it's a
 non-starter.
-
 
 One concern is that epubs are outside of the web in most
 respects because they aren't being served from a web server
 that a crawler can index.  I don't know if you can link to
 something inside an epub either...  These are important
 issues.
-
----
 
 Thinking back to my early work on BMF, I had originally
 thought that a burr would be a collection of files zipped up
@@ -85,7 +79,9 @@ put too much computational load -- converting, processing
 etc so that you have to generate all that stuff every time
 you get a file.....  the whole zip approach does make sense.
 
----
+It's impossible not to overstate the importance of
+distributed version control for a decentralized distributed
+web.
 
 Literate EPUB....  If an epub included source, then we could
 switch between the epub and source and update the document.
@@ -96,8 +92,6 @@ container that is running the code and then from the viewer
 client we can connect to the container and dynamically
 update.
 
----
-
 The Web is still the WEB, images, video and audio have
 become part of the web because they can be embedded.  Other
 things like email, discussion forums and social media are
@@ -106,16 +100,17 @@ pdf, epub and mobi etc are not part of the web and they
 still are not suited to conversion into web pages.
 
 The web is a scroll, while books are a codex.  The codex
-handily beat the scroll before, and I don't see why if can't
+handily beat the scroll before, and I don't see why it can't
 again.  But problems like reflowing, and variable screen
 sizes are holding the codex back.
 
-We need an text we can annotate, and the cloud model makes
-this difficult.  Books, however, are portable, and they
-those copies are immutable which is important for
-annotation.
+We need digital texts that can be annotated, and the cloud
+model makes this difficult.  Books, however, are portable,
+and copies are immutable which is important for annotation
+and to maintain distributed backup copies to ensure that
+texts survive.
 
-Cloud based annotations have been attempted -- amazon syncs
+Cloud based annotations have been attempted -- Amazon syncs
 kindle last page read, annotations and notes across devices.
 But it's all in the cloud on their servers in formats which
 we are not privy to.
@@ -146,10 +141,8 @@ must go.  We then need to replace it with the right of
 attribution, and the right to fork at which time it becomes
 a new work, but you can not change other people's work.
 
---
-
-So if we start putting all of this together we can see the beginnings
-of a document oriented distributed Web.
+So if we start putting all of this together we can see the
+beginnings of a document oriented distributed Web.
 
 Each of us has a personal library -- that we keep and
 control, not just have a licence to use in limited ways.
