@@ -202,3 +202,24 @@ But we only have four colors, black, gray blue, red:
   - Gray  (#4A4A4A;) :: what (person, concept, thing)
   - Red   (#990000;) :: works 
   - Blue  (#0033CC;) :: where, when (place, event)
+
+Our only way forward with chenla publications will be to use
+fixed-layout:
+
+  - [[http://www.idpf.org/epub/fxl/][EPUB 3 Fixed Layout Documents]] | IDPF
+
+#+begin_quote
+Fixed-layout eBooks are a popular format for eBooks today,
+especially for childrens eBooks and for complex non-fiction
+like cookbooks and textbooks. Unlike standard eBook files,
+fixed layout eBooks can keep the same page layout and design
+as their print book counterparts, and can sometimes contain
+enhancements that make them more interesting and
+interactive. Fixed Layout eBooks are not PDFs, and they
+should never be created from flat images of every page. They
+are fully-functional HTML-based eBook files in every way,
+however, the specific styles and layouts used in these files
+are not re-flowable like standard eBook files.
+
+-- [[https://ebookarchitects.com/learn-about-ebooks/non-fiction-fixed-layout/][Non-Fiction Fixed Layout]] | eBook Architects
+#+end_quote
