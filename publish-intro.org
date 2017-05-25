@@ -47,13 +47,12 @@ but that's not such a bad thing.  The sequential nature of
 epubs, and that it is designed to be paged, not scrolled, is
 very powerful.
 
-Ah! and it's very attractive that epub is portable -- it can
-be served from a server, but it works just as well as a file
-that can be copied and pasted as well....  Send the file --
-which could include bmf index and metadata and source and
-then it can propagate through the network via something like
-bit-torrent, and then be indexed and integrated into your
-bramble....
+EPUBs are portable -- they can be served from a server, but
+work just as well as a file that can be copied and stored
+and passed around....  We can extend the spec to include bmf
+index and metadata and wiki-source and then it can propagate
+through the network via something like bit-torrent, and then
+be indexed and integrated into your bramble....
 
 The idea of being able to weave an epub into a bramble --
 not just keep it as a zipped file on disk, is very
