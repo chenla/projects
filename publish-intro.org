@@ -94,3 +94,14 @@ same way that what it is archiving is as well.  Using a
 centralized system to back up centralized systems is not an
 answer.
 
+There is also a very important distinction between backups,
+which preserves the state of a running system, to an
+archive, which preserves the information in that system.
+
+----
+
+Part of the solution could be to get web sites who are
+serious about what they are publishing, to create serialized
+epubs of their content and copies placed in repositories.
+This should be as easy as setting up an RSS feed -- and
+should be part of the orginal development of the web site.
