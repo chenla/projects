@@ -122,10 +122,17 @@ duck tests, and when there is a consensus that index is
 accepted, and the hash of the index is added to the
 blockchain.
 
-So there is a hash of he original, a trustless index that
+for this to work we will need open source indexing and
+ducktest suites that are maintained by a group that is
+trusted.
+
+So there is a hash of the original, a trustless index that
 also has a hash -- so this reduces the problem of people
 trying to game the system.  And it establishes versioned
 editions that are consistent in a distributed distribution
 network.
 
+----
 
+we then expand this to test the truth of fnords -- that's
+what fnord.ltd will do....
