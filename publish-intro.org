@@ -120,7 +120,8 @@ what about using a blockchain miner approach to creating
 trusted indexes -- different people index and run through
 duck tests, and when there is a consensus that index is
 accepted, and the hash of the index is added to the
-blockchain.
+blockchain which is becomes part of the epub, that can be
+externally verified.
 
 for this to work we will need open source indexing and
 ducktest suites that are maintained by a group that is
@@ -136,3 +137,5 @@ network.
 
 we then expand this to test the truth of fnords -- that's
 what fnord.ltd will do....
+
+and with this all in place we can the add annotations
