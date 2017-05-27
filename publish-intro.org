@@ -113,3 +113,19 @@ It will be important to convince publishers to stop hoarding
 older content by placing it behind paywalls.  But we need to
 offer them a carrot in return -- to give them another
 revenue source to replace it....
+
+----
+
+what about using a blockchain miner approach to creating
+trusted indexes -- different people index and run through
+duck tests, and when there is a consensus that index is
+accepted, and the hash of the index is added to the
+blockchain.
+
+So there is a hash of he original, a trustless index that
+also has a hash -- so this reduces the problem of people
+trying to game the system.  And it establishes versioned
+editions that are consistent in a distributed distribution
+network.
+
+
