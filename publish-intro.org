@@ -33,4 +33,20 @@
  - [[https://en.wikipedia.org/wiki/Reference_work][Reference work]] | Wikipedia
 
 
-In publishing there are monographs, reference works and serials
+In publishing there are monographs, reference works and
+serials.
+
+On the Web there are web pages, blogs, wikis, and posts.
+
+A post is simular to an article that you would see in a
+magazine or newspaper.  There are some reference works in
+the form of wikis (wikipedia stands out) and there is a
+great deal of documentaion in the form of hierarchically
+structured texts simular to books.
+
+But the more you look at the web, electronic monographs,
+especially book length monographs are the exception.  The
+web is not an electronic library, it is something else.
+There is nothing wrong with this but there are institutional
+roles that monographs and journals play that the Web is not
+meeting.
