@@ -66,7 +66,8 @@ volume to the last issue of a volume.
  book reviews
 
    - selective
-   - enumerative (complete, ordered listing of all the items in a collection)
+   - enumerative (complete, ordered listing of all the items
+     in a collection)
    - evaluative
 
   - [[https://en.wikipedia.org/wiki/Enumeration][Enumeration]] | Wikipedia
@@ -105,3 +106,10 @@ serious about what they are publishing, to create serialized
 epubs of their content and copies placed in repositories.
 This should be as easy as setting up an RSS feed -- and
 should be part of the orginal development of the web site.
+
+-----
+
+It will be important to convince publishers to stop hoarding
+older content by placing it behind paywalls.  But we need to
+offer them a carrot in return -- to give them another
+revenue source to replace it....
