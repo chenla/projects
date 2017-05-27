@@ -25,3 +25,12 @@
 
 * Introduction
 
+ - [[https://en.wikipedia.org/wiki/Monograph][Monograph]] | Wikipedia
+ - [[https://en.wikipedia.org/wiki/Monographic_series][Monographic series]] | Wikipedia
+ - [[https://en.wikipedia.org/wiki/Festschrift][Festschrift]] | Wikipedia
+ - [[https://en.wikipedia.org/wiki/Serial_(publishing)#Periodicals][Serial (publishing)]] | Wikipedia
+   - [[https://en.wikipedia.org/wiki/Academic_journals][Academic journal]] | Wikipedia
+ - [[https://en.wikipedia.org/wiki/Reference_work][Reference work]] | Wikipedia
+
+
+In publishing there are monographs, reference works and serials
