@@ -70,3 +70,27 @@ volume to the last issue of a volume.
    - evaluative
 
   - [[https://en.wikipedia.org/wiki/Enumeration][Enumeration]] | Wikipedia
+
+---
+
+dead tree codexes are designed to be distributed -- the web
+is the opposite.
+
+a printed book is frozen at publication, and may only change
+when a new edition is published.  The web can change
+instantly -- but there is no mechanism to ensure past
+versions are saved, and because there is often only one copy
+of something on the web, on a server that requires hardware,
+cooling, electricity and bandwidth to maintain, the web is
+highly susceptible to benign neglect -- and there are almost
+not institutions that have emerged who are trying to
+preserve content independently of the web sublisher
+(brewster has done an amazing job, but he is only one, and
+remains an anomoly) what is needed is for archive.org to
+become a model for a new kind of instition that will do what
+libraries have traditionally done -- but archive.org is a
+part of the web, and it is a centralized resource in the
+same way that what it is archiving is as well.  Using a
+centralized system to back up centralized systems is not an
+answer.
+
