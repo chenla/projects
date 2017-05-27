@@ -32,7 +32,6 @@
    - [[https://en.wikipedia.org/wiki/Academic_journals][Academic journal]] | Wikipedia
  - [[https://en.wikipedia.org/wiki/Reference_work][Reference work]] | Wikipedia
 
-
 In publishing there are monographs, reference works and
 serials.
 
@@ -46,7 +45,28 @@ structured texts simular to books.
 
 But the more you look at the web, electronic monographs,
 especially book length monographs are the exception.  The
-web is not an electronic library, it is something else.
+Web is not an electronic library, it is something else.
 There is nothing wrong with this but there are institutional
 roles that monographs and journals play that the Web is not
 meeting.
+
+
+Organization of journals:
+
+  - Volumes
+    - Issue
+      - Page 
+
+Page numbering usually starts from the first issue of a
+volume to the last issue of a volume.
+
+
+ original research papers/articles
+ review articles
+ book reviews
+
+   - selective
+   - enumerative (complete, ordered listing of all the items in a collection)
+   - evaluative
+
+  - [[https://en.wikipedia.org/wiki/Enumeration][Enumeration]] | Wikipedia
