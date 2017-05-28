@@ -77,6 +77,8 @@ content whee people are accessing it.
 at the core of this problem is location based addressing
 ipfs helps solve this
 
+"we're armoring the wire, not the data" --> find quote
+
 
 **  classification of of networks
 
