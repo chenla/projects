@@ -32,6 +32,10 @@
    - [[https://en.wikipedia.org/wiki/Academic_journals][Academic journal]] | Wikipedia
  - [[https://en.wikipedia.org/wiki/Reference_work][Reference work]] | Wikipedia
 
+ - [[https://www.theguardian.com/higher-education-network/2017/may/25/its-time-for-academics-to-take-back-control-of-research-journals][It's time for academics to take back control of research journals]] | The Guardian
+ - [[bib:fyfe:2017untangling][Untangling Academic Publishing]] | Aileen Fyfe (2017) 
+ - [[https://zenodo.org/record/546100#.WSmCybMxVph][Untangling Academic Publishing]] | Zenodo
+
 In publishing there are monographs, reference works and
 serials.
 
@@ -139,3 +143,9 @@ we then expand this to test the truth of fnords -- that's
 what fnord.ltd will do....
 
 and with this all in place we can the add annotations
+
+----
+
+it goes back to what paul graham was saying -- first find a
+niche then grow... scholarly publishing is a good place to
+start...
