@@ -50,6 +50,8 @@ So why bit torrent instead of something like Whisper or IPFS?
   - [[https://en.wikipedia.org/wiki/InterPlanetary_File_System][InterPlanetary File System]] | Wikipedia
   - [[https://ipfs.io/][IPFS is the Distributed Web]] | Home
 
+IPFS is quite cool -- but it is a file system.
+
 IPFS uses a network to provide a function that has
 traditionally been provided by institutions which provide
 checks and balances and resourses to maintain the survival
@@ -61,6 +63,19 @@ time periods.
 
 I don't think that either approach provides a solution to
 benign neglect.
+
+ - persistence
+ - content discovery
+
+         |- distrubuted | 
+    the  |- permanent   | web
+         |- merkle      |
+
+
+classification of of networks
+
+- [[https://en.wikipedia.org/wiki/Paul_Baran][Paul Baran]] | Wikipedia
+- [[http://www.rand.org/content/dam/rand/pubs/research_memoranda/2006/RM3420.pdf][On Distributed Communications: I. Introduction to Distributed Communications Networks - RM3420.pdf]]
 
 
 * GT.M
