@@ -67,9 +67,9 @@ benign neglect.
  - persistence
  - content discovery
 
-         |- distrubuted | 
-    the  |- permanent   | web
-         |- merkle      |
+IPFS is giving us a distributed web, the same web we have
+today but distributed.  That's good, but only a small part
+of the problem we need to address.
 
 
 classification of of networks
