@@ -48,7 +48,7 @@ as planned.
 So why bit torrent instead of something like Whisper or IPFS?
 
   - [[https://en.wikipedia.org/wiki/InterPlanetary_File_System][InterPlanetary File System]] | Wikipedia
-
+  - [[https://ipfs.io/][IPFS is the Distributed Web]] | Home
 
 IPFS uses a network to provide a function that has
 traditionally been provided by institutions which provide
