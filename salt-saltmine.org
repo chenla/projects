@@ -69,10 +69,16 @@ benign neglect.
 
 IPFS is giving us a distributed web, the same web we have
 today but distributed.  That's good, but only a small part
-of the problem we need to address.
+of the problem we need to address.  That said, it likely is
+an important part of the solution for the immediate web or
+working web  -- it solves the problem I talk of, of moving
+content whee people are accessing it.
+
+at the core of this problem is location based addressing
+ipfs helps solve this
 
 
-classification of of networks
+**  classification of of networks
 
 - [[https://en.wikipedia.org/wiki/Paul_Baran][Paul Baran]] | Wikipedia
 - [[http://www.rand.org/content/dam/rand/pubs/research_memoranda/2006/RM3420.pdf][On Distributed Communications: I. Introduction to Distributed Communications Networks - RM3420.pdf]]
