@@ -62,3 +62,12 @@ database...
 #+begin_src sh
 sudo apt-get install fis-gtm
 #+end_src
+
+* Blockchain
+
+ - [[https://www.igvita.com/2014/05/05/minimum-viable-block-chain/][Minimum Viable Block Chain]] - igvita.com
+ - [[http://johnmathews.eu/blockchain-introduction.html][Blockchains from the ground up: Part 1]] | John Mathews
+ - [[https://anders.com/blockchain/][Blockchain Demo]] | video
+ - [[https://github.com/anders94/blockchain-demo/][anders94/blockchain-demo]] | GitHub
+
+
