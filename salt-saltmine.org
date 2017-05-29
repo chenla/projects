@@ -111,3 +111,21 @@ sudo apt-get install fis-gtm
 
  - Kubernetes Cluster
  - Flannel
+
+The Pivot:
+
+Dump openstack, replace with k8s, flannel and something like
+Dies Workflow.
+
+Set up like Wikimedia Labs -- give away containers to
+schools, ngos, developers, students.
+
+Get sponsorship -- sponsor a clump -- docker container group
+(is that a pod?) -- schools have to sponsor their pods, and
+we open up more clumps as we get sponsorship....
+
+includes bandwidth, ip addresses, hardware, electricity, team.
+
+set up as sg charity -- legal & banking & board
+
+heavily push ipfs for everything....
