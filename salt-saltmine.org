@@ -140,10 +140,16 @@ you grab a copy -- and it installs in your hoard, but each
 file is in ipfs and index has hash that verifies what was
 used to index it.
 
-so when you cite a wikipedia article, the version you cite
-is bundled with your paper -- eventually all papers and
+so when you cite a wikipedia article, the image version you
+cite is bundled with your paper -- eventually all papers and
 books will be the same....
 
 and images in articles will also bundle the page for that
 media file -- this makes it possible to crop, or process
-images and they will retail their provenance.
+images and they will retain their provenance.
+
+but because it's ipfs, it's not just a web site, it becomes
+part of your file system.
+
+eventually you should be able to use this system to edit
+existin and create new articles, both public and private...
