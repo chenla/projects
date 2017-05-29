@@ -129,3 +129,17 @@ includes bandwidth, ip addresses, hardware, electricity, team.
 set up as sg charity -- legal & banking & board
 
 heavily push ipfs for everything....
+
+
+* weave wikipedia articles into local content
+
+every wikipedia article will be an itfs literate-epub
+(html, css, source, scolia, glosses, index)
+
+you grab a copy -- and it installs in your hoard, but each
+file is in ipfs and index has hash that verifies what was
+used to index it.
+
+so when you cite a wikipedia article, the version you cite
+is bundled with your paper -- eventually all papers and
+books will be the same....
