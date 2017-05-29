@@ -45,27 +45,10 @@ as planned.
 * Bit Torrent
 
 
-So why bit torrent instead of something like Whisper or IPFS?
+* IPFS
 
   - [[https://en.wikipedia.org/wiki/InterPlanetary_File_System][InterPlanetary File System]] | Wikipedia
   - [[https://ipfs.io/][IPFS is the Distributed Web]] | Home
-
-IPFS is quite cool -- but it is a file system.
-
-IPFS uses a network to provide a function that has
-traditionally been provided by institutions which provide
-checks and balances and resourses to maintain the survival
-of copies  -- the idea is that there will be market
-incentives that will ensure content is kept alive.
-
-bit torrent is poor at keeping files available over long
-time periods.
-
-I don't think that either approach provides a solution to
-benign neglect.
-
- - persistence
- - content discovery
 
 IPFS is giving us a distributed web, the same web we have
 today but distributed.  That's good, but only a small part
