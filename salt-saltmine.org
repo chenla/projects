@@ -96,3 +96,14 @@ sudo apt-get install fis-gtm
  - [[https://github.com/anders94/blockchain-demo/][anders94/blockchain-demo]] | GitHub
 
 
+* Kinto Container Services
+
+ - [[https://devops.profitbricks.com/tutorials/deploy-a-multi-node-kubernetes-cluster-on-centos-7/][Deploy a Multi-node Kubernetes Cluster on CentOS 7]] | ProfitBricks DevOps Central
+ - [[https://datasterix.com/2016/09/03/spark-cluster-using-multi-node-kubernetes-and-docker/][Spark Cluster using Multi-Node Kubernetes and Docker]] | Big is Small
+ - [[https://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/][Docker Clustering Tools Compared: Kubernetes vs Docker Swarm]] | Technology Conversations
+
+ - [[https://kubernetes.io/][Kubernetes]] | Production-Grade Container Orchestration
+
+
+ - Kubernetes Cluster
+ - Flannel
