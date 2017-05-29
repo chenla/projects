@@ -143,3 +143,7 @@ used to index it.
 so when you cite a wikipedia article, the version you cite
 is bundled with your paper -- eventually all papers and
 books will be the same....
+
+and images in articles will also bundle the page for that
+media file -- this makes it possible to crop, or process
+images and they will retail their provenance.
