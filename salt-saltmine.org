@@ -130,6 +130,11 @@ set up as sg charity -- legal & banking & board
 
 heavily push ipfs for everything....
 
+we then propose research projects, rennovate three units
+and set up vis-center
+
+we push to get salaries for ruben and i and use half of them
+to pay people back what we borrowed -- not what was invested...
 
 * weave wikipedia articles into local content
 
@@ -149,7 +154,8 @@ media file -- this makes it possible to crop, or process
 images and they will retain their provenance.
 
 but because it's ipfs, it's not just a web site, it becomes
-part of your file system.
+part of your file system.  this is where literate computing
+and devops come in....
 
 eventually you should be able to use this system to edit
 existin and create new articles, both public and private...
