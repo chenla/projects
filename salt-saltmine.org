@@ -41,6 +41,12 @@ my idea at the moment -- it remains to be seen if this will work out
 as planned.
 
 
+* Container Standards
+
+ - [[https://github.com/appc/spec][appc/spec: App Container Specification and Tooling]] |
+   GitHub
+ - [[https://www.opencontainers.org/][Open Containers Initiative]] | Home
+
 * Docker
 
  - [[bib:goasquen:2015docker][Docker Cookbook]] | Sébastien Goasguen, O'Reilly (2015)
