@@ -40,9 +40,11 @@ outside world as if it is a single-process container.  At least that's
 my idea at the moment -- it remains to be seen if this will work out
 as planned.
 
+ - [[http://containerops.org/2014/12/19/docker-vs-rocket-gimme-a-break/][Docker vs Rocket gimme a break]] | Container Ops
 
 * Container Standards
 
+ - [[https://www.infoq.com/news/2015/02/coreos-rocket-appc-v0.3.1][CoreOS Release Rocket and App Container Specification v0.3.1.]]
  - [[https://github.com/appc/spec][appc/spec: App Container Specification and Tooling]] |
    GitHub
  - [[https://www.opencontainers.org/][Open Containers Initiative]] | Home
