@@ -55,6 +55,8 @@ as planned.
 
 * Rkt Containers
 
+ - [[https://github.com/rkt/rkt][rkt/rkt: rkt is a pod-native container engine for Linux]] | GitHub
+
 
 * Kubernentes
 
