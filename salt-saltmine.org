@@ -69,6 +69,7 @@ is proven to work at scale without instutional support.
 
   - [[https://en.wikipedia.org/wiki/InterPlanetary_File_System][InterPlanetary File System]] | Wikipedia
   - [[https://ipfs.io/][IPFS is the Distributed Web]] | Home
+  - [[https://medium.com/@ConsenSys/an-introduction-to-ipfs-9bba4860abd0][An Introduction to IPFS]] | ConsenSys |  Medium (2016)
 
 IPFS is giving us a distributed web, the same web we have
 today but distributed.  That's good, but only a small part
