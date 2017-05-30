@@ -60,7 +60,7 @@ as planned.
  - [[https://github.com/rkt/rkt][rkt/rkt: rkt is a pod-native container engine for Linux]] | GitHub
 
 
-* Kubernentes
+* Kubernetes
 
  - [[bib:baier:2015getting][Getting Started with Kubernetes]] | Jonathan Baier, Packt (2015)
  - [[bib:vohra:2016kubernentes][Kubernetes Microservices with Docker]] | Deepak Vohra, Apress (2016)
