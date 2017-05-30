@@ -42,7 +42,27 @@ as planned.
 
 * Alpine Linux
 
+ - [[https://www.alpinelinux.org/][Alpine Linux]] | Home
+ 
+
+#+begin_quote
+Alpine Linux is built around musl libc and busybox. This
+makes it smaller and more resource efficient than
+traditional GNU/Linux distributions. A container requires no
+more than 8 MB and a minimal installation to disk requires
+around 130 MB of storage. Not only do you get a
+fully-fledged Linux environment but a large selection of
+packages from the repository.
+
+-- [[https://www.alpinelinux.org/][Alpine Linux]] | Home
+#+end_quote
+
 * Bit Torrent
+
+Bit torrent has evolved into a pretty amazing technology and
+is proven to work at scale without instutional support.
+
+ - 
 
 
 * IPFS
@@ -63,7 +83,8 @@ ipfs helps solve this
 "we're armoring the wire, not the data" --> find quote
 
 
-**  classification of of networks
+
+* Classification Of Networks
 
 - [[https://en.wikipedia.org/wiki/Paul_Baran][Paul Baran]] | Wikipedia
 - [[http://www.rand.org/content/dam/rand/pubs/research_memoranda/2006/RM3420.pdf][On Distributed Communications: I. Introduction to Distributed Communications Networks - RM3420.pdf]]
@@ -138,7 +159,7 @@ to pay people back what we borrowed -- not what was invested...
 
 * weave wikipedia articles into local content
 
-every wikipedia article will be an itfs literate-epub
+every wikipedia article will be an ipfs literate-epub
 (html, css, source, scolia, glosses, index)
 
 you grab a copy -- and it installs in your hoard, but each
@@ -158,4 +179,4 @@ part of your file system.  this is where literate computing
 and devops come in....
 
 eventually you should be able to use this system to edit
-existin and create new articles, both public and private...
+existing and create new articles, both public and private...
