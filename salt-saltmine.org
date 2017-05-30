@@ -43,11 +43,18 @@ as planned.
 
 * Docker
 
- - [[bib:goasquen:2015docker][Docker Cookbook]] | Sébastien Goasguen (2015)
- - [[bib:hane:2015build][Build Your Own PaaS with Docker]] | Hane (2015)
+ - [[bib:goasquen:2015docker][Docker Cookbook]] | Sébastien Goasguen, O'Reilly (2015)
+ - [[bib:hane:2015build][Build Your Own PaaS with Docker]] | Hane, Packt (2015)
+ - [[bib:matthais:2015docker][Docker: Up and Running]] | Karl Matthias, O'Reilly (2015)
 
 * Rkt Containers
 
+
+* Kubernentes
+
+ - [[bib:baier:2015getting][Getting Started with Kubernetes]] | Jonathan Baier, Packt (2015)
+ - [[bib:vohra:2016kubernentes][Kubernetes Microservices with Docker]] | Deepak Vohra, Apress (2016)
+ - [[bib:vohra:2017kubernetes][Kubernetes Management Design Patterns]] | Deepak Vohra, Apress (2017)
 
 * Alpine Linux
 
