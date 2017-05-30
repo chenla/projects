@@ -55,7 +55,7 @@ as planned.
  - [[bib:hane:2015build][Build Your Own PaaS with Docker]] | Hane, Packt (2015)
  - [[bib:matthais:2015docker][Docker: Up and Running]] | Karl Matthias, O'Reilly (2015)
 
-* Rkt Containers
+* Rkt
 
  - [[https://github.com/rkt/rkt][rkt/rkt: rkt is a pod-native container engine for Linux]] | GitHub
 
@@ -65,6 +65,14 @@ as planned.
  - [[bib:baier:2015getting][Getting Started with Kubernetes]] | Jonathan Baier, Packt (2015)
  - [[bib:vohra:2016kubernentes][Kubernetes Microservices with Docker]] | Deepak Vohra, Apress (2016)
  - [[bib:vohra:2017kubernetes][Kubernetes Management Design Patterns]] | Deepak Vohra, Apress (2017)
+
+* Flannel
+
+ - [[https://github.com/coreos/flannel][coreos/flannel: flannel is a network fabric for
+   containers]] | GitHub
+
+Flannel is a virtual network that gives a subnet to each
+host for use with container runtimes.
 
 * Alpine Linux
 
