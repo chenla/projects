@@ -83,7 +83,10 @@ ipfs helps solve this
 
 "we're armoring the wire, not the data" --> find quote
 
+* Docker
 
+ - [[bib:goasquen:2015docker][Docker Cookbook]] | Sébastien Goasguen (2015)
+ - [[bib:hane:2015build][Build Your Own PaaS with Docker]] | Hane (2015)
 
 * Classification Of Networks
 
