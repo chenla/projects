@@ -151,6 +151,17 @@ sudo apt-get install fis-gtm
  - [[https://github.com/anders94/blockchain-demo/][anders94/blockchain-demo]] | GitHub
 
 
+* Merkle Tree
+
+- [[https://en.wikipedia.org/wiki/Merkle_tree][Merkle tree]] | Wikipedia
+- [[https://en.wikipedia.org/wiki/Directed_acyclic_graph][Directed acyclic graph]] | Wikipedia
+
+- [[https://www.youtube.com/watch?v=lik9aaFIsl4][Hashes with Mining and Merkle trees]] | YouTube
+
+- [[https://en.wikipedia.org/wiki/Ralph_Merkle][Ralph Merkle]] | Wikipedia
+
+
+
 * Kinto Container Services
 
  - [[https://devops.profitbricks.com/tutorials/deploy-a-multi-node-kubernetes-cluster-on-centos-7/][Deploy a Multi-node Kubernetes Cluster on CentOS 7]] | ProfitBricks DevOps Central
