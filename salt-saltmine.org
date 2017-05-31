@@ -113,6 +113,11 @@ a link could represent a triple with a unique address...
 version control is largely built in -- but the rest we can
 do through ipld
 
+one interesting thing is that local graph db's don't have to
+download context content -- only their indexes -- and the
+content can then be pulled if or when it is needed!  Same
+goes for source and for rendered content!
+
 ** ipns
 
 - [[https://medium.com/@yaniv_g/hosting-websites-on-ipfs-with-ipns-b94659c42b52][Hosting websites on IPFS with IPNS]] |Yaniv Goldobin – Medium
