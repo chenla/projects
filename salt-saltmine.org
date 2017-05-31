@@ -94,7 +94,7 @@ packages from the repository.
 * Bit Torrent
 
 Bit torrent has evolved into a pretty amazing technology and
-is proven to work at scale without instutional support.
+is proven to work at scale without institional support.
 
  - 
 
@@ -117,6 +117,37 @@ ipfs helps solve this
 
 "we're armoring the wire, not the data" --> find quote
 
+** ipns
+
+- [[https://medium.com/@yaniv_g/hosting-websites-on-ipfs-with-ipns-b94659c42b52][Hosting websites on IPFS with IPNS]] |Yaniv Goldobin – Medium
+
+mazieres link
+
+** ipld
+
+- [[http://ipld.io/][IPLD - The data model of the content-addressable web]]
+- [[https://github.com/ipld/ipld][ipld/ipld: InterPlanetary Linked Data]] | GitHub
+
+#+begin_quote
+Why IPLD?
+
+A data model for interoperable protocols.
+
+Content addressing through hashes has become a widely-used
+means of connecting data in distributed systems, from the
+blockchains that run your favorite cryptocurrencies, to the
+commits that back your code, to the web’s content at
+large. Yet, whilst all of these tools rely on some common
+primitives, their specific underlying data structures are
+not interoperable.
+
+Enter IPLD: IPLD is a single namespace for all hash-inspired
+protocols. Through IPLD, links can be traversed across
+protocols, allowing you explore data regardless of the
+underlying protocol.
+
+-- http://ipld.io/
+#+end_quote
 
 * Classification Of Networks
 
@@ -159,6 +190,8 @@ sudo apt-get install fis-gtm
 - [[https://www.youtube.com/watch?v=lik9aaFIsl4][Hashes with Mining and Merkle trees]] | YouTube
 
 - [[https://en.wikipedia.org/wiki/Ralph_Merkle][Ralph Merkle]] | Wikipedia
+
+* Distributed Hash Tables (DHT)
 
 
 
