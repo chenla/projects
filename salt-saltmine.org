@@ -118,6 +118,15 @@ download context content -- only their indexes -- and the
 content can then be pulled if or when it is needed!  Same
 goes for source and for rendered content!
 
+this will help enormously in content discovery -- seeing
+everything that's on the same shelf, so to speak...  then we
+will need a mechanism for cold queries, and or blue sky
+searching...  but then specialized domain indexes can help
+there and then use ai to match queries to domain indexes...
+
+social graphs for individuals and groups will be maintained
+by themselves.
+
 ** ipns
 
 - [[https://medium.com/@yaniv_g/hosting-websites-on-ipfs-with-ipns-b94659c42b52][Hosting websites on IPFS with IPNS]] |Yaniv Goldobin – Medium
