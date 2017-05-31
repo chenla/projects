@@ -91,14 +91,6 @@ packages from the repository.
 -- [[https://www.alpinelinux.org/][Alpine Linux]] | Home
 #+end_quote
 
-* Bit Torrent
-
-Bit torrent has evolved into a pretty amazing technology and
-is proven to work at scale without institional support.
-
- - 
-
-
 * IPFS
 
   - [[https://en.wikipedia.org/wiki/InterPlanetary_File_System][InterPlanetary File System]] | Wikipedia
@@ -117,6 +109,9 @@ indexing and weaving content into local contexts.
 hell -- ipfs links create graphs -- so that relationship
 mapping can be baked into the network.... instead of a file,
 a link could represent a triple with a unique address...
+
+version control is largely built in -- but the rest we can
+do through ipld
 
 ** ipns
 
