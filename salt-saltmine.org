@@ -105,17 +105,18 @@ is proven to work at scale without institional support.
   - [[https://ipfs.io/][IPFS is the Distributed Web]] | Home
   - [[https://medium.com/@ConsenSys/an-introduction-to-ipfs-9bba4860abd0][An Introduction to IPFS]] | ConsenSys |  Medium (2016)
 
-IPFS is giving us a distributed web, the same web we have
-today but distributed.  That's good, but only a small part
-of the problem we need to address.  That said, it likely is
-an important part of the solution for the immediate web or
-working web  -- it solves the problem I talk of, of moving
-content whee people are accessing it.
+IPFS gives us a hell of a lot of what we need -- but not
+everything.  I'm still not sure how much we can throw at
+it.  
 
-at the core of this problem is location based addressing
-ipfs helps solve this
+content discovery is still a big problem -- ipns is part of
+the answer but still needs a bxid and ts type solution on
+top of it.  I still like the idea of distributed, trustless
+indexing and weaving content into local contexts.
 
-"we're armoring the wire, not the data" --> find quote
+hell -- ipfs links create graphs -- so that relationship
+mapping can be baked into the network.... instead of a file,
+a link could represent a triple with a unique address...
 
 ** ipns
 
