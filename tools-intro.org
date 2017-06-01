@@ -86,10 +86,10 @@ size and weight and balance --
 #+begin_quote
 Let us say that blueprints were made for these two lamps,
 and sent out to technicians, who were able to able to read
-the drawings, and had the neccesary skills tomake the lamps
+the drawings, and had the neccesary skills to make the lamps
 according to the blueprints.  Unfortunately, though the
-blueprint itself gives no infprmation about themselves, ho
-useful they are, or whether thet work well or badly.  Yhe
+blueprint itself gives no information about themselves, how
+useful they are, or whether that work well or badly.  The
 blueprint in no way establishes the likely use, or the
 likely behavior of these two lamps.... The design, /in the
 form of a blueprint/, tells people nothing significant about
