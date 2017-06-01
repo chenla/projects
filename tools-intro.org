@@ -102,10 +102,17 @@ lamps.
 
 ** Roubo's polissoir
   
-   - [[http://trestore.wkfinetools.com/finish-wood/Polissoir/Polissoir-01.asp][The Polissoir - a Tool You’ve (Probably) Never Heard
+  - [[http://trestore.wkfinetools.com/finish-wood/Polissoir/Polissoir-01.asp][The Polissoir - a Tool You’ve (Probably) Never Heard
      of]] | by Chris Schwarz
 
-   -[[http://donsbarn.com/polissoir-line-up-now-complete/][The Barn on White Run | Polissoir Line-up Now Complete]]
+  - [[http://donsbarn.com/polissoir-line-up-now-complete/][The Barn on White Run | Polissoir Line-up Now Complete]]
+
+  - [[https://en.wikipedia.org/wiki/Andr%C3%A9_Jacob_Roubo][André Jacob Roubo]] | Wikipedia
+  - [[https://archive.org/details/gri_33125009321916][L'art du menuisier : Roubo, M. (André Jacob),
+    1739-1791]] vol2 | Internet Archive
+  - https://archive.org/search.php?query=L%27art%20du%20menuisier 
+    4 volumes
+
 
 #+begin_quote
 Roubo’s work is a massive work that was issued in three
