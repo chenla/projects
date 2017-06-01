@@ -100,6 +100,10 @@ lamps.
 #+end_quote
 
 
+In a very real sense, you can't separate a tool from what it
+is used for....  and tools are used to make tools....
+
+
 ** Roubo's polissoir
   
   - [[http://trestore.wkfinetools.com/finish-wood/Polissoir/Polissoir-01.asp][The Polissoir - a Tool You’ve (Probably) Never Heard
@@ -140,7 +144,8 @@ in describing the polissoir in plate 296:
     There are polishers of diverse forms and sizes, in order
     to be able to get into all parts, nooks and crannies.”
 
-
+-- [[http://trestore.wkfinetools.com/finish-wood/Polissoir/Polissoir-01.asp][The Polissoir - a Tool You’ve (Probably) Never Heard
+   of]] | by Chris Schwarz
 #+end_quote
 
 ** Japanese knife maker
