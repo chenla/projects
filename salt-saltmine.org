@@ -195,6 +195,8 @@ sudo apt-get install fis-gtm
  - [[https://www.youtube.com/watch?v=2iF73cybTBs][The Blockchain and Us]] | YouTube (2017) documentary, non-technical
  - [[bib:barski:2015bitcoin][Bitcoin for the Befuddled]] | Conrad Barski (2015)
  - [[bib:tapscott:2016blockchain][Blockchain Revolution]] | Don Tapscott (2016)
+ - [[https://www.youtube.com/watch?v=3PdO7zVqOwc][Alex Tapscott: "Blockchain Revolution"]] | Talks at Google - YouTube
+
 
 * Merkle Tree
 
