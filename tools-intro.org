@@ -99,9 +99,46 @@ lamps.
 -- Battle pg53
 #+end_quote
 
-Add story about japanese bamboo brushes that had been
-recreated from drawings, but no one knew how they were used
 
-Add stroy about old japanese knife maker who required that
+** Roubo's polissoir
+  
+   - [[http://trestore.wkfinetools.com/finish-wood/Polissoir/Polissoir-01.asp][The Polissoir - a Tool You’ve (Probably) Never Heard
+     of]] | by Chris Schwarz
+
+   -[[http://donsbarn.com/polissoir-line-up-now-complete/][The Barn on White Run | Polissoir Line-up Now Complete]]
+
+#+begin_quote
+Roubo’s work is a massive work that was issued in three
+magnificent folios and discussed veneer, furniture-making,
+marquetry, carriage building, garden furniture and much
+more.
+
+And though Roubo covers a lot of ground, he also assumes the
+reader knows a lot about the subject of woodworking, and so
+some things are not covered in deep detail and you need to
+tease out the information you need by reading about the tool
+or technique when it comes up in other parts of the books.
+
+This is true of the polissoir.  Here is all that Roubo wrote
+in describing the polissoir in plate 296:
+
+    “The polisher, figures 8 & 9, is a sheaf of ordinary
+    grass or straw, about 4 thumbs long, by about 2 thumbs
+    in diameter. This sheaf is bound tightly along its
+    length. Before making use of it, one soaks it in molten
+    wax, which one lets cool, after which one rubs the
+    polish on a piece of wood to smooth it and make it
+    proper to polish the work.
+
+    There are polishers of diverse forms and sizes, in order
+    to be able to get into all parts, nooks and crannies.”
+
+
+#+end_quote
+
+** Japanese knife maker
+
+
+Add story about old japanese knife maker who required that
 each customer submit a letter describibg how they will use
 the knife....
