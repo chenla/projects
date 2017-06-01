@@ -70,3 +70,16 @@ neo-Edwardian, Bladerunner.  And in different atmospheres, a
 vacuum and different levels of gravity.  So this toolset (or
 at least a subset of it) should be just as useful on ISS,
 the moon, mars or in the belt.
+
+* anti-blueprint 
+
+
+We need a different way of teaching and thinking about
+tools.
+
+CAD and plans should not be verbotten -- they should provide
+ranges that can then be tailored for different uses -- a
+master will have different requirements of a hammer than
+someone living in a flat, or a student at school.  Different
+size and weight and balance -- 
+
