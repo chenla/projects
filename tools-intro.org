@@ -98,3 +98,10 @@ lamps.
 
 -- Battle pg53
 #+end_quote
+
+Add story about japanese bamboo brushes that had been
+recreated from drawings, but no one knew how they were used
+
+Add stroy about old japanese knife maker who required that
+each customer submit a letter describibg how they will use
+the knife....
