@@ -103,6 +103,14 @@ lamps.
 In a very real sense, you can't separate a tool from what it
 is used for....  and tools are used to make tools....
 
+The WEC and Cool Tools make assumptions about what people
+know about tools -- many of these are cultural assumptions
+
+
+** In the Beginning Was The Command Line
+
+section about tools used by masters....
+
 
 ** Roubo's polissoir
   
