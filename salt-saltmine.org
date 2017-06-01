@@ -188,13 +188,13 @@ sudo apt-get install fis-gtm
 
 * Blockchain
 
- - [[https://www.igvita.com/2014/05/05/minimum-viable-block-chain/][Minimum Viable Block Chain]] - igvita.com
+ - [[https://www.igvita.com/2014/05/05/minimum-viable-block-chain/][Minimum Viable Block Chain]] | igvita.com
  - [[http://johnmathews.eu/blockchain-introduction.html][Blockchains from the ground up: Part 1]] | John Mathews
  - [[https://anders.com/blockchain/][Blockchain Demo]] | video
  - [[https://github.com/anders94/blockchain-demo/][anders94/blockchain-demo]] | GitHub
- - [[https://www.youtube.com/watch?v=2iF73cybTBs][The Blockchain and Us]] | YouTube (2017) documentary
+ - [[https://www.youtube.com/watch?v=2iF73cybTBs][The Blockchain and Us]] | YouTube (2017) documentary, non-technical
  - [[bib:barski:2015bitcoin][Bitcoin for the Befuddled]] | Conrad Barski (2015)
-
+ - [[bib:tapscott:2016blockchain][Blockchain Revolution]] | Don Tapscott (2016)
 
 * Merkle Tree
 
