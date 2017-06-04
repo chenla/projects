@@ -61,3 +61,29 @@ I could see epub readers growing enormously in power, and if
 browsers don't build this into the browser, they could
 become as important as the browser.
 
+* ISBN
+
+ISBNs are global ids for manifestations that are doled out
+by Bowker for non-trivial fees.  Like it or not they are a
+standard in the publishing industry, especially for physical
+publications which are not often used for inventory control
+by both publishers and book resellers.
+
+ - [[https://www.myidentifiers.com/get-your-isbn-now][Get Your ISBN Now]] | MyIdentifiers.com (Bowker)
+
+#+CAPTION: Bowker Prices for ISBN Blocks (2017)
+| Number of ISBNs | Price |
+|-----------------+-------|
+|          single | $125  |
+|              10 | $295  |
+|             100 | $575  |
+  
+Typically publishers now assign ISBNs for:
+
+  - Hardcover
+  - Paperback
+  - Trade Paperback (if different)
+  - ePub
+  - Mobi
+
+
