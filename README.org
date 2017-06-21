@@ -1,0 +1,21 @@
+* Chenla Projects
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]]
+[[https://img.shields.io/badge/category-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+Projects are specific funded and staffed attempts to build instances things that
+have been developed in the /deploy/ stage which is illustrated in the
+following entity diagram:
+
+#+begin_ascii
+   civilization (concept)
+       |
+       `--> primer (expression)
+               |
+               `--> deploy (manifestation)
+                      |
+                      `--> project (instance)
+#+end_ascii
+
