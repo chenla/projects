@@ -5,9 +5,9 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-Projects are specific funded and staffed attempts to build instances things that
-have been developed in the /deploy/ stage which is illustrated in the
-following entity diagram:
+Projects are specific funded and staffed attempts to build instances
+of things that have been developed in the /deploy/ stage which is
+illustrated in the following development entity diagram:
 
 #+begin_src ascii 
    civilization (concept)
@@ -19,3 +19,18 @@ following entity diagram:
                       `--> project (instance)
 #+end_src
 
+After a project has successfully completed, when possible, it will be
+spun off as a /shop/, which means that it has now gone into practice
+or production as an implemented part of the /primer/ under the
+guidance of a /guild/, which might be expressed in the following
+/practice/ enity diagram.
+
+#+begin_src ascii 
+   civilization (concept)
+       |
+       `--> primer (expression)
+               |
+               `--> guild (manifestation)
+                      |
+                      `--> practice (instance)
+#+end_src
