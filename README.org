@@ -9,7 +9,7 @@ Projects are specific funded and staffed attempts to build instances things that
 have been developed in the /deploy/ stage which is illustrated in the
 following entity diagram:
 
-#+begin_ascii
+#+begin_src ascii 
    civilization (concept)
        |
        `--> primer (expression)
@@ -17,5 +17,5 @@ following entity diagram:
                `--> deploy (manifestation)
                       |
                       `--> project (instance)
-#+end_ascii
+#+end_src
 
