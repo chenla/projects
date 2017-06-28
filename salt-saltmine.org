@@ -1,26 +1,32 @@
 #   -*- mode: org; fill-column: 60 -*-
+
 #+TITLE: Saltmine Server
 #+STARTUP: showall
-#+PROPERTY: filename
-  :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/projects/salt-saltmine.org
-  :Created: 2017-04-21T13:59@Prek Leap (11.642600N-104.919210W)
-  :ID: 2f5ecbe0-148e-49db-a62e-074525a3e25d
-  :URL:
-  :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
-
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
 #+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/projects/salt-saltmine.org
+:Created:   2017-04-21T13:59@Prek Leap (11.642600N-104.919210W)
+:ID:        2f5ecbe0-148e-49db-a62e-074525a3e25d
+:VER:       551910917.372417993
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:CXQ4-7236
+:Class:     project
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-project-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
 
 * Introduction
+
 
 Saltmine is the code name for the BMF Server software which will
 include a graph database, indexer, version control system etc.
