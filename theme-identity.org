@@ -1,24 +1,29 @@
 #   -*- mode: org; fill-column: 60 -*-
+
 #+TITLE: Identity Research Theme
 #+STARTUP: showall
-#+PROPERTY: filename
-  :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/projects/theme-identity.org
-  :Created: 2017-04-28T17:46@Prek Leap (11.642600N-104.919210W)
-  :ID: 81ebd34b-131d-4ee1-9dfc-8e610994afc3
-  :URL:
-  :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
-
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
 #+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/projects/theme-identity.org
+:Created:   2017-04-28T17:46@Prek Leap (11.642600N-104.919210W)
+:ID:        81ebd34b-131d-4ee1-9dfc-8e610994afc3
+:VER:       551911751.753451967
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:SSI8-1214
+:Class:     project
+:Type:      work
+:Status:    stub
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-project-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-stub-CC79A7.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
 
 * Introduction
 
