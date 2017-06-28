@@ -1,27 +1,28 @@
 #   -*- mode: org; fill-column: 60 -*-
+
 #+TITLE: Bell Foundry
 #+STARTUP: showall
-#+PROPERTY: filename
-  :PROPERTIES:
-  :Name:      /home/deerpig/proj/chenla/projects/foundry-bell.org
-  :Created:   2017-05-10T18:28@Prek Leap (11.642600N-104.919210W)
-  :ID:        dd5b3147-dadb-4990-9e9c-91e2f7a644e2
-  :VER:       547687798.048019977
-  :GEO:       48P-491193-1287029-15
-  :BXID:      proj:WMS2-4266
-  :CUSTOM_ID: 
-  :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
-
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
 #+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/projects/foundry-bell.org
+:Created:   2017-05-10T18:28@Prek Leap (11.642600N-104.919210W)
+:ID:        dd5b3147-dadb-4990-9e9c-91e2f7a644e2
+:VER:       551894996.415171194
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:SPY4-8865
+:Class:     project
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-project-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 * Introduction
 
