@@ -1,25 +1,29 @@
 #   -*- mode: org; fill-column: 60 -*-
+
 #+TITLE: Bamboo Treatment
 #+STARTUP: showall
-#+PROPERTY: filename
-  :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/primer/proj-bamboo-treatment.org
-  :Created: 2017-03-20T14:32@Prek Leap (11.642600N-104.919210W)
-  :ID:   f0fc8791-df7d-4c52-b859-a8340d17a0e9
-  :PREV: 57d8e183-9e3b-47d8-b3d0-70a1992b5f5e
-  :URL:
-  :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
-
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
 #+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/projects/proj-bamboo-treatment.org
+:Created: 2017-03-20T14:32@Prek Leap (11.642600N-104.919210W)
+:ID:   f0fc8791-df7d-4c52-b859-a8340d17a0e9
+:VER:       551895260.417555048
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:TEU0-4520
+:Class:     project
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-project-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
 
 * Introduction
 
