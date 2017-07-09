@@ -42,6 +42,18 @@ This is a big if -- there are a number of ways to remove
 humidity but they all require a lot energy and increase the
 temperature.
 
+
+However, geothermal systems do work if you dig very deep and
+use water for heat exchange.
+
+  - [[http://money.cnn.com/2017/07/07/technology/google-dandelion/index.html][Google spins off home heating and cooling startup Dandelion - Jul. 7, 2017]]
+  - [[http://energyblog.nationalgeographic.com/2013/09/17/10-myths-about-geothermal-heating-and-cooling/][Ten Myths About Geothermal Heating and Cooling]] | The Great Energy Challenge Blog
+  - Modern geothermal HVAC : engineering and control
+    applications | Gregg Cunniff (2013)
+  - Geothermal HVAC | Jay Egg
+  - 
+
+
 * References
 
  - [[https://en.wikipedia.org/wiki/Ground-coupled_heat_exchanger][Ground-coupled heat exchanger]] | Wikipedia
