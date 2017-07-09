@@ -48,8 +48,7 @@ use water for heat exchange.
 
   - [[http://money.cnn.com/2017/07/07/technology/google-dandelion/index.html][Google spins off home heating and cooling startup Dandelion - Jul. 7, 2017]]
   - [[http://energyblog.nationalgeographic.com/2013/09/17/10-myths-about-geothermal-heating-and-cooling/][Ten Myths About Geothermal Heating and Cooling]] | The Great Energy Challenge Blog
-  - Modern geothermal HVAC : engineering and control
-    applications | Gregg Cunniff (2013)
+  - Modern geothermal HVAC: engineering and control applications | Gregg Cunniff (2013)
   - Geothermal HVAC | Jay Egg
   - 
 
