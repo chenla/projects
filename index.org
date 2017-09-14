@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Chenla Institute Projects
+#+TITLE: Chenla Institute Projects | TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -24,7 +24,7 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-* Table of Contents 
+* Chenla Institute Projects | Table of Contents 
 
 ** Poultry
  - [[./proj-egg-mobile.org][Egg Mobile]]
