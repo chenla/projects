@@ -46,7 +46,7 @@
 ** Projects
 - Table of Contents
 - Introduction
-- Women in IT Pilot
+- [[./proj-women-in-it.org][Women in IT Pilot]]
 - Half-Hectare Homestead
 - Bamboo Everywhere
 ** Spin-offs
