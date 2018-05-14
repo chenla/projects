@@ -15,7 +15,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-
 * ERP Spin-off
 :PROPERTIES:
 :CUSTOM_ID:
@@ -32,6 +31,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
+
+Build commercial ERP platform on top of Saltmine and spin  off as a
+commercial company.
+
 ** TL;DR
 
 ** Pitch
