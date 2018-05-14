@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Chenla Institute Projects | TOC
+#+TITLE: Chenla Institute Projects TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -24,7 +24,33 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-* Chenla Institute Projects | Table of Contents 
+* Chenla Institute Projects Table of Contents
+
+** Programs
+- Table of Contents
+- Introduction
+- Warp & Woof
+- Chalkhall
+- d9d: Distributed Services
+- b>i: Research Group
+- Chenla Scopic Press
+** Initiatives
+- Table of Contents
+- Introduction
+- Life Long Learning
+- Open Source Science
+- Emacs GD
+- Bento: Modular Infrastructure 
+
+** Projects
+- Table of Contents
+- Introduction
+- Women in IT Pilot
+- Domus Co-op System 
+- Half-Hectare Homestead
+- Saltmine
+- Bamboo Everywhere
+* Old
 
 ** Poultry
  - [[./proj-egg-mobile.org][Egg Mobile]]
