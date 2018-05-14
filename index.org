@@ -47,7 +47,7 @@
 - Table of Contents
 - Introduction
 - [[./proj-women-in-it.org][Women in IT Pilot]]
-- Half-Hectare Homestead
+- [[./proj-doorstep.org][Doorstep: Half-Hectare Pilot Farm]]
 - Bamboo Everywhere
 ** Spin-offs
 - Memesis
