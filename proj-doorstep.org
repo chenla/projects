@@ -31,9 +31,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
-** TL;DR
 
-*** Goals
+Pilot project to rethink small-holding farms.  The concept is that for
+farms that are 2-10 hectares, that half a hectare immediately
+surrounding the house and outbuilds be devoted to intensive
+poly-culture that will be designed to produce 40-60% of a families
+food and energy needs.
+
+** TL;DR
+*Goals* 
  - 40-60% of familiy food from half hectare
  - off grid fuel and electricity
  - hot water, gray water, septic systems
