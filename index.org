@@ -41,15 +41,18 @@
 - Open Source Science
 - Emacs GD
 - Bento: Modular Infrastructure 
-
+- Saltmine
+- Domus: Co-op System 
 ** Projects
 - Table of Contents
 - Introduction
 - Women in IT Pilot
-- Domus Co-op System 
 - Half-Hectare Homestead
-- Saltmine
 - Bamboo Everywhere
+** Spin-offs
+- Memesis
+  - [[./spin-erp.org][ERP]]
+
 * Old
 
 ** Poultry

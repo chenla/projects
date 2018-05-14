@@ -1,0 +1,42 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: ERP Spin-off 
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+
+* ERP Spin-off
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/projects/spin-erp.org
+:Created:  2018-05-14T20:09@Prek Leap (11.642600N-104.919210W)
+:ID:       a816d19b-3bef-4895-9fcc-8f379cb743ae
+:VER:      579575406.084761591
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:UFR6-4470
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Scope
+** TL;DR
+
+** Pitch
+
+
+** References
+
+
