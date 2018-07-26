@@ -1,7 +1,8 @@
 #   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Chenla Projects Readme
 #+STARTUP: showall
 
-* Chenla Projects | README
+* Chenla Projects README
   :PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/projects/README.org
