@@ -51,3 +51,9 @@ guidance of a /guild/, which might be expressed in the following
                       |
                       `--> practice (instance)
 #+end_src
+
+--- 
+
+*NOTE*: The primary repo is @ [[http://git.chenla.org/hoard/projects ]] 
+Please submit pull requests and issues there.  A read
+Only-Mirror is maintained @ [[https://github.com/chenla/projects ]]
