@@ -34,6 +34,13 @@
 - d9d: Distributed Services
 - b>i: Research Group
 - Chenla Scopic Press
+
+** PNCA Programs
+- Library
+- Fab Lab
+- Grass Lab
+- KH+50
+
 ** Initiatives
 - Table of Contents
 - Introduction
@@ -42,13 +49,15 @@
 - Emacs GD
 - Bento: Modular Infrastructure 
 - Saltmine
-- Domus: Co-op System 
+- Domus: Co-op System
+ 
 ** Projects
 - Table of Contents
 - Introduction
 - [[./proj-women-in-it.org][Women in IT Pilot]]
 - [[./proj-doorstep.org][Doorstep: Half-Hectare Pilot Farm]]
 - Bamboo Everywhere
+
 ** Spin-offs
 - Memesis
   - [[./spin-erp.org][ERP]]
