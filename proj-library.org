@@ -32,6 +32,24 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :END:
 
 ** Scope
+
+
+BMF was originally meant to be a platform for creating very long term
+digital library collections.
+
+We propose to build an prototype electronic library system for PNCA
+which will serve as a pilot for all school, public and national
+archives and libraries.
+
+The goals are as follows:
+
+Establsh a digitization system for all forms of recorded media
+including books, photos, artwork (both visual 2D and 3D art such as
+stone sculptures) audio and video recordings.
+
+
+
+
 ** TL;DR
 ** References
 
