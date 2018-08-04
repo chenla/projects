@@ -92,18 +92,25 @@ stored, a record of every person, place, or event that is mentioned in
 a document will have a record explaining the who, what, where and when
 behind everything in the library.
 
-The system will employ block-chain technology and when required
+The system will employ block-chain technology and when required.
 cryptography to ensure that all copies are intact and haven't been
 tampered with.  If some items are meant to be sealed for a specific
 period of time before they are released, keys can be designed that
 will only be able to decrypt the contents after that period of time as
 passed.
 
-The pilot program will establish a digitaliztion system at Prek Leap
-National College of Agriculture, and convert existing items in the
-library into digital formats.  After the initial system is working,
-the pilot program will be expanded to include other universities as
-well as the Cambodian National Library.
+The pilot program will draft several whitepapers as a first step
+towards developing a national library strategy for Cambodia for the
+21st Century.  This will include functional requirements, the
+proof-of-concept pilot program software, a fifty year roadmap and
+recommendations for legislation that will been needed for Cambodia to
+modernize it's library system to the same level as developed countries.
+
+The pilot program will establish a digitaliztion system and digital
+library on campus at Prek Leap National College of Agriculture, and
+convert existing items in the library into digital formats.  After the
+initial system is working, the pilot program will be expanded to
+include other universities as well as the Cambodian National Library.
 
 The first stage of work is expected to take 2-4 years and largely be
 staffed by volunteers and students interested in studying library and
@@ -112,7 +119,9 @@ photo and art scanning using book scanners that will be built from
 open source plans and inexpensive parts.
 
 
+---
 
+teach library, search and information literacy
 
 
 ** TL;DR
