@@ -47,6 +47,71 @@ Establsh a digitization system for all forms of recorded media
 including books, photos, artwork (both visual 2D and 3D art such as
 stone sculptures) audio and video recordings.
 
+A digital cataloging system that is compatible and interoperable with
+the Dewy Decimile System, MARC (Library of Congress), The British
+Library Catalog, The Bliss Catalog system and World Cat.
+
+An achival system to ensure that digital holdings are not lost. This
+will be made up of three parts:
+
+  1. A real-time storage system for people to download items in
+     popular formats such as PDF, HTML (epub & mobi ebook).
+  2. A near-line storage system that will keep multiple copies in
+     different locations using a MAID (massive array of idle disks)
+     that can provide backups and copies of items which are seldom
+     accessed for decades.
+  3. An off-line long term archival system that can store items for
+     centuries or longer without any cost to store other than
+     maintaining a safe place for them to be kept.
+
+We will partner with the "Arch Mission Foundation" who is actively
+developing and testing a variety of very long-term archival storage
+technologies including:
+
+  - 5D laser optical data storage in quartz
+  - Nickel ion-beam atomic scale storage
+  - Molecular storage on DNA molecules
+  - Durable space-based flash drive storage
+  - Long duration DVD disk technology
+  - Quantum information storage
+
+Our pilot program will test at least three different technologies to
+determine which is most suitible for use by Cambodian libraries and
+archives.
+
+For more information, see:
+
+  -  https://medium.com/arch-mission-foundation/arch-mission-foundation-announces-our-payload-on-spacex-falcon-heavy-c4c9908d5dd1
+  -  https://www.archmission.com
+
+The software system will employ what is called "semantic storage"
+which preserves the surrounding context of everything in the system.
+This ensures that people will be able to understand what is stored in
+the collections for centuries.  For example, if legal records are
+stored, a record of every person, place, or event that is mentioned in
+a document will have a record explaining the who, what, where and when
+behind everything in the library.
+
+The system will employ block-chain technology and when required
+cryptography to ensure that all copies are intact and haven't been
+tampered with.  If some items are meant to be sealed for a specific
+period of time before they are released, keys can be designed that
+will only be able to decrypt the contents after that period of time as
+passed.
+
+The pilot program will establish a digitaliztion system at Prek Leap
+National College of Agriculture, and convert existing items in the
+library into digital formats.  After the initial system is working,
+the pilot program will be expanded to include other universities as
+well as the Cambodian National Library.
+
+The first stage of work is expected to take 2-4 years and largely be
+staffed by volunteers and students interested in studying library and
+archival science.  The initial digitization system will focus on book,
+photo and art scanning using book scanners that will be built from
+open source plans and inexpensive parts.
+
+
 
 
 
