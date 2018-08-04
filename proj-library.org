@@ -104,20 +104,20 @@ towards developing a national library strategy for Cambodia for the
 21st Century.  This will include functional requirements, the
 proof-of-concept pilot program software, a fifty year roadmap and
 recommendations for legislation that will been needed for Cambodia to
-modernize it's library system to the same level as developed countries.
+modernize its library system to the same level as developed countries.
 
 The pilot program will establish a digitaliztion system and digital
 library on campus at Prek Leap National College of Agriculture, and
 convert existing items in the library into digital formats.  After the
 initial system is working, the pilot program will be expanded to
-include other universities as well as the Cambodian National Library.
+include other universities as invite the Cambodian National Library to
+participate.
 
 The first stage of work is expected to take 2-4 years and largely be
 staffed by volunteers and students interested in studying library and
 archival science.  The initial digitization system will focus on book,
 photo and art scanning using book scanners that will be built from
 open source plans and inexpensive parts.
-
 
 ---
 
