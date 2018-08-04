@@ -36,7 +36,7 @@
 - Chenla Scopic Press
 
 ** PNCA Programs
-- Library
+- [[./proj-library.org][Library]]
 - Fab Lab
 - Grass Lab
 - KH+50
