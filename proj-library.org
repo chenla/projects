@@ -31,7 +31,40 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
-** Scope
+
+** From 20th Century Teaching College to 21st Century Research University
+
+PNCA faces a number of challanges as it makes the transition from a
+teaching college to a research university of agriculture and
+technology.
+
+
+
+
+** b>i Research
+  
+
+
+
+  |-----------+-----------------------------------------------------------|
+  | Fab Lab   | Fabrication-Maker Laboratory-Workshop                     |
+  | Digi Lab  | Digital Libraries                                         |
+  | Robo Lab  | Robotics; drones, industrial, agricultural                |
+  | Media Lab | Digitization, Video Production, 3D models, Motion Capture |
+  | Viz Lab   | GPS, Mapping, Satellite Imaging & Processing              |
+  | Contex    | Big History, Info Literacy, Critical Thinking             |
+  | Grass Lab | Bamboo Industrial Supply & Production Chain               |
+  |-----------+-----------------------------------------------------------|
+  
+
+** Facilities
+
+ - Visualization Center/Media Studio
+ - FabLab 
+ - Digitization Center
+ - Open EdX, Openstack Computer & Storage Cluster
+
+** Library Project
 
 
 BMF was originally meant to be a platform for creating very long term
@@ -106,11 +139,11 @@ proof-of-concept pilot program software, a fifty year roadmap and
 recommendations for legislation that will been needed for Cambodia to
 modernize its library system to the same level as developed countries.
 
-The pilot program will establish a digitaliztion system and digital
+The pilot program will establish a digitalization system and digital
 library on campus at Prek Leap National College of Agriculture, and
 convert existing items in the library into digital formats.  After the
 initial system is working, the pilot program will be expanded to
-include other universities as invite the Cambodian National Library to
+include other universities and invite the Cambodian National Library to
 participate.
 
 The first stage of work is expected to take 2-4 years and largely be
@@ -122,9 +155,5 @@ open source plans and inexpensive parts.
 ---
 
 teach library, search and information literacy
-
-
-** TL;DR
-** References
 
 
