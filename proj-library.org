@@ -38,7 +38,83 @@ PNCA faces a number of challanges as it makes the transition from a
 teaching college to a research university of agriculture and
 technology.
 
+  - Cultivate policies & a culture where research is an key part
+    of teaching.
+  - Add new emerging technologies and techniques.
+  - Build a solid academic foundation for critical thinking,
+    intellectual inquiry and problem solving.
 
+Asking existing staff and departments to add new technologies is not
+easy.  The changes in the past 10 years in science and technology have
+not been steady incremental change.  Whole new disciplines are
+emerging that didn't exist 15 years ago.  Robotics, Artifical
+Intelligence, Complexity, Probability and Graph Theories, Satellite
+Positioning, Imaging and Mapping, 3D scanning, computer controlled
+routers, printers and laser cutters, Cloud Computing, Genetic Editing,
+Behavioral Economics and Big Data are just a few of the technologies
+that are transforming all parts of life and work.  Understanding what
+these technologies are and how to use them will be critical to anyone
+entering the job market over the next decade.
+
+The Chenla Institute proposes to help the school bridge this gap, by
+creating pilot programs that will develop new course material,
+projects and research in many of these fields.  The pilot programs
+will work with departments to develop new courses, prepare and train
+teachers, build and set up the infrastructure needed to use them.
+Once the pilot course is finished, and the department is comfortable
+with the material, the course will move into that department.
+
+We can also provide cross-disciplinary services that can be used by
+all departments.  In particular we see four core services:
+
+  - IT Cloud Computing, Storage and Online Courseware.
+  - A Permanent Media Lab for production of multimedia for use by
+    departments.
+  - A digital library system that will include a digital catalog, a
+    digitization lab for converting paper and other media into
+    electronic formats and an electronic library catalog system for
+    both students and staff that is connected to scientific,
+    agricultural and other technical papers, books and data from
+    around the world.
+  - A Fabrication Lab (or Fab Lab) that provides a workshop for
+    working with wood and metal as well as computer controlled
+    routers, laser cutters, 3D printers etc.
+
+These services can then be combined to create projects that would
+otherwise be impossible to do at the school.  For example:
+
+*GRASS LAB* Create an inexpensive production chain for turning bamboo
+into a wide variety of products.  Set up a bamboo treatment system
+using borax salt and chili pepper.  Process bamboo poles into "sticks"
+which are then glued together and pressed to create bamboo plywood.
+The bamboo plywood is then cut using a computer controlled CNC router
+to create furniture (SEE OpenDesk) and even whole buildings (SEE
+OpenHouse) from 3D models.
+
+*BIG HISTORY* Develop a two semester foundation-year class that
+provides students with a mental framework that ties together
+everything they will learn over the next four years of study.  It's
+important that students understand how what they learn in school fits
+into the big picture of how the world works and how everything is
+related to everything else.  It is important that students can tie
+themselves, their career, family, culture and history together.
+
+Big History focuses on developing information literacy, understanding
+how to find, evaluate and use information critically and the
+fundemental concepts and skills needed to do research by teaching a
+history of the universe that starts with the Big Bang and ends at the
+present day.  Big History is now taught around the world in more than
+twenty countries both at the High School and University level and is
+supported by the Bill Gates Foundation.
+
+*DOORSTEP* Develop a framework for small holding farmers to
+intensively develop the immediate area around their house for the
+production of a wide variety of food, improve the quality of rural and
+poor housing (using techniques developed by GRASS LAB) and leverage
+cloud computing and artificial intelligence networks to coordinate and
+make it possible for small businesses and farmers to do more local
+processing of agricultural products that can be aggregated using the
+network and 
 
 
 ** b>i Research
@@ -46,23 +122,19 @@ technology.
 
 
 
-  |-----------+-----------------------------------------------------------|
-  | Fab Lab   | Fabrication-Maker Laboratory-Workshop                     |
-  | Digi Lab  | Digital Libraries                                         |
-  | Robo Lab  | Robotics; drones, industrial, agricultural                |
-  | Media Lab | Digitization, Video Production, 3D models, Motion Capture |
-  | Viz Lab   | GPS, Mapping, Satellite Imaging & Processing              |
-  | Contex    | Big History, Info Literacy, Critical Thinking             |
-  | Grass Lab | Bamboo Industrial Supply & Production Chain               |
-  |-----------+-----------------------------------------------------------|
-  
 
-** Facilities
 
- - Visualization Center/Media Studio
- - FabLab 
- - Digitization Center
- - Open EdX, Openstack Computer & Storage Cluster
+  |-------------+-----------------------------------------------------------|
+  | Fab Lab     | Fabrication-Maker Laboratory-Workshop                     |
+  | Digi Lab    | Digital Libraries                                         |
+  | Robo Lab    | Robotics; drones, industrial, agricultural                |
+  | Media Lab   | Digitization, Video Production, 3D models, Motion Capture |
+  | Viz Lab     | GPS, Mapping, Satellite Imaging & Processing              |
+  |-------------+-----------------------------------------------------------|
+  | Big History | Info Literacy, Critical Thinking, Science as History      |
+  |-------------+-----------------------------------------------------------|
+  | Grass Lab   | Bamboo Industrial Supply & Production Chain               |
+  |-------------+-----------------------------------------------------------|
 
 ** Library Project
 
