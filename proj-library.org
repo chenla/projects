@@ -120,10 +120,6 @@ network and
 ** b>i Research
   
 
-
-
-
-
   |-------------+-----------------------------------------------------------|
   | Fab Lab     | Fabrication-Maker Laboratory-Workshop                     |
   | Digi Lab    | Digital Libraries                                         |
